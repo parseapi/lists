@@ -1,0 +1,157 @@
+currency,numeric,name,symbol,digits,countries
+AED,784,United Arab Emirates Dirham,د.إ,2,AE
+AFN,971,Afghan Afghani,؋,2,AF
+ALL,008,Albanian Lek,L,2,AL
+AMD,051,Armenian Dram,֏,2,AM
+ANG,532,Guilder,ƒ,2,CW SX
+AOA,973,Angolan Kwanza,Kz,2,AO
+ARS,032,Argentine Peso,$,2,AR
+AUD,036,Australian Dollar,A$,2,AU CC CX HM KI NF NR TV
+AWG,533,Aruban Florin,ƒ,2,AW
+AZN,944,Manat,₼,2,AZ
+BAM,977,Marka,KM,2,BA
+BBD,052,Dollar,Bds$,2,BB
+BDT,050,Bangladeshi Taka,৳,2,BD
+BGN,975,Lev,лв,2,BG
+BHD,048,Bahraini Dinar,ب.د,3,BH
+BIF,108,Franc,FBu,0,BI
+BMD,060,Dollar,$,2,BM
+BND,096,Dollar,B$,2,BN
+BOB,068,Boliviano,Bs.,2,BO
+BRL,986,Brazilian Real,R$,2,BR
+BSD,044,Bahamian Dollar,B$,2,BS
+BTN,064,Ngultrum,Nu.,2,BT
+BWP,072,Botswana Pula,P,2,BW
+BYN,933,Belarusian Ruble,Br,2,BY
+BZD,084,Dollar,BZ$,2,BZ
+CAD,124,Canadian Dollar,C$,2,CA
+CDF,976,Franc,FC,2,CD
+CHF,756,Swiss Franc,Fr,2,CH LI
+CLP,152,Chilean Peso,$,0,CL
+CNY,156,Chinese Yuan Renminbi,¥,2,CN
+COP,170,Colombian Peso,$,2,CO
+CRC,188,Colon,₡,2,CR
+CUP,192,Peso,$MN,2,CU
+CVE,132,Escudo,Esc,2,CV
+CZK,203,Koruna,Kč,2,CZ
+DJF,262,Franc,Fdj,0,DJ
+DKK,208,Danish Krone,kr,2,DK FO GL
+DOP,214,Peso,RD$,2,DO
+DZD,012,Algerian Dinar,د.ج,2,DZ
+EGP,818,Egyptian Pound,E£,2,EG
+ERN,232,Nakfa,Nfk,2,ER
+ETB,230,Birr,Br,2,ET
+EUR,978,Euro,€,2,AD AT AX BE BL CY DE EE ES FI FR GF GP GR IE IT LT LU LV MC ME MF MQ MT NL PM PT RE SI SK SM TF VA XK YT
+FJD,242,Dollar,$,2,FJ
+FKP,238,Pound,£,2,FK
+GBP,826,British Pound Sterling,£,2,GB GG GS IM JE
+GEL,981,Lari,₾,2,GE
+GHS,936,Ghanaian Cedi,₵,2,GH
+GIP,292,Gibraltar Pound,£,2,GI
+GMD,270,Dalasi,D,2,GM
+GNF,324,Franc,FG,0,GN
+GTQ,320,Quetzal,Q,2,GT
+GYD,328,Dollar,G$,2,GY
+HKD,344,Hong Kong Dollar,HK$,2,HK
+HNL,340,Lempira,L,2,HN
+HRK,191,Kuna,kn,2,HR
+HTG,332,Gourde,G,2,HT
+HUF,348,Forint,Ft,2,HU
+IDR,360,Indonesian Rupiah,Rp,2,ID
+ILS,376,Israeli New Shekel,₪,2,IL PS
+INR,356,Indian Rupee,₹,2,IN
+IQD,368,Dinar,ع.د,3,IQ
+IRR,364,Rial,﷼,2,IR
+ISK,352,Krona,kr,0,IS
+JMD,388,Dollar,J$,2,JM
+JOD,400,Jordanian Dinar,د.ا,3,JO
+JPY,392,Japanese Yen,¥,0,JP
+KES,404,Kenyan Shilling,KSh,2,KE
+KGS,417,Som,с,2,KG
+KHR,116,Riels,៛,2,KH
+KMF,174,Franc,CF,0,KM
+KPW,408,Won,₩,2,KP
+KRW,410,South Korean Won,₩,0,KR
+KWD,414,Kuwaiti Dinar,د.ك,3,KW
+KYD,136,Dollar,$,2,KY
+KZT,398,Tenge,₸,2,KZ
+LAK,418,Kip,₭,2,LA
+LBP,422,Lebanese Pound,ل.ل,2,LB
+LKR,144,Sri Lankan Rupee,Rs,2,LK
+LRD,430,Dollar,$,2,LR
+LSL,426,Loti,L,2,LS
+LYD,434,Dinar,ل.د,3,LY
+MAD,504,Moroccan Dirham,د.م.,2,EH MA
+MDL,498,Leu,L,2,MD
+MGA,969,Ariary,Ar,2,MG
+MKD,807,Denar,ден,2,MK
+MMK,104,Kyat,K,2,MM
+MNT,496,Tugrik,₮,2,MN
+MOP,446,Pataca,MOP$,2,MO
+MRU,929,Mauritanian Ouguiya,UM,2,MR
+MUR,480,Mauritian Rupee,₨,2,MU
+MVR,462,Rufiyaa,Rf,2,MV
+MWK,454,Kwacha,MK,2,MW
+MXN,484,Mexican Peso,$,2,MX
+MYR,458,Malaysian Ringgit,RM,2,MY
+MZN,943,Metical,MT,2,MZ
+NAD,516,Namibian Dollar,$,2,NA
+NGN,566,Nigerian Naira,₦,2,NG
+NIO,558,Cordoba,C$,2,NI
+NOK,578,Norwegian Krone,kr,2,BV NO SJ
+NPR,524,Nepalese Rupee,₨,2,NP
+NZD,554,Dollar,$,2,CK NU NZ PN TK
+OMR,512,Omani Rial,ر.ع.,3,OM
+PAB,590,Balboa,B/.,2,PA
+PEN,604,Peruvian Sol,S/.,2,PE
+PGK,598,Kina,K,2,PG
+PHP,608,Philippine Peso,₱,2,PH
+PKR,586,Pakistani Rupee,₨,2,PK
+PLN,985,Polish Zloty,zł,2,PL
+PYG,600,Guarani,₲,0,PY
+QAR,634,Qatari Riyal,﷼,2,QA
+RON,946,Leu,lei,2,RO
+RSD,941,Serbian Dinar,дин,2,RS
+RUB,643,Russian Ruble,₽,2,RU
+RWF,646,Franc,RF,0,RW
+SAR,682,Saudi Riyal,﷼,2,SA
+SBD,090,Dollar,SI$,2,SB
+SCR,690,Rupee,₨,2,SC
+SDG,938,Pound,ج.س.,2,SD
+SEK,752,Swedish Krona,kr,2,SE
+SGD,702,Singapore Dollar,S$,2,SG
+SHP,654,Pound,£,2,SH
+SLL,694,Leone,Le,2,SL
+SNO,,Snow Dollar,❄️,2,AQ
+SOS,706,Shilling,Sh,2,SO
+SRD,968,Dollar,SR$,2,SR
+SSP,728,South Sudanese Pound,£,2,SS
+STN,930,São Tomé and Príncipe Dobra,Db,2,ST
+SYP,760,Syrian Pound,£,2,SY
+SZL,748,Lilangeni,E,2,SZ
+THB,764,Thai Baht,฿,2,TH
+TJS,972,Somoni,ЅМ,2,TJ
+TMT,934,Manat,m,2,TM
+TND,788,Tunisian Dinar,د.ت,3,TN
+TOP,776,Pa'anga,T$,2,TO
+TRY,949,Turkish Lira,₺,2,TR
+TTD,780,Dollar,TT$,2,TT
+TWD,901,Dollar,NT$,2,TW
+TZS,834,Tanzanian Shilling,TSh,2,TZ
+UAH,980,Hryvnia,₴,2,UA
+UGX,800,Shilling,USh,0,UG
+USD,840,United States Dollar,$,2,AS BQ EC FM GU IO MH MP PR PW SV TC TL UM US VG VI
+UYU,858,Peso,$U,2,UY
+UZS,860,Som,сўм,2,UZ
+VEF,937,Bolivar,Bs,2,VE
+VND,704,Vietnamese Dong,₫,0,VN
+VUV,548,Vatu,VT,0,VU
+WST,882,Tala,T,2,WS
+XAF,950,Franc,FCFA,0,CF CG CM GA GQ TD
+XCD,951,East Caribbean Dollar,EC$,2,AG AI DM GD KN LC MS VC
+XOF,952,Franc,CFA,0,BF BJ CI GW ML NE SN TG
+XPF,953,Franc,₣,0,NC PF WF
+YER,886,Yemeni Rial,﷼,2,YE
+ZAR,710,South African Rand,R,2,ZA
+ZMW,967,Zambian Kwacha,ZK,2,ZM
+ZWL,932,Zimbabwean Dollar,$,2,ZW
