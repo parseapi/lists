@@ -1,251 +1,251 @@
-country,iso3,numeric,name,calling_code,emoji
-AD,AND,020,Andorra,+376,🇦🇩
-AE,ARE,784,United Arab Emirates,+971,🇦🇪
-AF,AFG,004,Afghanistan,+93,🇦🇫
-AG,ATG,028,Antigua and Barbuda,+1,🇦🇬
-AI,AIA,660,Anguilla,+1,🇦🇮
-AL,ALB,008,Albania,+355,🇦🇱
-AM,ARM,051,Armenia,+374,🇦🇲
-AO,AGO,024,Angola,+244,🇦🇴
-AQ,ATA,010,Antarctica,+672,🇦🇶
-AR,ARG,032,Argentina,+54,🇦🇷
-AS,ASM,016,American Samoa,+1,🇦🇸
-AT,AUT,040,Austria,+43,🇦🇹
-AU,AUS,036,Australia,+61,🇦🇺
-AW,ABW,533,Aruba,+297,🇦🇼
-AX,ALA,248,Aland Islands,+358,🇦🇽
-AZ,AZE,031,Azerbaijan,+994,🇦🇿
-BA,BIH,070,Bosnia and Herzegovina,+387,🇧🇦
-BB,BRB,052,Barbados,+1,🇧🇧
-BD,BGD,050,Bangladesh,+880,🇧🇩
-BE,BEL,056,Belgium,+32,🇧🇪
-BF,BFA,854,Burkina Faso,+226,🇧🇫
-BG,BGR,100,Bulgaria,+359,🇧🇬
-BH,BHR,048,Bahrain,+973,🇧🇭
-BI,BDI,108,Burundi,+257,🇧🇮
-BJ,BEN,204,Benin,+229,🇧🇯
-BL,BLM,652,Saint Barthelemy,+590,🇧🇱
-BM,BMU,060,Bermuda,+1,🇧🇲
-BN,BRN,096,Brunei,+673,🇧🇳
-BO,BOL,068,Bolivia,+591,🇧🇴
-BQ,BES,535,"Bonaire, Saint Eustatius and Saba ",+599,
-BR,BRA,076,Brazil,+55,🇧🇷
-BS,BHS,044,Bahamas,+1,🇧🇸
-BT,BTN,064,Bhutan,+975,🇧🇹
-BV,BVT,074,Bouvet Island,+55,🇧🇻
-BW,BWA,072,Botswana,+267,🇧🇼
-BY,BLR,112,Belarus,+375,🇧🇾
-BZ,BLZ,084,Belize,+501,🇧🇿
-CA,CAN,124,Canada,+1,🇨🇦
-CC,CCK,166,Cocos Islands,+61,🇨🇨
-CD,COD,180,Democratic Republic of the Congo,+243,🇨🇩
-CF,CAF,140,Central African Republic,+236,🇨🇫
-CG,COG,178,Republic of the Congo,+242,🇨🇬
-CH,CHE,756,Switzerland,+41,🇨🇭
-CI,CIV,384,Ivory Coast,+225,🇨🇮
-CK,COK,184,Cook Islands,+682,🇨🇰
-CL,CHL,152,Chile,+56,🇨🇱
-CM,CMR,120,Cameroon,+237,🇨🇲
-CN,CHN,156,China,+86,🇨🇳
-CO,COL,170,Colombia,+57,🇨🇴
-CR,CRI,188,Costa Rica,+506,🇨🇷
-CU,CUB,192,Cuba,+53,🇨🇺
-CV,CPV,132,Cape Verde,+238,🇨🇻
-CW,CUW,531,Curacao,+599,🇨🇼
-CX,CXR,162,Christmas Island,+61,🇨🇽
-CY,CYP,196,Cyprus,+357,🇨🇾
-CZ,CZE,203,Czechia,+420,🇨🇿
-DE,DEU,276,Germany,+49,🇩🇪
-DJ,DJI,262,Djibouti,+253,🇩🇯
-DK,DNK,208,Denmark,+45,🇩🇰
-DM,DMA,212,Dominica,+1,🇩🇲
-DO,DOM,214,Dominican Republic,+1,🇩🇴
-DZ,DZA,012,Algeria,+213,🇩🇿
-EC,ECU,218,Ecuador,+593,🇪🇨
-EE,EST,233,Estonia,+372,🇪🇪
-EG,EGY,818,Egypt,+20,🇪🇬
-EH,ESH,732,Western Sahara,+212,🇪🇭
-ER,ERI,232,Eritrea,+291,🇪🇷
-ES,ESP,724,Spain,+34,🇪🇸
-ET,ETH,231,Ethiopia,+251,🇪🇹
-FI,FIN,246,Finland,+358,🇫🇮
-FJ,FJI,242,Fiji,+679,🇫🇯
-FK,FLK,238,Falkland Islands,+500,🇫🇰
-FM,FSM,583,Micronesia,+691,🇫🇲
-FO,FRO,234,Faroe Islands,+298,🇫🇴
-FR,FRA,250,France,+33,🇫🇷
-GA,GAB,266,Gabon,+241,🇬🇦
-GB,GBR,826,United Kingdom,+44,🇬🇧
-GD,GRD,308,Grenada,+1,🇬🇩
-GE,GEO,268,Georgia,+995,🇬🇪
-GF,GUF,254,French Guiana,+594,🇬🇫
-GG,GGY,831,Guernsey,+44,🇬🇬
-GH,GHA,288,Ghana,+233,🇬🇭
-GI,GIB,292,Gibraltar,+350,🇬🇮
-GL,GRL,304,Greenland,+299,🇬🇱
-GM,GMB,270,Gambia,+220,🇬🇲
-GN,GIN,324,Guinea,+224,🇬🇳
-GP,GLP,312,Guadeloupe,+590,🇬🇵
-GQ,GNQ,226,Equatorial Guinea,+240,🇬🇶
-GR,GRC,300,Greece,+30,🇬🇷
-GS,SGS,239,South Georgia and the South Sandwich Islands,+500,🇬🇸
-GT,GTM,320,Guatemala,+502,🇬🇹
-GU,GUM,316,Guam,+1,🇬🇺
-GW,GNB,624,Guinea-Bissau,+245,🇬🇼
-GY,GUY,328,Guyana,+592,🇬🇾
-HK,HKG,344,Hong Kong,+852,🇭🇰
-HM,HMD,334,Heard Island and McDonald Islands,+672,🇭🇲
-HN,HND,340,Honduras,+504,🇭🇳
-HR,HRV,191,Croatia,+385,🇭🇷
-HT,HTI,332,Haiti,+509,🇭🇹
-HU,HUN,348,Hungary,+36,🇭🇺
-ID,IDN,360,Indonesia,+62,🇮🇩
-IE,IRL,372,Ireland,+353,🇮🇪
-IL,ISR,376,Israel,+972,🇮🇱
-IM,IMN,833,Isle of Man,+44,🇮🇲
-IN,IND,356,India,+91,🇮🇳
-IO,IOT,086,British Indian Ocean Territory,+246,🇮🇴
-IQ,IRQ,368,Iraq,+964,🇮🇶
-IR,IRN,364,Iran,+98,🇮🇷
-IS,ISL,352,Iceland,+354,🇮🇸
-IT,ITA,380,Italy,+39,🇮🇹
-JE,JEY,832,Jersey,+44,🇯🇪
-JM,JAM,388,Jamaica,+1,🇯🇲
-JO,JOR,400,Jordan,+962,🇯🇴
-JP,JPN,392,Japan,+81,🇯🇵
-KE,KEN,404,Kenya,+254,🇰🇪
-KG,KGZ,417,Kyrgyzstan,+996,🇰🇬
-KH,KHM,116,Cambodia,+855,🇰🇭
-KI,KIR,296,Kiribati,+686,🇰🇮
-KM,COM,174,Comoros,+269,🇰🇲
-KN,KNA,659,Saint Kitts and Nevis,+1,🇰🇳
-KP,PRK,408,North Korea,+850,🇰🇵
-KR,KOR,410,South Korea,+82,🇰🇷
-KW,KWT,414,Kuwait,+965,🇰🇼
-KY,CYM,136,Cayman Islands,+1,🇰🇾
-KZ,KAZ,398,Kazakhstan,+7,🇰🇿
-LA,LAO,418,Laos,+856,🇱🇦
-LB,LBN,422,Lebanon,+961,🇱🇧
-LC,LCA,662,Saint Lucia,+1,🇱🇨
-LI,LIE,438,Liechtenstein,+423,🇱🇮
-LK,LKA,144,Sri Lanka,+94,🇱🇰
-LR,LBR,430,Liberia,+231,🇱🇷
-LS,LSO,426,Lesotho,+266,🇱🇸
-LT,LTU,440,Lithuania,+370,🇱🇹
-LU,LUX,442,Luxembourg,+352,🇱🇺
-LV,LVA,428,Latvia,+371,🇱🇻
-LY,LBY,434,Libya,+218,🇱🇾
-MA,MAR,504,Morocco,+212,🇲🇦
-MC,MCO,492,Monaco,+377,🇲🇨
-MD,MDA,498,Moldova,+373,🇲🇩
-ME,MNE,499,Montenegro,+382,🇲🇪
-MF,MAF,663,Saint Martin,+590,🇲🇫
-MG,MDG,450,Madagascar,+261,🇲🇬
-MH,MHL,584,Marshall Islands,+692,🇲🇭
-MK,MKD,807,Macedonia,+389,🇲🇰
-ML,MLI,466,Mali,+223,🇲🇱
-MM,MMR,104,Myanmar,+95,🇲🇲
-MN,MNG,496,Mongolia,+976,🇲🇳
-MO,MAC,446,Macao,+853,🇲🇴
-MP,MNP,580,Northern Mariana Islands,+1,🇲🇵
-MQ,MTQ,474,Martinique,+596,🇲🇶
-MR,MRT,478,Mauritania,+222,🇲🇷
-MS,MSR,500,Montserrat,+1,🇲🇸
-MT,MLT,470,Malta,+356,🇲🇹
-MU,MUS,480,Mauritius,+230,🇲🇺
-MV,MDV,462,Maldives,+960,🇲🇻
-MW,MWI,454,Malawi,+265,🇲🇼
-MX,MEX,484,Mexico,+52,🇲🇽
-MY,MYS,458,Malaysia,+60,🇲🇾
-MZ,MOZ,508,Mozambique,+258,🇲🇿
-NA,NAM,516,Namibia,+264,🇳🇦
-NC,NCL,540,New Caledonia,+687,🇳🇨
-NE,NER,562,Niger,+227,🇳🇪
-NF,NFK,574,Norfolk Island,+672,🇳🇫
-NG,NGA,566,Nigeria,+234,🇳🇬
-NI,NIC,558,Nicaragua,+505,🇳🇮
-NL,NLD,528,Netherlands,+31,🇳🇱
-NO,NOR,578,Norway,+47,🇳🇴
-NP,NPL,524,Nepal,+977,🇳🇵
-NR,NRU,520,Nauru,+674,🇳🇷
-NU,NIU,570,Niue,+683,🇳🇺
-NZ,NZL,554,New Zealand,+64,🇳🇿
-OM,OMN,512,Oman,+968,🇴🇲
-PA,PAN,591,Panama,+507,🇵🇦
-PE,PER,604,Peru,+51,🇵🇪
-PF,PYF,258,French Polynesia,+689,🇵🇫
-PG,PNG,598,Papua New Guinea,+675,🇵🇬
-PH,PHL,608,Philippines,+63,🇵🇭
-PK,PAK,586,Pakistan,+92,🇵🇰
-PL,POL,616,Poland,+48,🇵🇱
-PM,SPM,666,Saint Pierre and Miquelon,+508,🇵🇲
-PN,PCN,612,Pitcairn,+870,🇵🇳
-PR,PRI,630,Puerto Rico,+1,🇵🇷
-PS,PSE,275,Palestinian Territory,+970,🇵🇸
-PT,PRT,620,Portugal,+351,🇵🇹
-PW,PLW,585,Palau,+680,🇵🇼
-PY,PRY,600,Paraguay,+595,🇵🇾
-QA,QAT,634,Qatar,+974,🇶🇦
-RE,REU,638,Reunion,+262,🇷🇪
-RO,ROU,642,Romania,+40,🇷🇴
-RS,SRB,688,Serbia,+381,🇷🇸
-RU,RUS,643,Russia,+7,🇷🇺
-RW,RWA,646,Rwanda,+250,🇷🇼
-SA,SAU,682,Saudi Arabia,+966,🇸🇦
-SB,SLB,090,Solomon Islands,+677,🇸🇧
-SC,SYC,690,Seychelles,+248,🇸🇨
-SD,SDN,729,Sudan,+249,🇸🇩
-SE,SWE,752,Sweden,+46,🇸🇪
-SG,SGP,702,Singapore,+65,🇸🇬
-SH,SHN,654,Saint Helena,+290,🇸🇭
-SI,SVN,705,Slovenia,+386,🇸🇮
-SJ,SJM,744,Svalbard and Jan Mayen,+47,🇸🇯
-SK,SVK,703,Slovakia,+421,🇸🇰
-SL,SLE,694,Sierra Leone,+232,🇸🇱
-SM,SMR,674,San Marino,+378,🇸🇲
-SN,SEN,686,Senegal,+221,🇸🇳
-SO,SOM,706,Somalia,+252,🇸🇴
-SR,SUR,740,Suriname,+597,🇸🇷
-SS,SSD,728,South Sudan,+211,🇸🇸
-ST,STP,678,Sao Tome and Principe,+239,🇸🇹
-SV,SLV,222,El Salvador,+503,🇸🇻
-SX,SXM,534,Sint Maarten,+1721,🇸🇽
-SY,SYR,760,Syria,+963,🇸🇾
-SZ,SWZ,748,Swaziland,+268,🇸🇿
-TC,TCA,796,Turks and Caicos Islands,+1,🇹🇨
-TD,TCD,148,Chad,+235,🇹🇩
-TF,ATF,260,French Southern Territories,+262,🇹🇫
-TG,TGO,768,Togo,+228,🇹🇬
-TH,THA,764,Thailand,+66,🇹🇭
-TJ,TJK,762,Tajikistan,+992,🇹🇯
-TK,TKL,772,Tokelau,+690,🇹🇰
-TL,TLS,626,East Timor,+670,🇹🇱
-TM,TKM,795,Turkmenistan,+993,🇹🇲
-TN,TUN,788,Tunisia,+216,🇹🇳
-TO,TON,776,Tonga,+676,🇹🇴
-TR,TUR,792,Turkey,+90,🇹🇷
-TT,TTO,780,Trinidad and Tobago,+1,🇹🇹
-TV,TUV,798,Tuvalu,+688,🇹🇻
-TW,TWN,158,Taiwan,+886,🇹🇼
-TZ,TZA,834,Tanzania,+255,🇹🇿
-UA,UKR,804,Ukraine,+380,🇺🇦
-UG,UGA,800,Uganda,+256,🇺🇬
-UM,UMI,581,United States Minor Outlying Islands,+1,🇺🇲
-US,USA,840,United States,+1,🇺🇸
-UY,URY,858,Uruguay,+598,🇺🇾
-UZ,UZB,860,Uzbekistan,+998,🇺🇿
-VA,VAT,336,Vatican,+379,🇻🇦
-VC,VCT,670,Saint Vincent and the Grenadines,+1,🇻🇨
-VE,VEN,862,Venezuela,+58,🇻🇪
-VG,VGB,092,British Virgin Islands,+1,🇻🇬
-VI,VIR,850,U.S. Virgin Islands,+1,🇻🇮
-VN,VNM,704,Vietnam,+84,🇻🇳
-VU,VUT,548,Vanuatu,+678,🇻🇺
-WF,WLF,876,Wallis and Futuna,+681,🇼🇫
-WS,WSM,882,Samoa,+685,🇼🇸
-XK,UNK,383,Kosovo,+383,🇽🇰
-YE,YEM,887,Yemen,+967,🇾🇪
-YT,MYT,175,Mayotte,+262,🇾🇹
-ZA,ZAF,710,South Africa,+27,🇿🇦
-ZM,ZMB,894,Zambia,+260,🇿🇲
-ZW,ZWE,716,Zimbabwe,+263,🇿🇼
+country,iso3,numeric,name,local_name,capital,continent,region,subregion,demonym,languages,currency,tld,calling_code,emoji,population,area
+AD,AND,020,Andorra,Andorra,Andorra la Vella,EU,Europe,Southern Europe,Andorran,ca,EUR,.ad,+376,🇦🇩,81938,468
+AE,ARE,784,United Arab Emirates,دولة الإمارات العربية المتحدة,Abu Dhabi,AS,Asia,Western Asia,Emirati,ar,AED,.ae,+971,🇦🇪,10986400,82880
+AF,AFG,004,Afghanistan,افغانستان,Kabul,AS,Asia,Southern Asia,Afghan,prs ps tk,AFN,.af,+93,🇦🇫,42647492,647500
+AG,ATG,028,Antigua and Barbuda,Antigua and Barbuda,St. John's,NA,Americas,Caribbean,"Antiguan, Barbudan",en,XCD,.ag,+1,🇦🇬,93772,443
+AI,AIA,660,Anguilla,Anguilla,The Valley,NA,Americas,Caribbean,Anguillian,en,XCD,.ai,+1,🇦🇮,13254,102
+AL,ALB,008,Albania,Shqipëria,Tirana,EU,Europe,Southeast Europe,Albanian,sq,ALL,.al,+355,🇦🇱,2377128,28748
+AM,ARM,051,Armenia,Հայաստան,Yerevan,AS,Asia,Western Asia,Armenian,hy,AMD,.am,+374,🇦🇲,3033500,29800
+AO,AGO,024,Angola,Angola,Luanda,AF,Africa,Middle Africa,Angolan,pt,AOA,.ao,+244,🇦🇴,37885849,1246700
+AQ,ATA,010,Antarctica,Antarctica,,AN,Antarctic,Antarctic,Antarctican,,SNO,.aq,+672,🇦🇶,,14000000
+AR,ARG,032,Argentina,Argentina,Buenos Aires,SA,Americas,South America,Argentine,gn es,ARS,.ar,+54,🇦🇷,45696159,2766890
+AS,ASM,016,American Samoa,American Samoa,Pago Pago,OC,Oceania,Polynesia,American Samoan,en sm,USD,.as,+1,🇦🇸,46765,199
+AT,AUT,040,Austria,Österreich,Vienna,EU,Europe,Central Europe,Austrian,bar,EUR,.at,+43,🇦🇹,9177982,83858
+AU,AUS,036,Australia,Australia,Canberra,OC,Oceania,Australia and New Zealand,Australian,en,AUD,.au,+61,🇦🇺,27196812,7686850
+AW,ABW,533,Aruba,Aruba,Oranjestad,NA,Americas,Caribbean,Aruban,nl pap,AWG,.aw,+297,🇦🇼,107995,193
+AX,ALA,248,Aland Islands,Åland,Mariehamn,EU,Europe,Northern Europe,Ålandish,sv,EUR,.ax,+358,🇦🇽,26711,1580
+AZ,AZE,031,Azerbaijan,Azərbaycan,Baku,AS,Asia,Western Asia,Azerbaijani,az ru,AZN,.az,+994,🇦🇿,10202830,86600
+BA,BIH,070,Bosnia and Herzegovina,Bosna i Hercegovina,Sarajevo,EU,Europe,Southeast Europe,"Bosnian, Herzegovinian",bs hr sr,BAM,.ba,+387,🇧🇦,3164253,51129
+BB,BRB,052,Barbados,Barbados,Bridgetown,NA,Americas,Caribbean,Barbadian,en,BBD,.bb,+1,🇧🇧,282467,431
+BD,BGD,050,Bangladesh,Bangladesh,Dhaka,AS,Asia,Southern Asia,Bangladeshi,bn,BDT,.bd,+880,🇧🇩,173562364,144000
+BE,BEL,056,Belgium,België,Brussels,EU,Europe,Western Europe,Belgian,de fr nl,EUR,.be,+32,🇧🇪,11858610,30510
+BF,BFA,854,Burkina Faso,Burkina Faso,Ouagadougou,AF,Africa,Western Africa,Burkinabe,fr,XOF,.bf,+226,🇧🇫,23548781,274200
+BG,BGR,100,Bulgaria,България,Sofia,EU,Europe,Southeast Europe,Bulgarian,bg,BGN,.bg,+359,🇧🇬,6441421,110910
+BH,BHR,048,Bahrain,‏البحرين,Manama,AS,Asia,Western Asia,Bahraini,ar,BHD,.bh,+973,🇧🇭,1588670,665
+BI,BDI,108,Burundi,Burundi,Bujumbura,AF,Africa,Eastern Africa,Burundian,fr rn,BIF,.bi,+257,🇧🇮,14047786,27830
+BJ,BEN,204,Benin,Bénin,Porto-Novo,AF,Africa,Western Africa,Beninese,fr,XOF,.bj,+229,🇧🇯,14462724,112620
+BL,BLM,652,Saint Barthelemy,Saint-Barthélemy,Gustavia,NA,Americas,Caribbean,Saint Barthélemy Islander,fr,EUR,.gp,+590,🇧🇱,8450,21
+BM,BMU,060,Bermuda,Bermuda,Hamilton,NA,Americas,Northern America,Bermudian,en,BMD,.bm,+1,🇧🇲,64636,53
+BN,BRN,096,Brunei,Negara Brunei Darussalam,Bandar Seri Begawan,AS,Asia,South-Eastern Asia,Bruneian,ms,BND,.bn,+673,🇧🇳,462721,5770
+BO,BOL,068,Bolivia,Bolivia,Sucre,SA,Americas,South America,Bolivian,ay gn qu es,BOB,.bo,+591,🇧🇴,12413315,1098580
+BQ,BES,535,"Bonaire, Saint Eustatius and Saba ",Caribisch Nederland,,NA,Americas,Caribbean,Dutch,en nl pap,USD,.bq,+599,,18012,328
+BR,BRA,076,Brazil,Brasil,Brasilia,SA,Americas,South America,Brazilian,pt,BRL,.br,+55,🇧🇷,211998573,8511965
+BS,BHS,044,Bahamas,Bahamas,Nassau,NA,Americas,Caribbean,Bahamian,en,BSD,.bs,+1,🇧🇸,401283,13940
+BT,BTN,064,Bhutan,ʼbrug-yul,Thimphu,AS,Asia,Southern Asia,Bhutanese,dz,BTN,.bt,+975,🇧🇹,791524,47000
+BV,BVT,074,Bouvet Island,Bouvetøya,,AN,Antarctic,Antarctic,,no,NOK,.bv,+55,🇧🇻,,49
+BW,BWA,072,Botswana,Botswana,Gaborone,AF,Africa,Southern Africa,Motswana,en tn,BWP,.bw,+267,🇧🇼,2521139,600370
+BY,BLR,112,Belarus,Белару́сь,Minsk,EU,Europe,Eastern Europe,Belarusian,be ru,BYN,.by,+375,🇧🇾,9132629,207600
+BZ,BLZ,084,Belize,Belize,Belmopan,NA,Americas,Central America,Belizean,bzj en es,BZD,.bz,+501,🇧🇿,417072,22966
+CA,CAN,124,Canada,Canada,Ottawa,NA,Americas,Northern America,Canadian,en,CAD,.ca,+1,🇨🇦,41288599,9984670
+CC,CCK,166,Cocos Islands,Cocos (Keeling) Islands,West Island,AS,Oceania,Australia and New Zealand,Cocos Islander,en,AUD,.cc,+61,🇨🇨,628,14
+CD,COD,180,Democratic Republic of the Congo,République démocratique du Congo,Kinshasa,AF,Africa,Middle Africa,Congolese,fr kg ln lua sw,CDF,.cd,+243,🇨🇩,109276265,2345410
+CF,CAF,140,Central African Republic,Ködörösêse tî Bêafrîka,Bangui,AF,Africa,Middle Africa,Central African,fr sg,XAF,.cf,+236,🇨🇫,5330690,622984
+CG,COG,178,Republic of the Congo,République du Congo,Brazzaville,AF,Africa,Middle Africa,Congolese,fr kg ln,XAF,.cg,+242,🇨🇬,6332961,342000
+CH,CHE,756,Switzerland,Schweiz,Bern,EU,Europe,Western Europe,Swiss,fr gsw it rm,CHF,.ch,+41,🇨🇭,9005582,41290
+CI,CIV,384,Ivory Coast,Cote D'Ivoire,Yamoussoukro,AF,Africa,Western Africa,Ivorian,fr,XOF,.ci,+225,🇨🇮,31934230,322460
+CK,COK,184,Cook Islands,Cook Islands,Avarua,OC,Oceania,Polynesia,Cook Islander,en rar,NZD,.ck,+682,🇨🇰,21388,240
+CL,CHL,152,Chile,Chile,Santiago,SA,Americas,South America,Chilean,es,CLP,.cl,+56,🇨🇱,19764771,756950
+CM,CMR,120,Cameroon,Cameroon,Yaounde,AF,Africa,Middle Africa,Cameroonian,en fr,XAF,.cm,+237,🇨🇲,29123744,475440
+CN,CHN,156,China,中国,Beijing,AS,Asia,Eastern Asia,Chinese,zh,CNY,.cn,+86,🇨🇳,1408975000,9596960
+CO,COL,170,Colombia,Colombia,Bogota,SA,Americas,South America,Colombian,es,COP,.co,+57,🇨🇴,52886363,1138910
+CR,CRI,188,Costa Rica,Costa Rica,San Jose,NA,Americas,Central America,Costa Rican,es,CRC,.cr,+506,🇨🇷,5129910,51100
+CU,CUB,192,Cuba,Cuba,Havana,NA,Americas,Caribbean,Cuban,es,CUP,.cu,+53,🇨🇺,10979783,110860
+CV,CPV,132,Cape Verde,Cabo Verde,Praia,AF,Africa,Western Africa,Cape Verdian,pt,CVE,.cv,+238,🇨🇻,524877,4033
+CW,CUW,531,Curacao,Curaçao,Willemstad,NA,Americas,Caribbean,Curaçaoan,en nl pap,ANG,.cw,+599,🇨🇼,155967,444
+CX,CXR,162,Christmas Island,Christmas Island,Flying Fish Cove,AS,Oceania,Australia and New Zealand,Christmas Islander,en,AUD,.cx,+61,🇨🇽,1500,135
+CY,CYP,196,Cyprus,Κύπρος,Nicosia,EU,Europe,Southern Europe,Cypriot,el tr,EUR,.cy,+357,🇨🇾,1358282,9250
+CZ,CZE,203,Czechia,Česká republika,Prague,EU,Europe,Central Europe,Czech,cs sk,CZK,.cz,+420,🇨🇿,10905028,78866
+DE,DEU,276,Germany,Deutschland,Berlin,EU,Europe,Western Europe,German,de,EUR,.de,+49,🇩🇪,83516593,357021
+DJ,DJI,262,Djibouti,Djibouti,Djibouti,AF,Africa,Eastern Africa,Djibouti,ar fr,DJF,.dj,+253,🇩🇯,1168722,23000
+DK,DNK,208,Denmark,Danmark,Copenhagen,EU,Europe,Northern Europe,Danish,da,DKK,.dk,+45,🇩🇰,5976992,43094
+DM,DMA,212,Dominica,Dominica,Roseau,NA,Americas,Caribbean,Dominican,en,XCD,.dm,+1,🇩🇲,66205,754
+DO,DOM,214,Dominican Republic,República Dominicana,Santo Domingo,NA,Americas,Caribbean,Dominican,es,DOP,.do,+1,🇩🇴,11427557,48730
+DZ,DZA,012,Algeria,الجزائر,Algiers,AF,Africa,Northern Africa,Algerian,ar,DZD,.dz,+213,🇩🇿,46814308,2381740
+EC,ECU,218,Ecuador,Ecuador,Quito,SA,Americas,South America,Ecuadorean,es,USD,.ec,+593,🇪🇨,18135478,283560
+EE,EST,233,Estonia,Eesti,Tallinn,EU,Europe,Northern Europe,Estonian,et,EUR,.ee,+372,🇪🇪,1372341,45226
+EG,EGY,818,Egypt,مصر‎,Cairo,AF,Africa,Northern Africa,Egyptian,ar,EGP,.eg,+20,🇪🇬,116538258,1001450
+EH,ESH,732,Western Sahara,الصحراء الغربية,El-Aaiun,AF,Africa,Northern Africa,Sahrawi,ber mey es,MAD,.eh,+212,🇪🇭,273008,266000
+ER,ERI,232,Eritrea,ኤርትራ,Asmara,AF,Africa,Eastern Africa,Eritrean,ar en ti,ERN,.er,+291,🇪🇷,3535603,121320
+ES,ESP,724,Spain,España,Madrid,EU,Europe,Southern Europe,Spanish,es,EUR,.es,+34,🇪🇸,48848840,504782
+ET,ETH,231,Ethiopia,ኢትዮጵያ,Addis Ababa,AF,Africa,Eastern Africa,Ethiopian,am,ETB,.et,+251,🇪🇹,132059767,1127127
+FI,FIN,246,Finland,Suomi,Helsinki,EU,Europe,Northern Europe,Finnish,fi sv,EUR,.fi,+358,🇫🇮,5619911,337030
+FJ,FJI,242,Fiji,Fiji,Suva,OC,Oceania,Melanesia,Fijian,en fj hif,FJD,.fj,+679,🇫🇯,928784,18270
+FK,FLK,238,Falkland Islands,Falkland Islands,Stanley,SA,Americas,South America,Falkland Islander,en,FKP,.fk,+500,🇫🇰,2638,12173
+FM,FSM,583,Micronesia,Micronesia,Palikir,OC,Oceania,Micronesia,Micronesian,en,USD,.fm,+691,🇫🇲,113160,702
+FO,FRO,234,Faroe Islands,Føroyar,Torshavn,EU,Europe,Northern Europe,Faroese,da fo,DKK,.fo,+298,🇫🇴,54681,1399
+FR,FRA,250,France,France,Paris,EU,Europe,Western Europe,French,fr,EUR,.fr,+33,🇫🇷,68551653,547030
+GA,GAB,266,Gabon,Gabon,Libreville,AF,Africa,Middle Africa,Gabonese,fr,XAF,.ga,+241,🇬🇦,2538952,267667
+GB,GBR,826,United Kingdom,United Kingdom,London,EU,Europe,Northern Europe,British,en,GBP,.uk,+44,🇬🇧,69226000,244820
+GD,GRD,308,Grenada,Grenada,St. George's,NA,Americas,Caribbean,Grenadian,en,XCD,.gd,+1,🇬🇩,117207,344
+GE,GEO,268,Georgia,საქართველო,Tbilisi,AS,Asia,Western Asia,Georgian,ka,GEL,.ge,+995,🇬🇪,3699557,69700
+GF,GUF,254,French Guiana,Guyane française,Cayenne,SA,Americas,South America,Guianan,fr,EUR,.gf,+594,🇬🇫,195506,91000
+GG,GGY,831,Guernsey,Guernsey,St Peter Port,EU,Europe,Northern Europe,Channel Islander,en fr nrf,GBP,.gg,+44,🇬🇬,65228,78
+GH,GHA,288,Ghana,Ghana,Accra,AF,Africa,Western Africa,Ghanaian,en,GHS,.gh,+233,🇬🇭,34427414,239460
+GI,GIB,292,Gibraltar,Gibraltar,Gibraltar,EU,Europe,Southern Europe,Gibraltar,en,GIP,.gi,+350,🇬🇮,39329,7
+GL,GRL,304,Greenland,Kalaallit Nunaat,Nuuk,NA,Americas,Northern America,Greenlandic,kl,DKK,.gl,+299,🇬🇱,56836,2166086
+GM,GMB,270,Gambia,Gambia,Banjul,AF,Africa,Western Africa,Gambian,en,GMD,.gm,+220,🇬🇲,2759988,11300
+GN,GIN,324,Guinea,Guinée,Conakry,AF,Africa,Western Africa,Guinean,fr,GNF,.gn,+224,🇬🇳,14754785,245857
+GP,GLP,312,Guadeloupe,Guadeloupe,Basse-Terre,NA,Americas,Caribbean,Guadeloupian,fr,EUR,.gp,+590,🇬🇵,443000,1780
+GQ,GNQ,226,Equatorial Guinea,Guinea Ecuatorial,Malabo,AF,Africa,Middle Africa,Equatorial Guinean,fr pt es,XAF,.gq,+240,🇬🇶,1892516,28051
+GR,GRC,300,Greece,Ελλάδα,Athens,EU,Europe,Southern Europe,Greek,el,EUR,.gr,+30,🇬🇷,10405134,131940
+GS,SGS,239,South Georgia and the South Sandwich Islands,South Georgia,Grytviken,AN,Antarctic,Antarctic,South Georgian South Sandwich Islander,en,GBP,.gs,+500,🇬🇸,30,3903
+GT,GTM,320,Guatemala,Guatemala,Guatemala City,NA,Americas,Central America,Guatemalan,es,GTQ,.gt,+502,🇬🇹,18406359,108890
+GU,GUM,316,Guam,Guam,Hagatna,OC,Oceania,Micronesia,Guamanian,ch en es,USD,.gu,+1,🇬🇺,167777,549
+GW,GNB,624,Guinea-Bissau,Guiné-Bissau,Bissau,AF,Africa,Western Africa,Guinea-Bissauan,pt pov,XOF,.gw,+245,🇬🇼,2201352,36120
+GY,GUY,328,Guyana,Guyana,Georgetown,SA,Americas,South America,Guyanese,en,GYD,.gy,+592,🇬🇾,831087,214970
+HK,HKG,344,Hong Kong,香港,Hong Kong,AS,Asia,Eastern Asia,Hong Konger,en zh,HKD,.hk,+852,🇭🇰,7524100,1092
+HM,HMD,334,Heard Island and McDonald Islands,Heard Island and McDonald Islands,,AN,Antarctic,Antarctic,Heard and McDonald Islander,en,AUD,.hm,+672,🇭🇲,,412
+HN,HND,340,Honduras,Honduras,Tegucigalpa,NA,Americas,Central America,Honduran,es,HNL,.hn,+504,🇭🇳,10825703,112090
+HR,HRV,191,Croatia,Hrvatska,Zagreb,EU,Europe,Southeast Europe,Croatian,hr,HRK,.hr,+385,🇭🇷,3866200,56542
+HT,HTI,332,Haiti,Haïti,Port-au-Prince,NA,Americas,Caribbean,Haitian,fr ht,HTG,.ht,+509,🇭🇹,11772557,27750
+HU,HUN,348,Hungary,Magyarország,Budapest,EU,Europe,Central Europe,Hungarian,hu,HUF,.hu,+36,🇭🇺,9562065,93030
+ID,IDN,360,Indonesia,Indonesia,Jakarta,AS,Asia,South-Eastern Asia,Indonesian,id,IDR,.id,+62,🇮🇩,283487931,1919440
+IE,IRL,372,Ireland,Éire,Dublin,EU,Europe,Northern Europe,Irish,en ga,EUR,.ie,+353,🇮🇪,5395790,70280
+IL,ISR,376,Israel,יִשְׂרָאֵל,Jerusalem,AS,Asia,Western Asia,Israeli,ar he,ILS,.il,+972,🇮🇱,9974400,20770
+IM,IMN,833,Isle of Man,Isle of Man,Douglas,EU,Europe,Northern Europe,Manx,en gv,GBP,.im,+44,🇮🇲,84160,572
+IN,IND,356,India,भारत,New Delhi,AS,Asia,Southern Asia,Indian,en hi ta,INR,.in,+91,🇮🇳,1450935791,3287590
+IO,IOT,086,British Indian Ocean Territory,British Indian Ocean Territory,Diego Garcia,AS,Africa,Eastern Africa,Indian,en,USD,.io,+246,🇮🇴,4000,60
+IQ,IRQ,368,Iraq,العراق,Baghdad,AS,Asia,Western Asia,Iraqi,ar syr ckb,IQD,.iq,+964,🇮🇶,46042015,437072
+IR,IRN,364,Iran,ایران,Tehran,AS,Asia,Southern Asia,Iranian,fa,IRR,.ir,+98,🇮🇷,91567738,1648000
+IS,ISL,352,Iceland,Ísland,Reykjavik,EU,Europe,Northern Europe,Icelander,is,ISK,.is,+354,🇮🇸,386506,103000
+IT,ITA,380,Italy,Italia,Rome,EU,Europe,Southern Europe,Italian,it,EUR,.it,+39,🇮🇹,58952704,301230
+JE,JEY,832,Jersey,Jersey,Saint Helier,EU,Europe,Northern Europe,Channel Islander,en fr nrf,GBP,.je,+44,🇯🇪,90812,116
+JM,JAM,388,Jamaica,Jamaica,Kingston,NA,Americas,Caribbean,Jamaican,en jam,JMD,.jm,+1,🇯🇲,2839175,10991
+JO,JOR,400,Jordan,الأردن,Amman,AS,Asia,Western Asia,Jordanian,ar,JOD,.jo,+962,🇯🇴,11552876,92300
+JP,JPN,392,Japan,日本,Tokyo,AS,Asia,Eastern Asia,Japanese,ja,JPY,.jp,+81,🇯🇵,123975371,377835
+KE,KEN,404,Kenya,Kenya,Nairobi,AF,Africa,Eastern Africa,Kenyan,en sw,KES,.ke,+254,🇰🇪,56432944,582650
+KG,KGZ,417,Kyrgyzstan,Кыргызстан,Bishkek,AS,Asia,Central Asia,Kirghiz,ky ru,KGS,.kg,+996,🇰🇬,7221868,198500
+KH,KHM,116,Cambodia,Kâmpŭchéa,Phnom Penh,AS,Asia,South-Eastern Asia,Cambodian,km,KHR,.kh,+855,🇰🇭,17638801,181040
+KI,KIR,296,Kiribati,Kiribati,Tarawa,OC,Oceania,Micronesia,I-Kiribati,en gil,AUD,.ki,+686,🇰🇮,134518,811
+KM,COM,174,Comoros,Komori,Moroni,AF,Africa,Eastern Africa,Comoran,ar fr zdj,KMF,.km,+269,🇰🇲,866628,2170
+KN,KNA,659,Saint Kitts and Nevis,Saint Kitts and Nevis,Basseterre,NA,Americas,Caribbean,Kittitian or Nevisian,en,XCD,.kn,+1,🇰🇳,46843,261
+KP,PRK,408,North Korea,북한,Pyongyang,AS,Asia,Eastern Asia,North Korean,ko,KPW,.kp,+850,🇰🇵,26498823,120540
+KR,KOR,410,South Korea,대한민국,Seoul,AS,Asia,Eastern Asia,South Korean,ko,KRW,.kr,+82,🇰🇷,51751065,98480
+KW,KWT,414,Kuwait,الكويت,Kuwait City,AS,Asia,Western Asia,Kuwaiti,ar,KWD,.kw,+965,🇰🇼,4897263,17820
+KY,CYM,136,Cayman Islands,Cayman Islands,George Town,NA,Americas,Caribbean,Caymanian,en,KYD,.ky,+1,🇰🇾,74457,262
+KZ,KAZ,398,Kazakhstan,Қазақстан,Astana,AS,Asia,Central Asia,Kazakhstani,kk ru,KZT,.kz,+7,🇰🇿,20592571,2717300
+LA,LAO,418,Laos,ສປປລາວ,Vientiane,AS,Asia,South-Eastern Asia,Laotian,lo,LAK,.la,+856,🇱🇦,7769819,236800
+LB,LBN,422,Lebanon,لبنان,Beirut,AS,Asia,Western Asia,Lebanese,ar fr,LBP,.lb,+961,🇱🇧,5805962,10400
+LC,LCA,662,Saint Lucia,Saint Lucia,Castries,NA,Americas,Caribbean,Saint Lucian,en,XCD,.lc,+1,🇱🇨,179744,616
+LI,LIE,438,Liechtenstein,Liechtenstein,Vaduz,EU,Europe,Western Europe,Liechtensteiner,de,CHF,.li,+423,🇱🇮,40450,160
+LK,LKA,144,Sri Lanka,śrī laṃkāva,Colombo,AS,Asia,Southern Asia,Sri Lankan,si ta,LKR,.lk,+94,🇱🇰,21916000,65610
+LR,LBR,430,Liberia,Liberia,Monrovia,AF,Africa,Western Africa,Liberian,en,LRD,.lr,+231,🇱🇷,5612817,111370
+LS,LSO,426,Lesotho,Lesotho,Maseru,AF,Africa,Southern Africa,Mosotho,en st,LSL,.ls,+266,🇱🇸,2337423,30355
+LT,LTU,440,Lithuania,Lietuva,Vilnius,EU,Europe,Northern Europe,Lithuanian,lt,EUR,.lt,+370,🇱🇹,2888278,65200
+LU,LUX,442,Luxembourg,Luxembourg,Luxembourg,EU,Europe,Western Europe,Luxembourger,de fr lb,EUR,.lu,+352,🇱🇺,677012,2586
+LV,LVA,428,Latvia,Latvija,Riga,EU,Europe,Northern Europe,Latvian,lv,EUR,.lv,+371,🇱🇻,1866124,64589
+LY,LBY,434,Libya,‏ليبيا,Tripoli,AF,Africa,Northern Africa,Libyan,ar,LYD,.ly,+218,🇱🇾,7381023,1759540
+MA,MAR,504,Morocco,المغرب,Rabat,AF,Africa,Northern Africa,Moroccan,ar ber,MAD,.ma,+212,🇲🇦,38081173,446550
+MC,MCO,492,Monaco,Monaco,Monaco,EU,Europe,Western Europe,Monegasque,fr,EUR,.mc,+377,🇲🇨,38631,2
+MD,MDA,498,Moldova,Moldova,Chisinau,EU,Europe,Eastern Europe,Moldovan,ro,MDL,.md,+373,🇲🇩,2402306,33843
+ME,MNE,499,Montenegro,Црна Гора,Podgorica,EU,Europe,Southeast Europe,Montenegrin,cnr,EUR,.me,+382,🇲🇪,623525,14026
+MF,MAF,663,Saint Martin,Saint-Martin,Marigot,NA,Americas,Caribbean,Saint Martin Islander,fr,EUR,.gp,+590,🇲🇫,26129,53
+MG,MDG,450,Madagascar,Madagasikara,Antananarivo,AF,Africa,Eastern Africa,Malagasy,fr mg,MGA,.mg,+261,🇲🇬,31964956,587040
+MH,MHL,584,Marshall Islands,M̧ajeļ,Majuro,OC,Oceania,Micronesia,Marshallese,en mh,USD,.mh,+692,🇲🇭,37548,181
+MK,MKD,807,Macedonia,Северна Македонија,Skopje,EU,Europe,Southeast Europe,Macedonian,mk,MKD,.mk,+389,🇲🇰,1824359,25333
+ML,MLI,466,Mali,Mali,Bamako,AF,Africa,Western Africa,Malian,fr,XOF,.ml,+223,🇲🇱,24478595,1240000
+MM,MMR,104,Myanmar,မြန်မာ,Nay Pyi Taw,AS,Asia,South-Eastern Asia,Burmese,my,MMK,.mm,+95,🇲🇲,54500091,678500
+MN,MNG,496,Mongolia,Монгол улс,Ulan Bator,AS,Asia,Eastern Asia,Mongolian,mn,MNT,.mn,+976,🇲🇳,3524788,1565000
+MO,MAC,446,Macao,澳門,Macao,AS,Asia,Eastern Asia,Macanese,pt zh,MOP,.mo,+853,🇲🇴,687000,254
+MP,MNP,580,Northern Mariana Islands,Northern Mariana Islands,Saipan,OC,Oceania,Micronesia,American,cal ch en,USD,.mp,+1,🇲🇵,44278,477
+MQ,MTQ,474,Martinique,Martinique,Fort-de-France,NA,Americas,Caribbean,Martinican,fr,EUR,.mq,+596,🇲🇶,432900,1100
+MR,MRT,478,Mauritania,موريتانيا,Nouakchott,AF,Africa,Western Africa,Mauritanian,ar,MRU,.mr,+222,🇲🇷,5169395,1030700
+MS,MSR,500,Montserrat,Montserrat,Plymouth,NA,Americas,Caribbean,Montserratian,en,XCD,.ms,+1,🇲🇸,9341,102
+MT,MLT,470,Malta,Malta,Valletta,EU,Europe,Southern Europe,Maltese,en mt,EUR,.mt,+356,🇲🇹,568847,316
+MU,MUS,480,Mauritius,Maurice,Port Louis,AF,Africa,Eastern Africa,Mauritian,en fr mfe,MUR,.mu,+230,🇲🇺,1245779,2040
+MV,MDV,462,Maldives,Maldives,Male,AS,Asia,Southern Asia,Maldivan,dv,MVR,.mv,+960,🇲🇻,527799,300
+MW,MWI,454,Malawi,Malawi,Lilongwe,AF,Africa,Eastern Africa,Malawian,en ny,MWK,.mw,+265,🇲🇼,21655286,118480
+MX,MEX,484,Mexico,México,Mexico City,NA,Americas,Northern America,Mexican,es,MXN,.mx,+52,🇲🇽,130861007,1972550
+MY,MYS,458,Malaysia,Malaysia,Kuala Lumpur,AS,Asia,South-Eastern Asia,Malaysian,en ms,MYR,.my,+60,🇲🇾,35557673,329750
+MZ,MOZ,508,Mozambique,Moçambique,Maputo,AF,Africa,Eastern Africa,Mozambican,pt,MZN,.mz,+258,🇲🇿,34631766,801590
+NA,NAM,516,Namibia,Namibia,Windhoek,AF,Africa,Southern Africa,Namibian,af de en hz naq kwn loz ng tn,NAD,.na,+264,🇳🇦,3030131,825418
+NC,NCL,540,New Caledonia,Nouvelle-Calédonie,Noumea,OC,Oceania,Melanesia,New Caledonian,fr,XPF,.nc,+687,🇳🇨,292639,19060
+NE,NER,562,Niger,Niger,Niamey,AF,Africa,Western Africa,Nigerien,fr,XOF,.ne,+227,🇳🇪,27032412,1267000
+NF,NFK,574,Norfolk Island,Norfolk Island,Kingston,OC,Oceania,Australia and New Zealand,Norfolk Islander,en pih,AUD,.nf,+672,🇳🇫,1828,35
+NG,NGA,566,Nigeria,Nigeria,Abuja,AF,Africa,Western Africa,Nigerian,en,NGN,.ng,+234,🇳🇬,232679478,923768
+NI,NIC,558,Nicaragua,Nicaragua,Managua,NA,Americas,Central America,Nicaraguan,es,NIO,.ni,+505,🇳🇮,6916140,129494
+NL,NLD,528,Netherlands,Nederland,Amsterdam,EU,Europe,Western Europe,Dutch,nl,EUR,.nl,+31,🇳🇱,17993485,41526
+NO,NOR,578,Norway,Norge,Oslo,EU,Europe,Northern Europe,Norwegian,nn nb smi,NOK,.no,+47,🇳🇴,5572279,324220
+NP,NPL,524,Nepal,नेपाल,Kathmandu,AS,Asia,Southern Asia,Nepalese,ne,NPR,.np,+977,🇳🇵,29651054,140800
+NR,NRU,520,Nauru,Nauru,Yaren,OC,Oceania,Micronesia,Nauruan,en na,AUD,.nr,+674,🇳🇷,11947,21
+NU,NIU,570,Niue,Niuē,Alofi,OC,Oceania,Polynesia,Niuean,en niu,NZD,.nu,+683,🇳🇺,2166,260
+NZ,NZL,554,New Zealand,New Zealand,Wellington,OC,Oceania,Australia and New Zealand,New Zealander,en mi nzs,NZD,.nz,+64,🇳🇿,5287500,268680
+OM,OMN,512,Oman,عمان,Muscat,AS,Asia,Western Asia,Omani,ar,OMR,.om,+968,🇴🇲,5281538,212460
+PA,PAN,591,Panama,Panamá,Panama City,NA,Americas,Central America,Panamanian,es,PAB,.pa,+507,🇵🇦,4515577,78200
+PE,PER,604,Peru,Perú,Lima,SA,Americas,South America,Peruvian,ay qu es,PEN,.pe,+51,🇵🇪,34217848,1285220
+PF,PYF,258,French Polynesia,Polynésie française,Papeete,OC,Oceania,Polynesia,French Polynesian,fr,XPF,.pf,+689,🇵🇫,281807,4167
+PG,PNG,598,Papua New Guinea,Papua Niugini,Port Moresby,OC,Oceania,Melanesia,Papua New Guinean,en ho tpi,PGK,.pg,+675,🇵🇬,10576502,462840
+PH,PHL,608,Philippines,Pilipinas,Manila,AS,Asia,South-Eastern Asia,Filipino,en fil,PHP,.ph,+63,🇵🇭,115843670,300000
+PK,PAK,586,Pakistan,پاکستان,Islamabad,AS,Asia,Southern Asia,Pakistani,en ur,PKR,.pk,+92,🇵🇰,251269164,803940
+PL,POL,616,Poland,Polska,Warsaw,EU,Europe,Central Europe,Polish,pl,PLN,.pl,+48,🇵🇱,36559233,312685
+PM,SPM,666,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,Saint-Pierre,NA,Americas,Northern America,"Saint-Pierrais, Miquelonnais",fr,EUR,.pm,+508,🇵🇲,7012,242
+PN,PCN,612,Pitcairn,Pitcairn Islands,Adamstown,OC,Oceania,Polynesia,Pitcairn Islander,en,NZD,.pn,+870,🇵🇳,46,47
+PR,PRI,630,Puerto Rico,Puerto Rico,San Juan,NA,Americas,Caribbean,Puerto Rican,en es,USD,.pr,+1,🇵🇷,3203295,9104
+PS,PSE,275,Palestinian Territory,فلسطين,East Jerusalem,AS,Asia,Western Asia,Palestinian,ar,ILS,.ps,+970,🇵🇸,5289152,5970
+PT,PRT,620,Portugal,Portugal,Lisbon,EU,Europe,Southern Europe,Portuguese,pt,EUR,.pt,+351,🇵🇹,10694681,92391
+PW,PLW,585,Palau,Palau,Melekeok,OC,Oceania,Micronesia,Palauan,en pau,USD,.pw,+680,🇵🇼,17695,458
+PY,PRY,600,Paraguay,Paraguay,Asuncion,SA,Americas,South America,Paraguayan,gn es,PYG,.py,+595,🇵🇾,6929153,406750
+QA,QAT,634,Qatar,قطر,Doha,AS,Asia,Western Asia,Qatari,ar,QAR,.qa,+974,🇶🇦,2857822,11437
+RE,REU,638,Reunion,La Réunion,Saint-Denis,AF,Africa,Eastern Africa,Réunionese,fr,EUR,.re,+262,🇷🇪,776948,2517
+RO,ROU,642,Romania,România,Bucharest,EU,Europe,Southeast Europe,Romanian,ro,RON,.ro,+40,🇷🇴,19051804,237500
+RS,SRB,688,Serbia,Србија,Belgrade,EU,Europe,Southeast Europe,Serbian,sr,RSD,.rs,+381,🇷🇸,6586476,88361
+RU,RUS,643,Russia,Россия,Moscow,EU,Europe,Eastern Europe,Russian,ru,RUB,.ru,+7,🇷🇺,143533851,17100000
+RW,RWA,646,Rwanda,Rwanda,Kigali,AF,Africa,Eastern Africa,Rwandan,en fr rw,RWF,.rw,+250,🇷🇼,14256567,26338
+SA,SAU,682,Saudi Arabia,المملكة العربية السعودية,Riyadh,AS,Asia,Western Asia,Saudi Arabian,ar,SAR,.sa,+966,🇸🇦,35300280,1960582
+SB,SLB,090,Solomon Islands,Solomon Islands,Honiara,OC,Oceania,Melanesia,Solomon Islander,en,SBD,.sb,+677,🇸🇧,819198,28450
+SC,SYC,690,Seychelles,Seychelles,Victoria,AF,Africa,Eastern Africa,Seychellois,crs en fr,SCR,.sc,+248,🇸🇨,121354,455
+SD,SDN,729,Sudan,السودان,Khartoum,AF,Africa,Northern Africa,Sudanese,ar en,SDG,.sd,+249,🇸🇩,50448963,1861484
+SE,SWE,752,Sweden,Sverige,Stockholm,EU,Europe,Northern Europe,Swedish,sv,SEK,.se,+46,🇸🇪,10569709,449964
+SG,SGP,702,Singapore,Singapore,Singapore,AS,Asia,South-Eastern Asia,Singaporean,en ms ta zh,SGD,.sg,+65,🇸🇬,6036860,693
+SH,SHN,654,Saint Helena,Saint Helena,Jamestown,AF,Africa,Western Africa,Saint Helenian,en,SHP,.sh,+290,🇸🇭,7460,410
+SI,SVN,705,Slovenia,Slovenija,Ljubljana,EU,Europe,Central Europe,Slovene,sl,EUR,.si,+386,🇸🇮,2127400,20273
+SJ,SJM,744,Svalbard and Jan Mayen,Svalbard og Jan Mayen,Longyearbyen,EU,Europe,Northern Europe,Norwegian,no,NOK,.sj,+47,🇸🇯,2550,62049
+SK,SVK,703,Slovakia,Slovensko,Bratislava,EU,Europe,Central Europe,Slovak,sk,EUR,.sk,+421,🇸🇰,5422069,48845
+SL,SLE,694,Sierra Leone,Sierra Leone,Freetown,AF,Africa,Western Africa,Sierra Leonean,en,SLL,.sl,+232,🇸🇱,8642022,71740
+SM,SMR,674,San Marino,San Marino,San Marino,EU,Europe,Southern Europe,Sammarinese,it,EUR,.sm,+378,🇸🇲,33977,61
+SN,SEN,686,Senegal,Sénégal,Dakar,AF,Africa,Western Africa,Senegalese,fr,XOF,.sn,+221,🇸🇳,18501984,196190
+SO,SOM,706,Somalia,Soomaaliya,Mogadishu,AF,Africa,Eastern Africa,Somali,ar so,SOS,.so,+252,🇸🇴,19009151,637657
+SR,SUR,740,Suriname,Suriname,Paramaribo,SA,Americas,South America,Surinamer,nl,SRD,.sr,+597,🇸🇷,634431,163270
+SS,SSD,728,South Sudan,South Sudan,Juba,AF,Africa,Middle Africa,South Sudanese,en,SSP,,+211,🇸🇸,11943408,644329
+ST,STP,678,Sao Tome and Principe,São Tomé e Príncipe,Sao Tome,AF,Africa,Middle Africa,Sao Tomean,pt,STN,.st,+239,🇸🇹,235536,1001
+SV,SLV,222,El Salvador,El Salvador,San Salvador,NA,Americas,Central America,Salvadoran,es,USD,.sv,+503,🇸🇻,6338193,21040
+SX,SXM,534,Sint Maarten,Sint Maarten,Philipsburg,NA,Americas,Caribbean,St. Maartener,en fr nl,ANG,.sx,+1721,🇸🇽,43350,21
+SY,SYR,760,Syria,سوريا,Damascus,AS,Asia,Western Asia,Syrian,ar,SYP,.sy,+963,🇸🇾,24672760,185180
+SZ,SWZ,748,Swaziland,Swaziland,Mbabane,AF,Africa,Southern Africa,Swazi,en ss,SZL,.sz,+268,🇸🇿,1242822,17363
+TC,TCA,796,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town,NA,Americas,Caribbean,Turks and Caicos Islander,en,USD,.tc,+1,🇹🇨,46535,430
+TD,TCD,148,Chad,Tchad,N'Djamena,AF,Africa,Middle Africa,Chadian,ar fr,XAF,.td,+235,🇹🇩,20299123,1284000
+TF,ATF,260,French Southern Territories,Territoire des Terres australes et antarctiques fr,Port-aux-Francais,AN,Antarctic,Antarctic,French,fr,EUR,.tf,+262,🇹🇫,140,7829
+TG,TGO,768,Togo,Togo,Lome,AF,Africa,Western Africa,Togolese,fr,XOF,.tg,+228,🇹🇬,9515236,56785
+TH,THA,764,Thailand,ประเทศไทย,Bangkok,AS,Asia,South-Eastern Asia,Thai,th,THB,.th,+66,🇹🇭,71668011,514000
+TJ,TJK,762,Tajikistan,Тоҷикистон,Dushanbe,AS,Asia,Central Asia,Tadzhik,ru tg,TJS,.tj,+992,🇹🇯,10590927,143100
+TK,TKL,772,Tokelau,Tokelau,,OC,Oceania,Polynesia,Tokelauan,en sm tkl,NZD,.tk,+690,🇹🇰,1466,10
+TL,TLS,626,East Timor,Timor-Leste,Dili,OC,Asia,South-Eastern Asia,East Timorese,pt tet,USD,.tl,+670,🇹🇱,1400638,15007
+TM,TKM,795,Turkmenistan,Türkmenistan,Ashgabat,AS,Asia,Central Asia,Turkmen,ru tk,TMT,.tm,+993,🇹🇲,7494498,488100
+TN,TUN,788,Tunisia,تونس,Tunis,AF,Africa,Northern Africa,Tunisian,ar,TND,.tn,+216,🇹🇳,12277109,163610
+TO,TON,776,Tonga,Tonga,Nuku'alofa,OC,Oceania,Polynesia,Tongan,en to,TOP,.to,+676,🇹🇴,104175,748
+TR,TUR,792,Turkey,Türkiye,Ankara,AS,Asia,Western Asia,Turkish,tr,TRY,.tr,+90,🇹🇷,85518661,780580
+TT,TTO,780,Trinidad and Tobago,Trinidad and Tobago,Port of Spain,NA,Americas,Caribbean,Trinidadian,en,TTD,.tt,+1,🇹🇹,1368333,5128
+TV,TUV,798,Tuvalu,Tuvalu,Funafuti,OC,Oceania,Polynesia,Tuvaluan,en tvl,AUD,.tv,+688,🇹🇻,9646,26
+TW,TWN,158,Taiwan,臺灣,Taipei,AS,Asia,Eastern Asia,Taiwanese,zh,TWD,.tw,+886,🇹🇼,22894384,35980
+TZ,TZA,834,Tanzania,Tanzania,Dodoma,AF,Africa,Eastern Africa,Tanzanian,en sw,TZS,.tz,+255,🇹🇿,68560157,945087
+UA,UKR,804,Ukraine,Україна,Kiev,EU,Europe,Eastern Europe,Ukrainian,uk,UAH,.ua,+380,🇺🇦,37860221,603700
+UG,UGA,800,Uganda,Uganda,Kampala,AF,Africa,Eastern Africa,Ugandan,en sw,UGX,.ug,+256,🇺🇬,50015092,236040
+UM,UMI,581,United States Minor Outlying Islands,United States Minor Outlying Islands,,OC,Americas,Northern America,American Islander,en,USD,.um,+1,🇺🇲,,
+US,USA,840,United States,United States,"Washington, D.C.",NA,Americas,Northern America,American,en,USD,.us,+1,🇺🇸,340110988,9629091
+UY,URY,858,Uruguay,Uruguay,Montevideo,SA,Americas,South America,Uruguayan,es,UYU,.uy,+598,🇺🇾,3386588,176220
+UZ,UZB,860,Uzbekistan,O‘zbekiston,Tashkent,AS,Asia,Central Asia,Uzbekistani,ru uz,UZS,.uz,+998,🇺🇿,36361859,447400
+VA,VAT,336,Vatican,Vaticano,Vatican City,EU,Europe,Southern Europe,Vatican,it la,EUR,.va,+379,🇻🇦,921,
+VC,VCT,670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown,NA,Americas,Caribbean,Saint Vincentian,en,XCD,.vc,+1,🇻🇨,100616,389
+VE,VEN,862,Venezuela,Venezuela,Caracas,SA,Americas,South America,Venezuelan,es,VEF,.ve,+58,🇻🇪,28405543,912050
+VG,VGB,092,British Virgin Islands,British Virgin Islands,Road Town,NA,Americas,Caribbean,Virgin Islander,en,USD,.vg,+1,🇻🇬,39471,153
+VI,VIR,850,U.S. Virgin Islands,United States Virgin Islands,Charlotte Amalie,NA,Americas,Caribbean,Virgin Islander,en,USD,.vi,+1,🇻🇮,104377,352
+VN,VNM,704,Vietnam,Việt Nam,Hanoi,AS,Asia,South-Eastern Asia,Vietnamese,vi,VND,.vn,+84,🇻🇳,100987686,329560
+VU,VUT,548,Vanuatu,Vanuatu,Port Vila,OC,Oceania,Melanesia,Ni-Vanuatu,bi en fr,VUV,.vu,+678,🇻🇺,327777,12200
+WF,WLF,876,Wallis and Futuna,Wallis et Futuna,Mata Utu,OC,Oceania,Polynesia,Wallis and Futuna Islander,fr,XPF,.wf,+681,🇼🇫,16025,274
+WS,WSM,882,Samoa,Samoa,Apia,OC,Oceania,Polynesia,Samoan,en sm,WST,.ws,+685,🇼🇸,218019,2944
+XK,UNK,383,Kosovo,Republika e Kosovës,Pristina,EU,Europe,Southern Europe,Kosovar,sq sr,EUR,,+383,🇽🇰,1800000,10908
+YE,YEM,887,Yemen,اليَمَن,Sanaa,AS,Asia,Western Asia,Yemeni,ar,YER,.ye,+967,🇾🇪,40583164,527970
+YT,MYT,175,Mayotte,Mayotte,Mamoudzou,AF,Africa,Eastern Africa,Mahoran,fr,EUR,.yt,+262,🇾🇹,159042,374
+ZA,ZAF,710,South Africa,South Africa,Pretoria,AF,Africa,Southern Africa,South African,af en nr nso st ss tn ts ve xh zu,ZAR,.za,+27,🇿🇦,64007187,1219912
+ZM,ZMB,894,Zambia,Zambia,Lusaka,AF,Africa,Eastern Africa,Zambian,en,ZMW,.zm,+260,🇿🇲,21314956,752614
+ZW,ZWE,716,Zimbabwe,Zimbabwe,Harare,AF,Africa,Eastern Africa,Zimbabwean,bwg en kck khi ndc nd ny sn st toi tn ts ve xh zib,ZWL,.zw,+263,🇿🇼,16634373,390580

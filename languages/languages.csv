@@ -1,0 +1,224 @@
+language,iso3,name,local_name,script,direction,countries
+aa,aar,Afar,,Latn,ltr,
+ab,abk,Abkhazian,Аԥсшәа,Cyrl,ltr,
+ae,ave,Avestan,,Avst,rtl,
+af,afr,Afrikaans,Afrikaans,Latn,ltr,NA ZA
+ak,aka,Akan,Akan,Latn,ltr,
+am,amh,Amharic,አማርኛ,Ethi,ltr,ET
+an,arg,Aragonese,aragonés,Latn,ltr,
+ar,ara,Arabic,العربية,Arab,rtl,AE BH DJ DZ EG ER IL IQ JO KM KW LB LY MA MR OM PS QA SA SD SO SY TD TN YE
+as,asm,Assamese,অসমীয়া,Beng,ltr,
+av,ava,Avaric,,Cyrl,ltr,
+ay,aym,Aymara,,Latn,ltr,BO PE
+az,aze,Azerbaijani,azərbaycan,Latn,ltr,AZ
+ba,bak,Bashkir,башҡорт,Cyrl,ltr,
+bar,bar,Bavarian,,Latn,ltr,AT
+be,bel,Belarusian,беларуская,Cyrl,ltr,BY
+ber,ber,Berber languages,,,ltr,EH MA
+bg,bul,Bulgarian,български,Cyrl,ltr,BG
+bi,bis,Bislama,,Latn,ltr,VU
+bm,bam,Bambara,bamanakan,Latn,ltr,
+bn,ben,Bangla,বাংলা,Beng,ltr,BD
+bo,bod,Tibetan,བོད་སྐད་,Tibt,ltr,
+br,bre,Breton,brezhoneg,Latn,ltr,
+bs,bos,Bosnian,bosanski,Latn,ltr,BA
+bwg,bwg,Barwe,,Latn,ltr,ZW
+bzj,bzj,Belize Kriol English,,Latn,ltr,BZ
+ca,cat,Catalan,català,Latn,ltr,AD
+cal,cal,Carolinian,,Latn,ltr,MP
+ce,che,Chechen,нохчийн,Cyrl,ltr,
+ch,cha,Chamorro,,Latn,ltr,GU MP
+ckb,ckb,Central Kurdish,کوردیی ناوەندی,Arab,rtl,IQ
+cnr,cnr,Montenegrin,,,ltr,ME
+co,cos,Corsican,corsu,Latn,ltr,
+cr,cre,Cree,,Cans,ltr,
+crs,crs,Seselwa Creole French,,Latn,ltr,SC
+cs,ces,Czech,čeština,Latn,ltr,CZ
+cu,chu,Church Slavic,,Cyrl,ltr,
+cv,chv,Chuvash,чӑваш чӗлхи,Cyrl,ltr,
+cy,cym,Welsh,Cymraeg,Latn,ltr,
+da,dan,Danish,dansk,Latn,ltr,DK FO
+de,deu,German,Deutsch,Latn,ltr,BE DE LI LU NA
+dv,div,Divehi,,Thaa,rtl,MV
+dz,dzo,Dzongkha,རྫོང་ཁ,Tibt,ltr,BT
+ee,ewe,Ewe,eʋegbe,Latn,ltr,
+el,ell,Greek,Ελληνικά,Grek,ltr,CY GR
+en,eng,English,English,Latn,ltr,AG AI AS AU BB BM BQ BS BW BZ CA CC CK CM CW CX DM ER FJ FK FM GB GD GG GH GI GM GS GU GY HK HM IE IM IN IO JE JM KE KI KN KY LC LR LS MH MP MS MT MU MW MY NA NF NG NR NU NZ PG PH PK PN PR PW RW SB SC SD SG SH SL SS SX SZ TC TK TO TT TV TZ UG UM US VC VG VI VU WS ZA ZM ZW
+eo,epo,Esperanto,Esperanto,Latn,ltr,
+es,spa,Spanish,español,Latn,ltr,AR BO BZ CL CO CR CU DO EC EH ES GQ GT GU HN MX NI PA PE PR PY SV UY VE
+et,est,Estonian,eesti,Latn,ltr,EE
+eu,eus,Basque,euskara,Latn,ltr,
+fa,fas,Persian,فارسی,Arab,rtl,IR
+ff,ful,Fula,Pulaar,Latn,ltr,
+fi,fin,Finnish,suomi,Latn,ltr,FI
+fil,fil,Filipino,Filipino,Latn,ltr,PH
+fj,fij,Fijian,,Latn,ltr,FJ
+fo,fao,Faroese,føroyskt,Latn,ltr,FO
+fr,fra,French,français,Latn,ltr,BE BF BI BJ BL CD CF CG CH CI CM DJ FR GA GF GG GN GP GQ HT JE KM LB LU MC MF MG ML MQ MU NC NE PF PM RE RW SC SN SX TD TF TG VU WF YT
+fy,fry,Western Frisian,Frysk,Latn,ltr,
+ga,gle,Irish,Gaeilge,Latn,ltr,IE
+gd,gla,Scottish Gaelic,Gàidhlig,Latn,ltr,
+gil,gil,Gilbertese,,Latn,ltr,KI
+gl,glg,Galician,galego,Latn,ltr,
+gn,grn,Guarani,avañe’ẽ,Latn,ltr,AR BO PY
+gsw,gsw,Swiss German,Schwiizertüütsch,Latn,ltr,CH
+gu,guj,Gujarati,ગુજરાતી,Gujr,ltr,
+gv,glv,Manx,Gaelg,Latn,ltr,IM
+ha,hau,Hausa,Hausa,Latn,ltr,
+he,heb,Hebrew,עברית,Hebr,rtl,IL
+hi,hin,Hindi,हिन्दी,Deva,ltr,IN
+hif,hif,Fiji Hindi,,Deva,ltr,FJ
+ho,hmo,Hiri Motu,,Latn,ltr,PG
+hr,hrv,Croatian,hrvatski,Latn,ltr,BA HR
+ht,hat,Haitian Creole,Kreyòl Ayisyen,Latn,ltr,HT
+hu,hun,Hungarian,magyar,Latn,ltr,HU
+hy,hye,Armenian,հայերեն,Armn,ltr,AM
+hz,her,Herero,,Latn,ltr,NA
+ia,ina,Interlingua,interlingua,Latn,ltr,
+id,ind,Indonesian,Indonesia,Latn,ltr,ID
+ie,ile,Interlingue,Interlingue,Latn,ltr,
+ig,ibo,Igbo,Igbo,Latn,ltr,
+ii,iii,Sichuan Yi,ꆈꌠꉙ,Yiii,ltr,
+ik,ipk,Inupiaq,,Latn,ltr,
+io,ido,Ido,Ido,Latn,ltr,
+is,isl,Icelandic,íslenska,Latn,ltr,IS
+it,ita,Italian,italiano,Latn,ltr,CH IT SM VA
+iu,iku,Inuktitut,,Cans,ltr,
+ja,jpn,Japanese,日本語,Jpan,ltr,JP
+jam,jam,Jamaican Creole English,,Latn,ltr,JM
+jv,jav,Javanese,Jawa,Latn,ltr,
+ka,kat,Georgian,ქართული,Geor,ltr,GE
+kck,kck,Kalanga,,Latn,ltr,ZW
+kg,kon,Kongo,,Latn,ltr,CD CG
+khi,khi,Khoisan languages,,,ltr,ZW
+ki,kik,Kikuyu,Gikuyu,Latn,ltr,
+kj,kua,Kuanyama,,Latn,ltr,
+kk,kaz,Kazakh,қазақ тілі,Cyrl,ltr,KZ
+kl,kal,Kalaallisut,kalaallisut,Latn,ltr,GL
+km,khm,Khmer,ខ្មែរ,Khmr,ltr,KH
+kn,kan,Kannada,ಕನ್ನಡ,Knda,ltr,
+ko,kor,Korean,한국어,Kore,ltr,KP KR
+kr,kau,Kanuri,,Latn,ltr,
+ks,kas,Kashmiri,کٲشُر,Arab,rtl,
+ku,kur,Kurdish,kurdî (kurmancî),Latn,ltr,
+kv,kom,Komi,,Cyrl,ltr,
+kw,cor,Cornish,kernewek,Latn,ltr,
+kwn,kwn,Kwangali,,Latn,ltr,NA
+ky,kir,Kyrgyz,кыргызча,Cyrl,ltr,KG
+la,lat,Latin,,Latn,ltr,VA
+lb,ltz,Luxembourgish,Lëtzebuergesch,Latn,ltr,LU
+lg,lug,Ganda,Luganda,Latn,ltr,
+li,lim,Limburgish,,Latn,ltr,
+ln,lin,Lingala,lingála,Latn,ltr,CD CG
+lo,lao,Lao,ລາວ,Laoo,ltr,LA
+loz,loz,Lozi,,Latn,ltr,NA
+lt,lit,Lithuanian,lietuvių,Latn,ltr,LT
+lu,lub,Luba-Katanga,Tshiluba,Latn,ltr,
+lua,lua,Luba-Lulua,,Latn,ltr,CD
+lv,lav,Latvian,latviešu,Latn,ltr,LV
+mey,mey,Hassaniyya,,Arab,rtl,EH
+mfe,mfe,Morisyen,kreol morisien,Latn,ltr,MU
+mg,mlg,Malagasy,Malagasy,Latn,ltr,MG
+mh,mah,Marshallese,,Latn,ltr,MH
+mi,mri,Māori,Māori,Latn,ltr,NZ
+mk,mkd,Macedonian,македонски,Cyrl,ltr,MK
+ml,mal,Malayalam,മലയാളം,Mlym,ltr,
+mn,mon,Mongolian,монгол,Cyrl,ltr,MN
+mr,mar,Marathi,मराठी,Deva,ltr,
+ms,msa,Malay,Melayu,Latn,ltr,BN MY SG
+mt,mlt,Maltese,Malti,Latn,ltr,MT
+my,mya,Burmese,မြန်မာ,Mymr,ltr,MM
+na,nau,Nauru,,Latn,ltr,NR
+naq,naq,Nama,Khoekhoegowab,Latn,ltr,NA
+nb,nob,Norwegian Bokmål,norsk bokmål,Latn,ltr,NO
+nd,nde,North Ndebele,isiNdebele,Latn,ltr,ZW
+ndc,ndc,Ndau,,Latn,ltr,ZW
+ne,nep,Nepali,नेपाली,Deva,ltr,NP
+ng,ndo,Ndonga,,Latn,ltr,NA
+niu,niu,Niuean,,Latn,ltr,NU
+nl,nld,Dutch,Nederlands,Latn,ltr,AW BE BQ CW NL SR SX
+nn,nno,Norwegian Nynorsk,norsk nynorsk,Latn,ltr,NO
+no,nor,Norwegian,norsk,Latn,ltr,BV SJ
+nrf,nrf,Jèrriais,,Latn,ltr,GG JE
+nso,nso,Northern Sotho,Sesotho sa Leboa,Latn,ltr,ZA
+nv,nav,Navajo,Diné Bizaad,Latn,ltr,
+ny,nya,Nyanja,Nyanja,Latn,ltr,MW ZW
+nzs,nzs,New Zealand Sign Language,,,ltr,NZ
+oc,oci,Occitan,occitan,Latn,ltr,
+oj,oji,Ojibwa,,Cans,ltr,
+om,orm,Oromo,Oromoo,Latn,ltr,
+or,ori,Odia,ଓଡ଼ିଆ,Orya,ltr,
+os,oss,Ossetic,ирон,Cyrl,ltr,
+pa,pan,Punjabi,ਪੰਜਾਬੀ,Guru,ltr,
+pap,pap,Papiamento,Papiamentu,Latn,ltr,AW BQ CW
+pau,pau,Palauan,,Latn,ltr,PW
+pi,pli,Pali,,Latn,ltr,
+pih,pih,Pitcairn-Norfolk,,Latn,ltr,NF
+pl,pol,Polish,polski,Latn,ltr,PL
+pov,pov,Upper Guinea Crioulo,,Latn,ltr,GW
+prs,prs,Dari,,,ltr,AF
+ps,pus,Pashto,پښتو,Arab,rtl,AF
+pt,por,Portuguese,português,Latn,ltr,AO BR CV GQ GW MO MZ PT ST TL
+qu,que,Quechua,Runasimi,Latn,ltr,BO PE
+rar,rar,Rarotongan,,Latn,ltr,CK
+rm,roh,Romansh,rumantsch,Latn,ltr,CH
+rn,run,Rundi,Ikirundi,Latn,ltr,BI
+ro,ron,Romanian,română,Latn,ltr,MD RO
+ru,rus,Russian,русский,Cyrl,ltr,AZ BY KG KZ RU TJ TM UZ
+rw,kin,Kinyarwanda,Ikinyarwanda,Latn,ltr,RW
+sa,san,Sanskrit,संस्कृत भाषा,Deva,ltr,
+sc,srd,Sardinian,sardu,Latn,ltr,
+sd,snd,Sindhi,سنڌي,Arab,rtl,
+se,sme,Northern Sami,davvisámegiella,Latn,ltr,
+sg,sag,Sango,Sängö,Latn,ltr,CF
+si,sin,Sinhala,සිංහල,Sinh,ltr,LK
+sk,slk,Slovak,slovenčina,Latn,ltr,CZ SK
+sl,slv,Slovenian,slovenščina,Latn,ltr,SI
+sm,smo,Samoan,,Latn,ltr,AS TK WS
+smi,smi,Sami languages,,,ltr,NO
+sn,sna,Shona,chiShona,Latn,ltr,ZW
+so,som,Somali,Soomaali,Latn,ltr,SO
+sq,sqi,Albanian,shqip,Latn,ltr,AL XK
+sr,srp,Serbian,српски,Cyrl,ltr,BA RS XK
+ss,ssw,Swati,siSwati,Latn,ltr,SZ ZA
+st,sot,Southern Sotho,Sesotho,Latn,ltr,LS ZA ZW
+su,sun,Sundanese,Basa Sunda,Latn,ltr,
+sv,swe,Swedish,svenska,Latn,ltr,AX FI SE
+sw,swa,Swahili,Kiswahili,Latn,ltr,CD KE TZ UG
+syr,syr,Syriac,ܣܘܪܝܝܐ,Syrc,rtl,IQ
+ta,tam,Tamil,தமிழ்,Taml,ltr,IN LK SG
+te,tel,Telugu,తెలుగు,Telu,ltr,
+tet,tet,Tetum,,Latn,ltr,TL
+tg,tgk,Tajik,тоҷикӣ,Cyrl,ltr,TJ
+th,tha,Thai,ไทย,Thai,ltr,TH
+ti,tir,Tigrinya,ትግርኛ,Ethi,ltr,ER
+tk,tuk,Turkmen,türkmen dili,Latn,ltr,AF TM
+tkl,tkl,Tokelauan,,Latn,ltr,TK
+tl,tgl,Tagalog,,Latn,ltr,
+tn,tsn,Tswana,Setswana,Latn,ltr,BW NA ZA ZW
+to,ton,Tongan,lea fakatonga,Latn,ltr,TO
+toi,toi,Tonga (Zambia),,Latn,ltr,ZW
+tpi,tpi,Tok Pisin,Tok Pisin,Latn,ltr,PG
+tr,tur,Turkish,Türkçe,Latn,ltr,CY TR
+ts,tso,Tsonga,,Latn,ltr,ZA ZW
+tt,tat,Tatar,татар,Cyrl,ltr,
+tvl,tvl,Tuvalu,,Latn,ltr,TV
+tw,twi,Twi,,,ltr,
+ty,tah,Tahitian,,Latn,ltr,
+ug,uig,Uyghur,ئۇيغۇرچە,Arab,rtl,
+uk,ukr,Ukrainian,українська,Cyrl,ltr,UA
+ur,urd,Urdu,اردو,Arab,rtl,PK
+uz,uzb,Uzbek,o‘zbek,Latn,ltr,UZ
+ve,ven,Venda,,Latn,ltr,ZA ZW
+vi,vie,Vietnamese,Tiếng Việt,Latn,ltr,VN
+vo,vol,Volapük,,Latn,ltr,
+wa,wln,Walloon,walon,Latn,ltr,
+wo,wol,Wolof,Wolof,Latn,ltr,
+xh,xho,Xhosa,IsiXhosa,Latn,ltr,ZA ZW
+yi,yid,Yiddish,ייִדיש,Hebr,rtl,
+yo,yor,Yoruba,Èdè Yorùbá,Latn,ltr,
+za,zha,Zhuang,Vahcuengh,Latn,ltr,
+zdj,zdj,Ngazidja Comorian,,Arab,rtl,KM
+zh,zho,Chinese,中文,Hans,ltr,CN HK MO SG TW
+zib,zib,Zimbabwe Sign Language,,,ltr,ZW
+zu,zul,Zulu,isiZulu,Latn,ltr,ZA
