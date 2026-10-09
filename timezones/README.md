@@ -4,4 +4,4 @@ Every IANA timezone with its display name, current abbreviation, UTC offset, and
 
 Source: the IANA time zone database. Refreshed monthly.
 
-Generated from GET /timezone/{timezone}. Live lookups: [parseapi.com/timezone](https://parseapi.com/timezone).
+Generated from GET /time/{timezone}?deep=true. Live lookups: [parseapi.com/time](https://parseapi.com/time).

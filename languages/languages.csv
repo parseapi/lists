@@ -1,9 +1,9 @@
-language,iso3,name,local_name,script,direction,countries
+language,iso3,name,name_local,script,direction,countries
 aa,aar,Afar,,Latn,ltr,
 ab,abk,Abkhazian,Аԥсшәа,Cyrl,ltr,
 ae,ave,Avestan,,Avst,rtl,
-af,afr,Afrikaans,Afrikaans,Latn,ltr,NA ZA
-ak,aka,Akan,Akan,Latn,ltr,
+af,afr,Afrikaans,,Latn,ltr,NA ZA
+ak,aka,Akan,,Latn,ltr,
 am,amh,Amharic,አማርኛ,Ethi,ltr,ET
 an,arg,Aragonese,aragonés,Latn,ltr,
 ar,ara,Arabic,العربية,Arab,rtl,AE BH DJ DZ EG ER IL IQ JO KM KW LB LY MA MR OM PS QA SA SD SO SY TD TN YE
@@ -43,15 +43,15 @@ dv,div,Divehi,,Thaa,rtl,MV
 dz,dzo,Dzongkha,རྫོང་ཁ,Tibt,ltr,BT
 ee,ewe,Ewe,eʋegbe,Latn,ltr,
 el,ell,Greek,Ελληνικά,Grek,ltr,CY GR
-en,eng,English,English,Latn,ltr,AG AI AS AU BB BM BQ BS BW BZ CA CC CK CM CW CX DM ER FJ FK FM GB GD GG GH GI GM GS GU GY HK HM IE IM IN IO JE JM KE KI KN KY LC LR LS MH MP MS MT MU MW MY NA NF NG NR NU NZ PG PH PK PN PR PW RW SB SC SD SG SH SL SS SX SZ TC TK TO TT TV TZ UG UM US VC VG VI VU WS ZA ZM ZW
-eo,epo,Esperanto,Esperanto,Latn,ltr,
+en,eng,English,,Latn,ltr,AG AI AS AU BB BM BQ BS BW BZ CA CC CK CM CW CX DM ER FJ FK FM GB GD GG GH GI GM GS GU GY HK HM IE IM IN IO JE JM KE KI KN KY LC LR LS MH MP MS MT MU MW MY NA NF NG NR NU NZ PG PH PK PN PR PW RW SB SC SD SG SH SL SS SX SZ TC TK TO TT TV TZ UG UM US VC VG VI VU WS ZA ZM ZW
+eo,epo,Esperanto,,Latn,ltr,
 es,spa,Spanish,español,Latn,ltr,AR BO BZ CL CO CR CU DO EC EH ES GQ GT GU HN MX NI PA PE PR PY SV UY VE
 et,est,Estonian,eesti,Latn,ltr,EE
 eu,eus,Basque,euskara,Latn,ltr,
 fa,fas,Persian,فارسی,Arab,rtl,IR
 ff,ful,Fula,Pulaar,Latn,ltr,
 fi,fin,Finnish,suomi,Latn,ltr,FI
-fil,fil,Filipino,Filipino,Latn,ltr,PH
+fil,fil,Filipino,,Latn,ltr,PH
 fj,fij,Fijian,,Latn,ltr,FJ
 fo,fao,Faroese,føroyskt,Latn,ltr,FO
 fr,fra,French,français,Latn,ltr,BE BF BI BJ BL CD CF CG CH CI CM DJ FR GA GF GG GN GP GQ HT JE KM LB LU MC MF MG ML MQ MU NC NE PF PM RE RW SC SN SX TD TF TG VU WF YT
@@ -64,7 +64,7 @@ gn,grn,Guarani,avañe’ẽ,Latn,ltr,AR BO PY
 gsw,gsw,Swiss German,Schwiizertüütsch,Latn,ltr,CH
 gu,guj,Gujarati,ગુજરાતી,Gujr,ltr,
 gv,glv,Manx,Gaelg,Latn,ltr,IM
-ha,hau,Hausa,Hausa,Latn,ltr,
+ha,hau,Hausa,,Latn,ltr,
 he,heb,Hebrew,עברית,Hebr,rtl,IL
 hi,hin,Hindi,हिन्दी,Deva,ltr,IN
 hif,hif,Fiji Hindi,,Deva,ltr,FJ
@@ -76,11 +76,11 @@ hy,hye,Armenian,հայերեն,Armn,ltr,AM
 hz,her,Herero,,Latn,ltr,NA
 ia,ina,Interlingua,interlingua,Latn,ltr,
 id,ind,Indonesian,Indonesia,Latn,ltr,ID
-ie,ile,Interlingue,Interlingue,Latn,ltr,
-ig,ibo,Igbo,Igbo,Latn,ltr,
+ie,ile,Interlingue,,Latn,ltr,
+ig,ibo,Igbo,,Latn,ltr,
 ii,iii,Sichuan Yi,ꆈꌠꉙ,Yiii,ltr,
 ik,ipk,Inupiaq,,Latn,ltr,
-io,ido,Ido,Ido,Latn,ltr,
+io,ido,Ido,,Latn,ltr,
 is,isl,Icelandic,íslenska,Latn,ltr,IS
 it,ita,Italian,italiano,Latn,ltr,CH IT SM VA
 iu,iku,Inuktitut,,Cans,ltr,
@@ -118,9 +118,9 @@ lua,lua,Luba-Lulua,,Latn,ltr,CD
 lv,lav,Latvian,latviešu,Latn,ltr,LV
 mey,mey,Hassaniyya,,Arab,rtl,EH
 mfe,mfe,Morisyen,kreol morisien,Latn,ltr,MU
-mg,mlg,Malagasy,Malagasy,Latn,ltr,MG
+mg,mlg,Malagasy,,Latn,ltr,MG
 mh,mah,Marshallese,,Latn,ltr,MH
-mi,mri,Māori,Māori,Latn,ltr,NZ
+mi,mri,Māori,,Latn,ltr,NZ
 mk,mkd,Macedonian,македонски,Cyrl,ltr,MK
 ml,mal,Malayalam,മലയാളം,Mlym,ltr,
 mn,mon,Mongolian,монгол,Cyrl,ltr,MN
@@ -139,10 +139,11 @@ niu,niu,Niuean,,Latn,ltr,NU
 nl,nld,Dutch,Nederlands,Latn,ltr,AW BE BQ CW NL SR SX
 nn,nno,Norwegian Nynorsk,norsk nynorsk,Latn,ltr,NO
 no,nor,Norwegian,norsk,Latn,ltr,BV SJ
+nr,nbl,South Ndebele,,Latn,ltr,ZA
 nrf,nrf,Jèrriais,,Latn,ltr,GG JE
 nso,nso,Northern Sotho,Sesotho sa Leboa,Latn,ltr,ZA
 nv,nav,Navajo,Diné Bizaad,Latn,ltr,
-ny,nya,Nyanja,Nyanja,Latn,ltr,MW ZW
+ny,nya,Nyanja,,Latn,ltr,MW ZW
 nzs,nzs,New Zealand Sign Language,,,ltr,NZ
 oc,oci,Occitan,occitan,Latn,ltr,
 oj,oji,Ojibwa,,Cans,ltr,
@@ -198,7 +199,7 @@ tl,tgl,Tagalog,,Latn,ltr,
 tn,tsn,Tswana,Setswana,Latn,ltr,BW NA ZA ZW
 to,ton,Tongan,lea fakatonga,Latn,ltr,TO
 toi,toi,Tonga (Zambia),,Latn,ltr,ZW
-tpi,tpi,Tok Pisin,Tok Pisin,Latn,ltr,PG
+tpi,tpi,Tok Pisin,,Latn,ltr,PG
 tr,tur,Turkish,Türkçe,Latn,ltr,CY TR
 ts,tso,Tsonga,,Latn,ltr,ZA ZW
 tt,tat,Tatar,татар,Cyrl,ltr,
@@ -213,7 +214,7 @@ ve,ven,Venda,,Latn,ltr,ZA ZW
 vi,vie,Vietnamese,Tiếng Việt,Latn,ltr,VN
 vo,vol,Volapük,,Latn,ltr,
 wa,wln,Walloon,walon,Latn,ltr,
-wo,wol,Wolof,Wolof,Latn,ltr,
+wo,wol,Wolof,,Latn,ltr,
 xh,xho,Xhosa,IsiXhosa,Latn,ltr,ZA ZW
 yi,yid,Yiddish,ייִדיש,Hebr,rtl,
 yo,yor,Yoruba,Èdè Yorùbá,Latn,ltr,

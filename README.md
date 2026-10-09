@@ -1,6 +1,6 @@
 # { parseAPI } lists
 
-Flat reference files, regenerated from the live [parseAPI](https://parseapi.com).
+Flat reference files, regenerated from the live [ParseAPI](https://parseapi.com).
 
 | List | What | Refreshed |
 |------|------|-----------|

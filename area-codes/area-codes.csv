@@ -22,10 +22,12 @@ area_code,country,state,state_name
 224,US,IL,Illinois
 225,US,LA,Louisiana
 226,CA,ON,Ontario
+227,US,MD,Maryland
 228,US,MS,Mississippi
 229,US,GA,Georgia
 231,US,MI,Michigan
 234,US,OH,Ohio
+235,US,MO,Missouri
 236,CA,BC,British Columbia
 239,US,FL,Florida
 240,US,MD,Maryland
@@ -37,8 +39,10 @@ area_code,country,state,state_name
 253,US,WA,Washington
 254,US,TX,Texas
 256,US,AL,Alabama
+257,CA,BC,British Columbia
 260,US,IN,Indiana
 262,US,WI,Wisconsin
+263,CA,QC,Quebec
 267,US,PA,Pennsylvania
 269,US,MI,Michigan
 270,US,KY,Kentucky
@@ -70,6 +74,7 @@ area_code,country,state,state_name
 320,US,MN,Minnesota
 321,US,FL,Florida
 323,US,CA,California
+324,US,FL,Florida
 325,US,TX,Texas
 326,US,OH,Ohio
 327,US,AR,Arkansas
@@ -85,15 +90,20 @@ area_code,country,state,state_name
 343,CA,ON,Ontario
 346,US,TX,Texas
 347,US,NY,New York
+350,US,CA,California
 351,US,MA,Massachusetts
 352,US,FL,Florida
+353,US,WI,Wisconsin
 354,CA,QC,Quebec
+357,US,CA,California
 360,US,WA,Washington
 361,US,TX,Texas
 363,US,NY,New York
 364,US,KY,Kentucky
 365,CA,ON,Ontario
+367,CA,QC,Quebec
 368,CA,AB,Alberta
+369,US,CA,California
 380,US,OH,Ohio
 382,CA,ON,Ontario
 385,US,UT,Utah
@@ -125,6 +135,7 @@ area_code,country,state,state_name
 432,US,TX,Texas
 434,US,VA,Virginia
 435,US,UT,Utah
+436,US,OH,Ohio
 437,CA,ON,Ontario
 438,CA,QC,Quebec
 440,US,OH,Ohio
@@ -134,17 +145,22 @@ area_code,country,state,state_name
 447,US,IL,Illinois
 448,US,FL,Florida
 450,CA,QC,Quebec
+457,US,LA,Louisiana
 458,US,OR,Oregon
 463,US,IN,Indiana
 464,US,IL,Illinois
+465,US,NY,New York
 468,CA,QC,Quebec
 469,US,TX,Texas
 470,US,GA,Georgia
+471,US,MS,Mississippi
+472,US,NC,North Carolina
 474,CA,SK,Saskatchewan
 475,US,CT,Connecticut
 478,US,GA,Georgia
 479,US,AR,Arkansas
 480,US,AZ,Arizona
+483,US,AL,Alabama
 484,US,PA,Pennsylvania
 501,US,AR,Arkansas
 502,US,KY,Kentucky
@@ -213,7 +229,9 @@ area_code,country,state,state_name
 618,US,IL,Illinois
 619,US,CA,California
 620,US,KS,Kansas
+621,US,TX,Texas
 623,US,AZ,Arizona
+624,US,NY,New York
 626,US,CA,California
 628,US,CA,California
 629,US,TN,Tennessee
@@ -223,10 +241,12 @@ area_code,country,state,state_name
 639,CA,SK,Saskatchewan
 640,US,NJ,New Jersey
 641,US,IA,Iowa
+645,US,FL,Florida
 646,US,NY,New York
 647,CA,ON,Ontario
 650,US,CA,California
 651,US,MN,Minnesota
+656,US,FL,Florida
 657,US,CA,California
 659,US,AL,Alabama
 660,US,MO,Missouri
@@ -236,10 +256,12 @@ area_code,country,state,state_name
 669,US,CA,California
 672,CA,BC,British Columbia
 678,US,GA,Georgia
+679,US,MI,Michigan
 680,US,NY,New York
 681,US,WV,West Virginia
 682,US,TX,Texas
 683,CA,ON,Ontario
+686,US,VA,Virginia
 689,US,FL,Florida
 701,US,ND,North Dakota
 702,US,NV,Nevada
@@ -263,15 +285,19 @@ area_code,country,state,state_name
 725,US,NV,Nevada
 726,US,TX,Texas
 727,US,FL,Florida
+728,US,FL,Florida
+729,US,TN,Tennessee
 730,US,IL,Illinois
 731,US,TN,Tennessee
 732,US,NJ,New Jersey
 734,US,MI,Michigan
 737,US,TX,Texas
+738,US,CA,California
 740,US,OH,Ohio
 742,CA,ON,Ontario
 743,US,NC,North Carolina
 747,US,CA,California
+748,US,CO,Colorado
 753,CA,ON,Ontario
 754,US,FL,Florida
 757,US,VA,Virginia
@@ -290,7 +316,6 @@ area_code,country,state,state_name
 779,US,IL,Illinois
 780,CA,AB,Alberta
 781,US,MA,Massachusetts
-782,CA,NS,Nova Scotia
 785,US,KS,Kansas
 786,US,FL,Florida
 801,US,UT,Utah
@@ -311,11 +336,15 @@ area_code,country,state,state_name
 818,US,CA,California
 819,CA,QC,Quebec
 820,US,CA,California
+821,US,SC,South Carolina
 825,CA,AB,Alberta
+826,US,VA,Virginia
 828,US,NC,North Carolina
 830,US,TX,Texas
 831,US,CA,California
 832,US,TX,Texas
+835,US,PA,Pennsylvania
+837,US,CA,California
 838,US,NY,New York
 839,US,SC,South Carolina
 840,US,CA,California
@@ -330,18 +359,17 @@ area_code,country,state,state_name
 858,US,CA,California
 859,US,KY,Kentucky
 860,US,CT,Connecticut
+861,US,IL,Illinois
 862,US,NJ,New Jersey
 863,US,FL,Florida
 864,US,SC,South Carolina
 865,US,TN,Tennessee
-867,CA,YT,Yukon
 870,US,AR,Arkansas
 872,US,IL,Illinois
 873,CA,QC,Quebec
 878,US,PA,Pennsylvania
 879,CA,NL,Newfoundland and Labrador
 901,US,TN,Tennessee
-902,CA,NS,Nova Scotia
 903,US,TX,Texas
 904,US,FL,Florida
 905,CA,ON,Ontario
@@ -359,6 +387,7 @@ area_code,country,state,state_name
 918,US,OK,Oklahoma
 919,US,NC,North Carolina
 920,US,WI,Wisconsin
+924,US,MN,Minnesota
 925,US,CA,California
 928,US,AZ,Arizona
 929,US,NY,New York
@@ -389,6 +418,7 @@ area_code,country,state,state_name
 978,US,MA,Massachusetts
 979,US,TX,Texas
 980,US,NC,North Carolina
+983,US,CO,Colorado
 984,US,NC,North Carolina
 985,US,LA,Louisiana
 986,US,ID,Idaho

@@ -1,120 +1,120 @@
 timezone,name,abbreviation,offset,offset_minutes,dst
 Africa/Abidjan,Greenwich Mean Time,GMT,+00:00,0,false
 Africa/Accra,Greenwich Mean Time,GMT,+00:00,0,false
-Africa/Addis_Ababa,East Africa Time,Ethiopia Time,+03:00,180,false
-Africa/Algiers,Central European Standard Time,Algeria Time,+01:00,60,false
-Africa/Asmera,East Africa Time,Eritrea Time,+03:00,180,false
+Africa/Addis_Ababa,East Africa Time,EAT,+03:00,180,false
+Africa/Algiers,Central European Standard Time,CET,+01:00,60,false
+Africa/Asmera,East Africa Time,EAT,+03:00,180,false
 Africa/Bamako,Greenwich Mean Time,GMT,+00:00,0,false
-Africa/Bangui,West Africa Time,Central African Republic Time,+01:00,60,false
+Africa/Bangui,West Africa Time,WAT,+01:00,60,false
 Africa/Banjul,Greenwich Mean Time,GMT,+00:00,0,false
 Africa/Bissau,Greenwich Mean Time,GMT,+00:00,0,false
-Africa/Blantyre,Central Africa Time,Malawi Time,+02:00,120,false
-Africa/Brazzaville,West Africa Time,Congo - Brazzaville Time,+01:00,60,false
-Africa/Bujumbura,Central Africa Time,Burundi Time,+02:00,120,false
-Africa/Cairo,Eastern European Time,Egypt Time,+03:00,180,true
-Africa/Casablanca,Morocco Time,Morocco Time,+01:00,60,false
-Africa/Ceuta,Central European Time,Ceuta Time,+02:00,120,true
+Africa/Blantyre,Central Africa Time,CAT,+02:00,120,false
+Africa/Brazzaville,West Africa Time,WAT,+01:00,60,false
+Africa/Bujumbura,Central Africa Time,CAT,+02:00,120,false
+Africa/Cairo,Eastern European Time,EEST,+03:00,180,true
+Africa/Casablanca,,+00,+00:00,0,false
+Africa/Ceuta,Central European Time,CEST,+02:00,120,true
 Africa/Conakry,Greenwich Mean Time,GMT,+00:00,0,false
 Africa/Dakar,Greenwich Mean Time,GMT,+00:00,0,false
-Africa/Dar_es_Salaam,East Africa Time,Tanzania Time,+03:00,180,false
-Africa/Djibouti,East Africa Time,Djibouti Time,+03:00,180,false
-Africa/Douala,West Africa Time,Cameroon Time,+01:00,60,false
-Africa/El_Aaiun,Western Sahara Time,Western Sahara Time,+01:00,60,false
+Africa/Dar_es_Salaam,East Africa Time,EAT,+03:00,180,false
+Africa/Djibouti,East Africa Time,EAT,+03:00,180,false
+Africa/Douala,West Africa Time,WAT,+01:00,60,false
+Africa/El_Aaiun,,+00,+00:00,0,false
 Africa/Freetown,Greenwich Mean Time,GMT,+00:00,0,false
-Africa/Gaborone,Central Africa Time,Botswana Time,+02:00,120,false
-Africa/Harare,Central Africa Time,Zimbabwe Time,+02:00,120,false
-Africa/Johannesburg,South Africa Standard Time,South Africa Time,+02:00,120,false
-Africa/Juba,Central Africa Time,South Sudan Time,+02:00,120,false
-Africa/Kampala,East Africa Time,Uganda Time,+03:00,180,false
-Africa/Khartoum,Central Africa Time,Sudan Time,+02:00,120,false
-Africa/Kigali,Central Africa Time,Rwanda Time,+02:00,120,false
-Africa/Kinshasa,West Africa Time,Kinshasa Time,+01:00,60,false
-Africa/Lagos,West Africa Time,Nigeria Time,+01:00,60,false
-Africa/Libreville,West Africa Time,Gabon Time,+01:00,60,false
+Africa/Gaborone,Central Africa Time,CAT,+02:00,120,false
+Africa/Harare,Central Africa Time,CAT,+02:00,120,false
+Africa/Johannesburg,South Africa Standard Time,SAST,+02:00,120,false
+Africa/Juba,Central Africa Time,CAT,+02:00,120,false
+Africa/Kampala,East Africa Time,EAT,+03:00,180,false
+Africa/Khartoum,Central Africa Time,CAT,+02:00,120,false
+Africa/Kigali,Central Africa Time,CAT,+02:00,120,false
+Africa/Kinshasa,West Africa Time,WAT,+01:00,60,false
+Africa/Lagos,West Africa Time,WAT,+01:00,60,false
+Africa/Libreville,West Africa Time,WAT,+01:00,60,false
 Africa/Lome,Greenwich Mean Time,GMT,+00:00,0,false
-Africa/Luanda,West Africa Time,Angola Time,+01:00,60,false
-Africa/Lubumbashi,Central Africa Time,Lubumbashi Time,+02:00,120,false
-Africa/Lusaka,Central Africa Time,Zambia Time,+02:00,120,false
-Africa/Malabo,West Africa Time,Equatorial Guinea Time,+01:00,60,false
-Africa/Maputo,Central Africa Time,Mozambique Time,+02:00,120,false
-Africa/Maseru,South Africa Standard Time,Lesotho Time,+02:00,120,false
-Africa/Mbabane,South Africa Standard Time,Eswatini Time,+02:00,120,false
-Africa/Mogadishu,East Africa Time,Somalia Time,+03:00,180,false
+Africa/Luanda,West Africa Time,WAT,+01:00,60,false
+Africa/Lubumbashi,Central Africa Time,CAT,+02:00,120,false
+Africa/Lusaka,Central Africa Time,CAT,+02:00,120,false
+Africa/Malabo,West Africa Time,WAT,+01:00,60,false
+Africa/Maputo,Central Africa Time,CAT,+02:00,120,false
+Africa/Maseru,South Africa Standard Time,SAST,+02:00,120,false
+Africa/Mbabane,South Africa Standard Time,SAST,+02:00,120,false
+Africa/Mogadishu,East Africa Time,EAT,+03:00,180,false
 Africa/Monrovia,Greenwich Mean Time,GMT,+00:00,0,false
-Africa/Nairobi,East Africa Time,Kenya Time,+03:00,180,false
-Africa/Ndjamena,West Africa Time,Chad Time,+01:00,60,false
-Africa/Niamey,West Africa Time,Niger Time,+01:00,60,false
+Africa/Nairobi,East Africa Time,EAT,+03:00,180,false
+Africa/Ndjamena,West Africa Time,WAT,+01:00,60,false
+Africa/Niamey,West Africa Time,WAT,+01:00,60,false
 Africa/Nouakchott,Greenwich Mean Time,GMT,+00:00,0,false
 Africa/Ouagadougou,Greenwich Mean Time,GMT,+00:00,0,false
-Africa/Porto-Novo,West Africa Time,Benin Time,+01:00,60,false
+Africa/Porto-Novo,West Africa Time,WAT,+01:00,60,false
 Africa/Sao_Tome,Greenwich Mean Time,GMT,+00:00,0,false
-Africa/Tripoli,Eastern European Standard Time,Libya Time,+02:00,120,false
-Africa/Tunis,Central European Standard Time,Tunisia Time,+01:00,60,false
-Africa/Windhoek,Central Africa Time,Namibia Time,+02:00,120,false
-America/Adak,Hawaii-Aleutian Time,HADT,-09:00,-540,true
+Africa/Tripoli,Eastern European Standard Time,EET,+02:00,120,false
+Africa/Tunis,Central European Standard Time,CET,+01:00,60,false
+Africa/Windhoek,Central Africa Time,CAT,+02:00,120,false
+America/Adak,,HDT,-09:00,-540,true
 America/Anchorage,Alaska Time,AKDT,-08:00,-480,true
 America/Anguilla,Atlantic Standard Time,AST,-04:00,-240,false
 America/Antigua,Atlantic Standard Time,AST,-04:00,-240,false
-America/Araguaina,Brasilia Standard Time,Araguaína Time,-03:00,-180,false
-America/Argentina/La_Rioja,Argentina Standard Time,La Rioja Time,-03:00,-180,false
-America/Argentina/Rio_Gallegos,Argentina Standard Time,Río Gallegos Time,-03:00,-180,false
-America/Argentina/Salta,Argentina Standard Time,Salta Time,-03:00,-180,false
-America/Argentina/San_Juan,Argentina Standard Time,San Juan Time,-03:00,-180,false
-America/Argentina/San_Luis,Argentina Standard Time,San Luis Time,-03:00,-180,false
-America/Argentina/Tucuman,Argentina Standard Time,Tucumán Time,-03:00,-180,false
-America/Argentina/Ushuaia,Argentina Standard Time,Ushuaia Time,-03:00,-180,false
+America/Araguaina,Brasilia Standard Time,-03,-03:00,-180,false
+America/Argentina/La_Rioja,Argentina Standard Time,-03,-03:00,-180,false
+America/Argentina/Rio_Gallegos,Argentina Standard Time,-03,-03:00,-180,false
+America/Argentina/Salta,Argentina Standard Time,-03,-03:00,-180,false
+America/Argentina/San_Juan,Argentina Standard Time,-03,-03:00,-180,false
+America/Argentina/San_Luis,Argentina Standard Time,-03,-03:00,-180,false
+America/Argentina/Tucuman,Argentina Standard Time,-03,-03:00,-180,false
+America/Argentina/Ushuaia,Argentina Standard Time,-03,-03:00,-180,false
 America/Aruba,Atlantic Standard Time,AST,-04:00,-240,false
-America/Asuncion,Paraguay Standard Time,Paraguay Time,-03:00,-180,false
-America/Bahia,Brasilia Standard Time,Bahia Time,-03:00,-180,false
+America/Asuncion,Paraguay Standard Time,-03,-03:00,-180,false
+America/Bahia,Brasilia Standard Time,-03,-03:00,-180,false
 America/Bahia_Banderas,Central Standard Time,CST,-06:00,-360,false
 America/Barbados,Atlantic Standard Time,AST,-04:00,-240,false
-America/Belem,Brasilia Standard Time,Belém Time,-03:00,-180,false
+America/Belem,Brasilia Standard Time,-03,-03:00,-180,false
 America/Belize,Central Standard Time,CST,-06:00,-360,false
 America/Blanc-Sablon,Atlantic Standard Time,AST,-04:00,-240,false
-America/Boa_Vista,Amazon Standard Time,Boa Vista Time,-04:00,-240,false
-America/Bogota,Colombia Standard Time,Colombia Time,-05:00,-300,false
+America/Boa_Vista,Amazon Standard Time,-04,-04:00,-240,false
+America/Bogota,Colombia Standard Time,-05,-05:00,-300,false
 America/Boise,Mountain Time,MDT,-06:00,-360,true
-America/Buenos_Aires,Argentina Standard Time,Buenos Aires Time,-03:00,-180,false
+America/Buenos_Aires,Argentina Standard Time,-03,-03:00,-180,false
 America/Cambridge_Bay,Mountain Time,MDT,-06:00,-360,true
-America/Campo_Grande,Amazon Standard Time,Campo Grande Time,-04:00,-240,false
+America/Campo_Grande,Amazon Standard Time,-04,-04:00,-240,false
 America/Cancun,Eastern Standard Time,EST,-05:00,-300,false
-America/Caracas,Venezuela Time,Venezuela Time,-04:00,-240,false
-America/Catamarca,Argentina Standard Time,Catamarca Time,-03:00,-180,false
-America/Cayenne,French Guiana Time,French Guiana Time,-03:00,-180,false
+America/Caracas,Venezuela Time,-04,-04:00,-240,false
+America/Catamarca,Argentina Standard Time,-03,-03:00,-180,false
+America/Cayenne,French Guiana Time,-03,-03:00,-180,false
 America/Cayman,Eastern Standard Time,EST,-05:00,-300,false
 America/Chicago,Central Time,CDT,-05:00,-300,true
 America/Chihuahua,Central Standard Time,CST,-06:00,-360,false
 America/Ciudad_Juarez,Mountain Time,MDT,-06:00,-360,true
 America/Coral_Harbour,Eastern Standard Time,EST,-05:00,-300,false
-America/Cordoba,Argentina Standard Time,Córdoba Time,-03:00,-180,false
+America/Cordoba,Argentina Standard Time,-03,-03:00,-180,false
 America/Costa_Rica,Central Standard Time,CST,-06:00,-360,false
-America/Coyhaique,Coyhaique Time,Coyhaique Time,-03:00,-180,false
+America/Coyhaique,Coyhaique Time,-03,-03:00,-180,false
 America/Creston,Mountain Standard Time,MST,-07:00,-420,false
-America/Cuiaba,Amazon Standard Time,Cuiabá Time,-04:00,-240,false
+America/Cuiaba,Amazon Standard Time,-04,-04:00,-240,false
 America/Curacao,Atlantic Standard Time,AST,-04:00,-240,false
 America/Danmarkshavn,Greenwich Mean Time,GMT,+00:00,0,false
-America/Dawson,Yukon Time,Dawson Time,-07:00,-420,false
+America/Dawson,Yukon Time,MST,-07:00,-420,false
 America/Dawson_Creek,Mountain Standard Time,MST,-07:00,-420,false
 America/Denver,Mountain Time,MDT,-06:00,-360,true
 America/Detroit,Eastern Time,EDT,-04:00,-240,true
 America/Dominica,Atlantic Standard Time,AST,-04:00,-240,false
 America/Edmonton,Mountain Time,MDT,-06:00,-360,true
-America/Eirunepe,Acre Standard Time,Eirunepé Time,-05:00,-300,false
+America/Eirunepe,Acre Standard Time,-05,-05:00,-300,false
 America/El_Salvador,Central Standard Time,CST,-06:00,-360,false
 America/Fort_Nelson,Mountain Standard Time,MST,-07:00,-420,false
-America/Fortaleza,Brasilia Standard Time,Fortaleza Time,-03:00,-180,false
+America/Fortaleza,Brasilia Standard Time,-03,-03:00,-180,false
 America/Glace_Bay,Atlantic Time,ADT,-03:00,-180,true
-America/Godthab,Greenland Time,Nuuk Time,-01:00,-60,true
+America/Godthab,Greenland Time,-01,-01:00,-60,true
 America/Goose_Bay,Atlantic Time,ADT,-03:00,-180,true
 America/Grand_Turk,Eastern Time,EDT,-04:00,-240,true
 America/Grenada,Atlantic Standard Time,AST,-04:00,-240,false
 America/Guadeloupe,Atlantic Standard Time,AST,-04:00,-240,false
 America/Guatemala,Central Standard Time,CST,-06:00,-360,false
-America/Guayaquil,Ecuador Time,Ecuador Time,-05:00,-300,false
-America/Guyana,Guyana Time,Guyana Time,-04:00,-240,false
+America/Guayaquil,Ecuador Time,-05,-05:00,-300,false
+America/Guyana,Guyana Time,-04,-04:00,-240,false
 America/Halifax,Atlantic Time,ADT,-03:00,-180,true
-America/Havana,Cuba Time,Cuba Time,-04:00,-240,true
-America/Hermosillo,Mexican Pacific Standard Time,Hermosillo Time,-07:00,-420,false
+America/Havana,Cuba Time,CDT,-04:00,-240,true
+America/Hermosillo,Mexican Pacific Standard Time,MST,-07:00,-420,false
 America/Indiana/Knox,Central Time,CDT,-05:00,-300,true
 America/Indiana/Marengo,Eastern Time,EDT,-04:00,-240,true
 America/Indiana/Petersburg,Eastern Time,EDT,-04:00,-240,true
@@ -126,61 +126,61 @@ America/Indianapolis,Eastern Time,EDT,-04:00,-240,true
 America/Inuvik,Mountain Time,MDT,-06:00,-360,true
 America/Iqaluit,Eastern Time,EDT,-04:00,-240,true
 America/Jamaica,Eastern Standard Time,EST,-05:00,-300,false
-America/Jujuy,Argentina Standard Time,Jujuy Time,-03:00,-180,false
+America/Jujuy,Argentina Standard Time,-03,-03:00,-180,false
 America/Juneau,Alaska Time,AKDT,-08:00,-480,true
 America/Kentucky/Monticello,Eastern Time,EDT,-04:00,-240,true
 America/Kralendijk,Atlantic Standard Time,AST,-04:00,-240,false
-America/La_Paz,Bolivia Time,Bolivia Time,-04:00,-240,false
-America/Lima,Peru Standard Time,Peru Time,-05:00,-300,false
+America/La_Paz,Bolivia Time,-04,-04:00,-240,false
+America/Lima,Peru Standard Time,-05,-05:00,-300,false
 America/Los_Angeles,Pacific Time,PDT,-07:00,-420,true
 America/Louisville,Eastern Time,EDT,-04:00,-240,true
 America/Lower_Princes,Atlantic Standard Time,AST,-04:00,-240,false
-America/Maceio,Brasilia Standard Time,Maceió Time,-03:00,-180,false
+America/Maceio,Brasilia Standard Time,-03,-03:00,-180,false
 America/Managua,Central Standard Time,CST,-06:00,-360,false
-America/Manaus,Amazon Standard Time,Manaus Time,-04:00,-240,false
+America/Manaus,Amazon Standard Time,-04,-04:00,-240,false
 America/Marigot,Atlantic Standard Time,AST,-04:00,-240,false
 America/Martinique,Atlantic Standard Time,AST,-04:00,-240,false
 America/Matamoros,Central Time,CDT,-05:00,-300,true
-America/Mazatlan,Mexican Pacific Standard Time,Mazatlán Time,-07:00,-420,false
-America/Mendoza,Argentina Standard Time,Mendoza Time,-03:00,-180,false
+America/Mazatlan,Mexican Pacific Standard Time,MST,-07:00,-420,false
+America/Mendoza,Argentina Standard Time,-03,-03:00,-180,false
 America/Menominee,Central Time,CDT,-05:00,-300,true
 America/Merida,Central Standard Time,CST,-06:00,-360,false
 America/Metlakatla,Alaska Time,AKDT,-08:00,-480,true
 America/Mexico_City,Central Standard Time,CST,-06:00,-360,false
-America/Miquelon,St. Pierre & Miquelon Time,St. Pierre & Miquelon Time,-02:00,-120,true
+America/Miquelon,St. Pierre & Miquelon Time,-02,-02:00,-120,true
 America/Moncton,Atlantic Time,ADT,-03:00,-180,true
 America/Monterrey,Central Standard Time,CST,-06:00,-360,false
-America/Montevideo,Uruguay Standard Time,Uruguay Time,-03:00,-180,false
+America/Montevideo,Uruguay Standard Time,-03,-03:00,-180,false
 America/Montserrat,Atlantic Standard Time,AST,-04:00,-240,false
 America/Nassau,Eastern Time,EDT,-04:00,-240,true
 America/New_York,Eastern Time,EDT,-04:00,-240,true
 America/Nome,Alaska Time,AKDT,-08:00,-480,true
-America/Noronha,Fernando de Noronha Standard Time,Fernando de Noronha Time,-02:00,-120,false
+America/Noronha,Fernando de Noronha Standard Time,-02,-02:00,-120,false
 America/North_Dakota/Beulah,Central Time,CDT,-05:00,-300,true
 America/North_Dakota/Center,Central Time,CDT,-05:00,-300,true
 America/North_Dakota/New_Salem,Central Time,CDT,-05:00,-300,true
 America/Ojinaga,Central Time,CDT,-05:00,-300,true
 America/Panama,Eastern Standard Time,EST,-05:00,-300,false
-America/Paramaribo,Suriname Time,Suriname Time,-03:00,-180,false
+America/Paramaribo,Suriname Time,-03,-03:00,-180,false
 America/Phoenix,Mountain Standard Time,MST,-07:00,-420,false
 America/Port_of_Spain,Atlantic Standard Time,AST,-04:00,-240,false
 America/Port-au-Prince,Eastern Time,EDT,-04:00,-240,true
-America/Porto_Velho,Amazon Standard Time,Porto Velho Time,-04:00,-240,false
+America/Porto_Velho,Amazon Standard Time,-04,-04:00,-240,false
 America/Puerto_Rico,Atlantic Standard Time,AST,-04:00,-240,false
-America/Punta_Arenas,Punta Arenas Time,Punta Arenas Time,-03:00,-180,false
+America/Punta_Arenas,Punta Arenas Time,-03,-03:00,-180,false
 America/Rankin_Inlet,Central Time,CDT,-05:00,-300,true
-America/Recife,Brasilia Standard Time,Recife Time,-03:00,-180,false
+America/Recife,Brasilia Standard Time,-03,-03:00,-180,false
 America/Regina,Central Standard Time,CST,-06:00,-360,false
 America/Resolute,Central Time,CDT,-05:00,-300,true
-America/Rio_Branco,Acre Standard Time,Rio Branco Time,-05:00,-300,false
-America/Santarem,Brasilia Standard Time,Santarém Time,-03:00,-180,false
-America/Santiago,Chile Time,Chile Time,-04:00,-240,false
+America/Rio_Branco,Acre Standard Time,-05,-05:00,-300,false
+America/Santarem,Brasilia Standard Time,-03,-03:00,-180,false
+America/Santiago,Chile Time,-03,-03:00,-180,true
 America/Santo_Domingo,Atlantic Standard Time,AST,-04:00,-240,false
-America/Sao_Paulo,Brasilia Standard Time,São Paulo Time,-03:00,-180,false
-America/Scoresbysund,Greenland Time,Ittoqqortoormiit Time,-01:00,-60,true
+America/Sao_Paulo,Brasilia Standard Time,-03,-03:00,-180,false
+America/Scoresbysund,Greenland Time,-01,-01:00,-60,true
 America/Sitka,Alaska Time,AKDT,-08:00,-480,true
 America/St_Barthelemy,Atlantic Standard Time,AST,-04:00,-240,false
-America/St_Johns,Newfoundland Time,St. John’s Time,-02:30,-150,true
+America/St_Johns,Newfoundland Time,NDT,-02:30,-150,true
 America/St_Kitts,Atlantic Standard Time,AST,-04:00,-240,false
 America/St_Lucia,Atlantic Standard Time,AST,-04:00,-240,false
 America/St_Thomas,Atlantic Standard Time,AST,-04:00,-240,false
@@ -192,228 +192,228 @@ America/Tijuana,Pacific Time,PDT,-07:00,-420,true
 America/Toronto,Eastern Time,EDT,-04:00,-240,true
 America/Tortola,Atlantic Standard Time,AST,-04:00,-240,false
 America/Vancouver,Pacific Time,PDT,-07:00,-420,true
-America/Whitehorse,Yukon Time,Whitehorse Time,-07:00,-420,false
+America/Whitehorse,Yukon Time,MST,-07:00,-420,false
 America/Winnipeg,Central Time,CDT,-05:00,-300,true
 America/Yakutat,Alaska Time,AKDT,-08:00,-480,true
-Antarctica/Casey,Australian Western Standard Time,Casey Station Time,+08:00,480,false
-Antarctica/Davis,Davis Time,Davis Time,+07:00,420,false
-Antarctica/DumontDUrville,Dumont d’Urville Time,Dumont d’Urville Station Time,+10:00,600,false
-Antarctica/Macquarie,Australian Eastern Time,Macquarie Island Time,+10:00,600,false
-Antarctica/Mawson,Mawson Time,Mawson Station Time,+05:00,300,false
-Antarctica/McMurdo,New Zealand Time,McMurdo Station Time,+12:00,720,false
-Antarctica/Palmer,Palmer Land Time,Palmer Land Time,-03:00,-180,false
-Antarctica/Rothera,Rothera Time,Rothera Station Time,-03:00,-180,false
-Antarctica/Syowa,Syowa Time,Showa Station Time,+03:00,180,false
-Antarctica/Troll,Troll Station Time,Troll Station Time,+02:00,120,true
-Antarctica/Vostok,Vostok Time,Vostok Station Time,+05:00,300,false
-Arctic/Longyearbyen,Central European Time,Svalbard & Jan Mayen Time,+02:00,120,true
-Asia/Aden,Arabian Standard Time,Yemen Time,+03:00,180,false
-Asia/Almaty,Kazakhstan Time,Almaty Time,+05:00,300,false
-Asia/Amman,Jordan Time,Jordan Time,+03:00,180,false
-Asia/Anadyr,Kamchatka Standard Time,Anadyr Time,+12:00,720,false
-Asia/Aqtau,Kazakhstan Time,Aktau Time,+05:00,300,false
-Asia/Aqtobe,Kazakhstan Time,Aqtobe Time,+05:00,300,false
-Asia/Ashgabat,Turkmenistan Standard Time,Turkmenistan Time,+05:00,300,false
-Asia/Atyrau,Kazakhstan Time,Atyrau Time,+05:00,300,false
-Asia/Baghdad,Arabian Standard Time,Iraq Time,+03:00,180,false
-Asia/Bahrain,Arabian Standard Time,Bahrain Time,+03:00,180,false
-Asia/Baku,Azerbaijan Standard Time,Azerbaijan Time,+04:00,240,false
-Asia/Bangkok,Indochina Time,Thailand Time,+07:00,420,false
-Asia/Barnaul,Krasnoyarsk Standard Time,Barnaul Time,+07:00,420,false
-Asia/Beirut,Eastern European Time,Lebanon Time,+03:00,180,true
-Asia/Bishkek,Kyrgyzstan Time,Kyrgyzstan Time,+06:00,360,false
-Asia/Brunei,Brunei Time,Brunei Time,+08:00,480,false
-Asia/Calcutta,India Standard Time,India Time,+05:30,330,false
-Asia/Chita,Yakutsk Standard Time,Chita Time,+09:00,540,false
-Asia/Colombo,India Standard Time,Sri Lanka Time,+05:30,330,false
-Asia/Damascus,Syria Time,Syria Time,+03:00,180,false
-Asia/Dhaka,Bangladesh Standard Time,Bangladesh Time,+06:00,360,false
-Asia/Dili,Timor-Leste Time,Timor-Leste Time,+09:00,540,false
-Asia/Dubai,Gulf Standard Time,United Arab Emirates Time,+04:00,240,false
-Asia/Dushanbe,Tajikistan Time,Tajikistan Time,+05:00,300,false
-Asia/Famagusta,Eastern European Time,Famagusta Time,+03:00,180,true
-Asia/Gaza,Eastern European Time,Gaza Time,+03:00,180,true
-Asia/Hebron,Eastern European Time,Hebron Time,+03:00,180,true
-Asia/Hong_Kong,Hong Kong Standard Time,Hong Kong SAR China Time,+08:00,480,false
-Asia/Hovd,Khovd Standard Time,Khovd Time,+07:00,420,false
-Asia/Irkutsk,Irkutsk Standard Time,Irkutsk Time,+08:00,480,false
-Asia/Jakarta,Western Indonesia Time,Jakarta Time,+07:00,420,false
-Asia/Jayapura,Eastern Indonesia Time,Jayapura Time,+09:00,540,false
-Asia/Jerusalem,Israel Time,Israel Time,+03:00,180,true
-Asia/Kabul,Afghanistan Time,Afghanistan Time,+04:30,270,false
-Asia/Kamchatka,Kamchatka Standard Time,Kamchatka Time,+12:00,720,false
-Asia/Karachi,Pakistan Standard Time,Pakistan Time,+05:00,300,false
-Asia/Katmandu,Nepal Time,Nepal Time,+05:45,345,false
-Asia/Khandyga,Yakutsk Standard Time,Khandyga Time,+09:00,540,false
-Asia/Krasnoyarsk,Krasnoyarsk Standard Time,Krasnoyarsk Time,+07:00,420,false
-Asia/Kuala_Lumpur,Malaysia Time,Malaysia Time,+08:00,480,false
-Asia/Kuching,Malaysia Time,Kuching Time,+08:00,480,false
-Asia/Kuwait,Arabian Standard Time,Kuwait Time,+03:00,180,false
-Asia/Macau,China Standard Time,Macao SAR China Time,+08:00,480,false
-Asia/Magadan,Magadan Standard Time,Magadan Time,+11:00,660,false
-Asia/Makassar,Central Indonesia Time,Makassar Time,+08:00,480,false
-Asia/Manila,Philippine Standard Time,Philippines Time,+08:00,480,false
-Asia/Muscat,Gulf Standard Time,Oman Time,+04:00,240,false
-Asia/Nicosia,Eastern European Time,Nicosia Time,+03:00,180,true
-Asia/Novokuznetsk,Krasnoyarsk Standard Time,Novokuznetsk Time,+07:00,420,false
-Asia/Novosibirsk,Krasnoyarsk Standard Time,Novosibirsk Time,+07:00,420,false
-Asia/Omsk,Omsk Standard Time,Omsk Time,+06:00,360,false
-Asia/Oral,Kazakhstan Time,Oral Time,+05:00,300,false
-Asia/Phnom_Penh,Indochina Time,Cambodia Time,+07:00,420,false
-Asia/Pontianak,Western Indonesia Time,Pontianak Time,+07:00,420,false
-Asia/Pyongyang,Korean Standard Time,North Korea Time,+09:00,540,false
-Asia/Qatar,Arabian Standard Time,Qatar Time,+03:00,180,false
-Asia/Qostanay,Kazakhstan Time,Kostanay Time,+05:00,300,false
-Asia/Qyzylorda,Kazakhstan Time,Kyzylorda Time,+05:00,300,false
-Asia/Rangoon,Myanmar Time,Myanmar (Burma) Time,+06:30,390,false
-Asia/Riyadh,Arabian Standard Time,Saudi Arabia Time,+03:00,180,false
-Asia/Saigon,Indochina Time,Vietnam Time,+07:00,420,false
-Asia/Sakhalin,Magadan Standard Time,Sakhalin Time,+11:00,660,false
-Asia/Samarkand,Uzbekistan Standard Time,Samarkand Time,+05:00,300,false
-Asia/Seoul,Korean Standard Time,South Korea Time,+09:00,540,false
-Asia/Shanghai,China Standard Time,China Time,+08:00,480,false
-Asia/Singapore,Singapore Standard Time,Singapore Time,+08:00,480,false
-Asia/Srednekolymsk,Magadan Standard Time,Srednekolymsk Time,+11:00,660,false
-Asia/Taipei,Taiwan Standard Time,Taiwan Time,+08:00,480,false
-Asia/Tashkent,Uzbekistan Standard Time,Uzbekistan Time,+05:00,300,false
-Asia/Tbilisi,Georgia Standard Time,Georgia Time,+04:00,240,false
-Asia/Tehran,Iran Standard Time,Iran Time,+03:30,210,false
-Asia/Thimphu,Bhutan Time,Bhutan Time,+06:00,360,false
-Asia/Tokyo,Japan Standard Time,Japan Time,+09:00,540,false
-Asia/Tomsk,Krasnoyarsk Standard Time,Tomsk Time,+07:00,420,false
-Asia/Ulaanbaatar,Ulaanbaatar Standard Time,Ulaanbaatar Time,+08:00,480,false
-Asia/Urumqi,Ürümqi Time,Ürümqi Time,+06:00,360,false
-Asia/Ust-Nera,Vladivostok Standard Time,Ust-Nera Time,+10:00,600,false
-Asia/Vientiane,Indochina Time,Laos Time,+07:00,420,false
-Asia/Vladivostok,Vladivostok Standard Time,Vladivostok Time,+10:00,600,false
-Asia/Yakutsk,Yakutsk Standard Time,Yakutsk Time,+09:00,540,false
-Asia/Yekaterinburg,Yekaterinburg Standard Time,Yekaterinburg Time,+05:00,300,false
-Asia/Yerevan,Armenia Standard Time,Armenia Time,+04:00,240,false
-Atlantic/Azores,Azores Time,Azores Time,+00:00,0,true
+Antarctica/Casey,Australian Western Standard Time,+08,+08:00,480,false
+Antarctica/Davis,Davis Time,+07,+07:00,420,false
+Antarctica/DumontDUrville,Dumont d’Urville Time,+10,+10:00,600,false
+Antarctica/Macquarie,Australian Eastern Time,AEDT,+11:00,660,true
+Antarctica/Mawson,Mawson Time,+05,+05:00,300,false
+Antarctica/McMurdo,New Zealand Time,NZDT,+13:00,780,true
+Antarctica/Palmer,Palmer Land Time,-03,-03:00,-180,false
+Antarctica/Rothera,Rothera Time,-03,-03:00,-180,false
+Antarctica/Syowa,Syowa Time,+03,+03:00,180,false
+Antarctica/Troll,Troll Station Time,+02,+02:00,120,true
+Antarctica/Vostok,Vostok Time,+05,+05:00,300,false
+Arctic/Longyearbyen,Central European Time,CEST,+02:00,120,true
+Asia/Aden,Arabian Standard Time,+03,+03:00,180,false
+Asia/Almaty,Kazakhstan Time,+05,+05:00,300,false
+Asia/Amman,Jordan Time,+03,+03:00,180,false
+Asia/Anadyr,Kamchatka Standard Time,+12,+12:00,720,false
+Asia/Aqtau,Kazakhstan Time,+05,+05:00,300,false
+Asia/Aqtobe,Kazakhstan Time,+05,+05:00,300,false
+Asia/Ashgabat,Turkmenistan Standard Time,+05,+05:00,300,false
+Asia/Atyrau,Kazakhstan Time,+05,+05:00,300,false
+Asia/Baghdad,Arabian Standard Time,+03,+03:00,180,false
+Asia/Bahrain,Arabian Standard Time,+03,+03:00,180,false
+Asia/Baku,Azerbaijan Standard Time,+04,+04:00,240,false
+Asia/Bangkok,Indochina Time,+07,+07:00,420,false
+Asia/Barnaul,Krasnoyarsk Standard Time,+07,+07:00,420,false
+Asia/Beirut,Eastern European Time,EEST,+03:00,180,true
+Asia/Bishkek,Kyrgyzstan Time,+06,+06:00,360,false
+Asia/Brunei,Brunei Time,+08,+08:00,480,false
+Asia/Calcutta,India Standard Time,IST,+05:30,330,false
+Asia/Chita,Yakutsk Standard Time,+09,+09:00,540,false
+Asia/Colombo,India Standard Time,+0530,+05:30,330,false
+Asia/Damascus,Syria Time,+03,+03:00,180,false
+Asia/Dhaka,Bangladesh Standard Time,+06,+06:00,360,false
+Asia/Dili,Timor-Leste Time,+09,+09:00,540,false
+Asia/Dubai,Gulf Standard Time,+04,+04:00,240,false
+Asia/Dushanbe,Tajikistan Time,+05,+05:00,300,false
+Asia/Famagusta,Eastern European Time,EEST,+03:00,180,true
+Asia/Gaza,Eastern European Time,EEST,+03:00,180,true
+Asia/Hebron,Eastern European Time,EEST,+03:00,180,true
+Asia/Hong_Kong,Hong Kong Standard Time,HKT,+08:00,480,false
+Asia/Hovd,Khovd Standard Time,+07,+07:00,420,false
+Asia/Irkutsk,Irkutsk Standard Time,+08,+08:00,480,false
+Asia/Jakarta,Western Indonesia Time,WIB,+07:00,420,false
+Asia/Jayapura,Eastern Indonesia Time,WIT,+09:00,540,false
+Asia/Jerusalem,Israel Time,IDT,+03:00,180,true
+Asia/Kabul,Afghanistan Time,+0430,+04:30,270,false
+Asia/Kamchatka,Kamchatka Standard Time,+12,+12:00,720,false
+Asia/Karachi,Pakistan Standard Time,PKT,+05:00,300,false
+Asia/Katmandu,Nepal Time,+0545,+05:45,345,false
+Asia/Khandyga,Yakutsk Standard Time,+09,+09:00,540,false
+Asia/Krasnoyarsk,Krasnoyarsk Standard Time,+07,+07:00,420,false
+Asia/Kuala_Lumpur,Malaysia Time,+08,+08:00,480,false
+Asia/Kuching,Malaysia Time,+08,+08:00,480,false
+Asia/Kuwait,Arabian Standard Time,+03,+03:00,180,false
+Asia/Macau,China Standard Time,CST,+08:00,480,false
+Asia/Magadan,Magadan Standard Time,+11,+11:00,660,false
+Asia/Makassar,Central Indonesia Time,WITA,+08:00,480,false
+Asia/Manila,Philippine Standard Time,PST,+08:00,480,false
+Asia/Muscat,Gulf Standard Time,+04,+04:00,240,false
+Asia/Nicosia,Eastern European Time,EEST,+03:00,180,true
+Asia/Novokuznetsk,Krasnoyarsk Standard Time,+07,+07:00,420,false
+Asia/Novosibirsk,Krasnoyarsk Standard Time,+07,+07:00,420,false
+Asia/Omsk,Omsk Standard Time,+06,+06:00,360,false
+Asia/Oral,Kazakhstan Time,+05,+05:00,300,false
+Asia/Phnom_Penh,Indochina Time,+07,+07:00,420,false
+Asia/Pontianak,Western Indonesia Time,WIB,+07:00,420,false
+Asia/Pyongyang,Korean Standard Time,KST,+09:00,540,false
+Asia/Qatar,Arabian Standard Time,+03,+03:00,180,false
+Asia/Qostanay,Kazakhstan Time,+05,+05:00,300,false
+Asia/Qyzylorda,Kazakhstan Time,+05,+05:00,300,false
+Asia/Rangoon,Myanmar Time,+0630,+06:30,390,false
+Asia/Riyadh,Arabian Standard Time,+03,+03:00,180,false
+Asia/Saigon,Indochina Time,+07,+07:00,420,false
+Asia/Sakhalin,Magadan Standard Time,+11,+11:00,660,false
+Asia/Samarkand,Uzbekistan Standard Time,+05,+05:00,300,false
+Asia/Seoul,Korean Standard Time,KST,+09:00,540,false
+Asia/Shanghai,China Standard Time,CST,+08:00,480,false
+Asia/Singapore,Singapore Standard Time,+08,+08:00,480,false
+Asia/Srednekolymsk,Magadan Standard Time,+11,+11:00,660,false
+Asia/Taipei,Taiwan Standard Time,CST,+08:00,480,false
+Asia/Tashkent,Uzbekistan Standard Time,+05,+05:00,300,false
+Asia/Tbilisi,Georgia Standard Time,+04,+04:00,240,false
+Asia/Tehran,Iran Standard Time,+0330,+03:30,210,false
+Asia/Thimphu,Bhutan Time,+06,+06:00,360,false
+Asia/Tokyo,Japan Standard Time,JST,+09:00,540,false
+Asia/Tomsk,Krasnoyarsk Standard Time,+07,+07:00,420,false
+Asia/Ulaanbaatar,Ulaanbaatar Standard Time,+08,+08:00,480,false
+Asia/Urumqi,Ürümqi Time,+06,+06:00,360,false
+Asia/Ust-Nera,Vladivostok Standard Time,+10,+10:00,600,false
+Asia/Vientiane,Indochina Time,+07,+07:00,420,false
+Asia/Vladivostok,Vladivostok Standard Time,+10,+10:00,600,false
+Asia/Yakutsk,Yakutsk Standard Time,+09,+09:00,540,false
+Asia/Yekaterinburg,Yekaterinburg Standard Time,+05,+05:00,300,false
+Asia/Yerevan,Armenia Standard Time,+04,+04:00,240,false
+Atlantic/Azores,Azores Time,+00,+00:00,0,true
 Atlantic/Bermuda,Atlantic Time,ADT,-03:00,-180,true
-Atlantic/Canary,Western European Time,Canaries Time,+01:00,60,true
-Atlantic/Cape_Verde,Cape Verde Standard Time,Cape Verde Time,-01:00,-60,false
-Atlantic/Faeroe,Western European Time,Faroe Islands Time,+01:00,60,true
-Atlantic/Madeira,Western European Time,Madeira Time,+01:00,60,true
+Atlantic/Canary,Western European Time,WEST,+01:00,60,true
+Atlantic/Cape_Verde,Cape Verde Standard Time,-01,-01:00,-60,false
+Atlantic/Faeroe,Western European Time,WEST,+01:00,60,true
+Atlantic/Madeira,Western European Time,WEST,+01:00,60,true
 Atlantic/Reykjavik,Greenwich Mean Time,GMT,+00:00,0,false
-Atlantic/South_Georgia,South Georgia Time,South Georgia & South Sandwich Islands Time,-02:00,-120,false
+Atlantic/South_Georgia,South Georgia Time,-02,-02:00,-120,false
 Atlantic/St_Helena,Greenwich Mean Time,GMT,+00:00,0,false
-Atlantic/Stanley,Falkland Islands Standard Time,Falkland Islands Time,-03:00,-180,false
-Australia/Adelaide,Australian Central Time,Adelaide Time,+09:30,570,false
-Australia/Brisbane,Australian Eastern Standard Time,Brisbane Time,+10:00,600,false
-Australia/Broken_Hill,Australian Central Time,Broken Hill Time,+09:30,570,false
-Australia/Darwin,Australian Central Standard Time,Darwin Time,+09:30,570,false
-Australia/Eucla,Australian Central Western Standard Time,Eucla Time,+08:45,525,false
-Australia/Hobart,Australian Eastern Time,Hobart Time,+10:00,600,false
-Australia/Lindeman,Australian Eastern Standard Time,Lindeman Time,+10:00,600,false
-Australia/Lord_Howe,Lord Howe Time,Lord Howe Island Time,+10:30,630,false
-Australia/Melbourne,Australian Eastern Time,Melbourne Time,+10:00,600,false
-Australia/Perth,Australian Western Standard Time,Perth Time,+08:00,480,false
-Australia/Sydney,Australian Eastern Time,Sydney Time,+10:00,600,false
-Europe/Amsterdam,Central European Time,Netherlands Time,+02:00,120,true
-Europe/Andorra,Central European Time,Andorra Time,+02:00,120,true
-Europe/Astrakhan,Samara Standard Time,Astrakhan Time,+04:00,240,false
-Europe/Athens,Eastern European Time,Greece Time,+03:00,180,true
-Europe/Belgrade,Central European Time,Serbia Time,+02:00,120,true
-Europe/Berlin,Central European Time,Germany Time,+02:00,120,true
-Europe/Bratislava,Central European Time,Slovakia Time,+02:00,120,true
-Europe/Brussels,Central European Time,Belgium Time,+02:00,120,true
-Europe/Bucharest,Eastern European Time,Romania Time,+03:00,180,true
-Europe/Budapest,Central European Time,Hungary Time,+02:00,120,true
-Europe/Busingen,Central European Time,Büsingen Time,+02:00,120,true
-Europe/Chisinau,Eastern European Time,Moldova Time,+03:00,180,true
-Europe/Copenhagen,Central European Time,Denmark Time,+02:00,120,true
-Europe/Dublin,Ireland Time,Ireland Time,+01:00,60,true
-Europe/Gibraltar,Central European Time,Gibraltar Time,+02:00,120,true
-Europe/Guernsey,Guernsey Time,Guernsey Time,+01:00,60,true
-Europe/Helsinki,Eastern European Time,Finland Time,+03:00,180,true
-Europe/Isle_of_Man,Isle of Man Time,Isle of Man Time,+01:00,60,true
-Europe/Istanbul,Türkiye Standard Time,Türkiye Time,+03:00,180,false
-Europe/Jersey,Jersey Time,Jersey Time,+01:00,60,true
-Europe/Kaliningrad,Eastern European Standard Time,Kaliningrad Time,+02:00,120,false
-Europe/Kiev,Eastern European Time,Ukraine Time,+03:00,180,true
-Europe/Kirov,Moscow Standard Time,Kirov Time,+03:00,180,false
-Europe/Lisbon,Western European Time,Portugal Time,+01:00,60,true
-Europe/Ljubljana,Central European Time,Slovenia Time,+02:00,120,true
-Europe/London,United Kingdom Time,United Kingdom Time,+01:00,60,true
-Europe/Luxembourg,Central European Time,Luxembourg Time,+02:00,120,true
-Europe/Madrid,Central European Time,Spain Time,+02:00,120,true
-Europe/Malta,Central European Time,Malta Time,+02:00,120,true
-Europe/Mariehamn,Eastern European Time,Åland Islands Time,+03:00,180,true
-Europe/Minsk,Moscow Standard Time,Belarus Time,+03:00,180,false
-Europe/Monaco,Central European Time,Monaco Time,+02:00,120,true
-Europe/Moscow,Moscow Standard Time,Moscow Time,+03:00,180,false
-Europe/Oslo,Central European Time,Norway Time,+02:00,120,true
-Europe/Paris,Central European Time,France Time,+02:00,120,true
-Europe/Podgorica,Central European Time,Montenegro Time,+02:00,120,true
-Europe/Prague,Central European Time,Czechia Time,+02:00,120,true
-Europe/Riga,Eastern European Time,Latvia Time,+03:00,180,true
-Europe/Rome,Central European Time,Italy Time,+02:00,120,true
-Europe/Samara,Samara Standard Time,Samara Time,+04:00,240,false
-Europe/San_Marino,Central European Time,San Marino Time,+02:00,120,true
-Europe/Sarajevo,Central European Time,Bosnia & Herzegovina Time,+02:00,120,true
-Europe/Saratov,Samara Standard Time,Saratov Time,+04:00,240,false
-Europe/Simferopol,Moscow Standard Time,Simferopol Time,+03:00,180,false
-Europe/Skopje,Central European Time,North Macedonia Time,+02:00,120,true
-Europe/Sofia,Eastern European Time,Bulgaria Time,+03:00,180,true
-Europe/Stockholm,Central European Time,Sweden Time,+02:00,120,true
-Europe/Tallinn,Eastern European Time,Estonia Time,+03:00,180,true
-Europe/Tirane,Central European Time,Albania Time,+02:00,120,true
-Europe/Ulyanovsk,Samara Standard Time,Ulyanovsk Time,+04:00,240,false
-Europe/Vaduz,Central European Time,Liechtenstein Time,+02:00,120,true
-Europe/Vatican,Central European Time,Vatican City Time,+02:00,120,true
-Europe/Vienna,Central European Time,Austria Time,+02:00,120,true
-Europe/Vilnius,Eastern European Time,Lithuania Time,+03:00,180,true
-Europe/Volgograd,Moscow Standard Time,Volgograd Time,+03:00,180,false
-Europe/Warsaw,Central European Time,Poland Time,+02:00,120,true
-Europe/Zagreb,Central European Time,Croatia Time,+02:00,120,true
-Europe/Zurich,Central European Time,Switzerland Time,+02:00,120,true
-Indian/Antananarivo,East Africa Time,Madagascar Time,+03:00,180,false
-Indian/Chagos,Indian Ocean Time,British Indian Ocean Territory Time,+06:00,360,false
-Indian/Christmas,Christmas Island Time,Christmas Island Time,+07:00,420,false
-Indian/Cocos,Cocos Islands Time,Cocos (Keeling) Islands Time,+06:30,390,false
-Indian/Comoro,East Africa Time,Comoros Time,+03:00,180,false
-Indian/Kerguelen,French Southern & Antarctic Time,French Southern Territories Time,+05:00,300,false
-Indian/Mahe,Seychelles Time,Seychelles Time,+04:00,240,false
-Indian/Maldives,Maldives Time,Maldives Time,+05:00,300,false
-Indian/Mauritius,Mauritius Standard Time,Mauritius Time,+04:00,240,false
-Indian/Mayotte,East Africa Time,Mayotte Time,+03:00,180,false
-Indian/Reunion,Réunion Time,Réunion Time,+04:00,240,false
-Pacific/Apia,Samoa Standard Time,Samoa Time,+13:00,780,false
-Pacific/Auckland,New Zealand Time,New Zealand Time,+12:00,720,false
-Pacific/Bougainville,Bougainville Time,Bougainville Time,+11:00,660,false
-Pacific/Chatham,Chatham Time,Chatham Islands Time,+12:45,765,false
-Pacific/Easter,Easter Island Time,Easter Island Time,-06:00,-360,false
-Pacific/Efate,Vanuatu Standard Time,Vanuatu Time,+11:00,660,false
-Pacific/Enderbury,Phoenix Islands Time,Canton Island Time,+13:00,780,false
-Pacific/Fakaofo,Tokelau Time,Tokelau Time,+13:00,780,false
-Pacific/Fiji,Fiji Standard Time,Fiji Time,+12:00,720,false
-Pacific/Funafuti,Tuvalu Time,Tuvalu Time,+12:00,720,false
-Pacific/Galapagos,Galapagos Time,Galápagos Islands Time,-06:00,-360,false
-Pacific/Gambier,Gambier Time,Gambier Time,-09:00,-540,false
-Pacific/Guadalcanal,Solomon Islands Time,Solomon Islands Time,+11:00,660,false
-Pacific/Guam,Chamorro Standard Time,Guam Time,+10:00,600,false
+Atlantic/Stanley,Falkland Islands Standard Time,-03,-03:00,-180,false
+Australia/Adelaide,Australian Central Time,ACDT,+10:30,630,true
+Australia/Brisbane,Australian Eastern Standard Time,AEST,+10:00,600,false
+Australia/Broken_Hill,Australian Central Time,ACDT,+10:30,630,true
+Australia/Darwin,Australian Central Standard Time,ACST,+09:30,570,false
+Australia/Eucla,Australian Central Western Standard Time,+0845,+08:45,525,false
+Australia/Hobart,Australian Eastern Time,AEDT,+11:00,660,true
+Australia/Lindeman,Australian Eastern Standard Time,AEST,+10:00,600,false
+Australia/Lord_Howe,Lord Howe Time,+11,+11:00,660,true
+Australia/Melbourne,Australian Eastern Time,AEDT,+11:00,660,true
+Australia/Perth,Australian Western Standard Time,AWST,+08:00,480,false
+Australia/Sydney,Australian Eastern Time,AEDT,+11:00,660,true
+Europe/Amsterdam,Central European Time,CEST,+02:00,120,true
+Europe/Andorra,Central European Time,CEST,+02:00,120,true
+Europe/Astrakhan,Samara Standard Time,+04,+04:00,240,false
+Europe/Athens,Eastern European Time,EEST,+03:00,180,true
+Europe/Belgrade,Central European Time,CEST,+02:00,120,true
+Europe/Berlin,Central European Time,CEST,+02:00,120,true
+Europe/Bratislava,Central European Time,CEST,+02:00,120,true
+Europe/Brussels,Central European Time,CEST,+02:00,120,true
+Europe/Bucharest,Eastern European Time,EEST,+03:00,180,true
+Europe/Budapest,Central European Time,CEST,+02:00,120,true
+Europe/Busingen,Central European Time,CEST,+02:00,120,true
+Europe/Chisinau,Eastern European Time,EEST,+03:00,180,true
+Europe/Copenhagen,Central European Time,CEST,+02:00,120,true
+Europe/Dublin,Ireland Time,IST,+01:00,60,false
+Europe/Gibraltar,Central European Time,CEST,+02:00,120,true
+Europe/Guernsey,Guernsey Time,BST,+01:00,60,true
+Europe/Helsinki,Eastern European Time,EEST,+03:00,180,true
+Europe/Isle_of_Man,Isle of Man Time,BST,+01:00,60,true
+Europe/Istanbul,Türkiye Standard Time,+03,+03:00,180,false
+Europe/Jersey,Jersey Time,BST,+01:00,60,true
+Europe/Kaliningrad,Eastern European Standard Time,EET,+02:00,120,false
+Europe/Kiev,Eastern European Time,EEST,+03:00,180,true
+Europe/Kirov,Moscow Standard Time,MSK,+03:00,180,false
+Europe/Lisbon,Western European Time,WEST,+01:00,60,true
+Europe/Ljubljana,Central European Time,CEST,+02:00,120,true
+Europe/London,United Kingdom Time,BST,+01:00,60,true
+Europe/Luxembourg,Central European Time,CEST,+02:00,120,true
+Europe/Madrid,Central European Time,CEST,+02:00,120,true
+Europe/Malta,Central European Time,CEST,+02:00,120,true
+Europe/Mariehamn,Eastern European Time,EEST,+03:00,180,true
+Europe/Minsk,Moscow Standard Time,+03,+03:00,180,false
+Europe/Monaco,Central European Time,CEST,+02:00,120,true
+Europe/Moscow,Moscow Standard Time,MSK,+03:00,180,false
+Europe/Oslo,Central European Time,CEST,+02:00,120,true
+Europe/Paris,Central European Time,CEST,+02:00,120,true
+Europe/Podgorica,Central European Time,CEST,+02:00,120,true
+Europe/Prague,Central European Time,CEST,+02:00,120,true
+Europe/Riga,Eastern European Time,EEST,+03:00,180,true
+Europe/Rome,Central European Time,CEST,+02:00,120,true
+Europe/Samara,Samara Standard Time,+04,+04:00,240,false
+Europe/San_Marino,Central European Time,CEST,+02:00,120,true
+Europe/Sarajevo,Central European Time,CEST,+02:00,120,true
+Europe/Saratov,Samara Standard Time,+04,+04:00,240,false
+Europe/Simferopol,Moscow Standard Time,MSK,+03:00,180,false
+Europe/Skopje,Central European Time,CEST,+02:00,120,true
+Europe/Sofia,Eastern European Time,EEST,+03:00,180,true
+Europe/Stockholm,Central European Time,CEST,+02:00,120,true
+Europe/Tallinn,Eastern European Time,EEST,+03:00,180,true
+Europe/Tirane,Central European Time,CEST,+02:00,120,true
+Europe/Ulyanovsk,Samara Standard Time,+04,+04:00,240,false
+Europe/Vaduz,Central European Time,CEST,+02:00,120,true
+Europe/Vatican,Central European Time,CEST,+02:00,120,true
+Europe/Vienna,Central European Time,CEST,+02:00,120,true
+Europe/Vilnius,Eastern European Time,EEST,+03:00,180,true
+Europe/Volgograd,Moscow Standard Time,MSK,+03:00,180,false
+Europe/Warsaw,Central European Time,CEST,+02:00,120,true
+Europe/Zagreb,Central European Time,CEST,+02:00,120,true
+Europe/Zurich,Central European Time,CEST,+02:00,120,true
+Indian/Antananarivo,East Africa Time,EAT,+03:00,180,false
+Indian/Chagos,Indian Ocean Time,+06,+06:00,360,false
+Indian/Christmas,Christmas Island Time,+07,+07:00,420,false
+Indian/Cocos,Cocos Islands Time,+0630,+06:30,390,false
+Indian/Comoro,East Africa Time,EAT,+03:00,180,false
+Indian/Kerguelen,French Southern & Antarctic Time,+05,+05:00,300,false
+Indian/Mahe,Seychelles Time,+04,+04:00,240,false
+Indian/Maldives,Maldives Time,+05,+05:00,300,false
+Indian/Mauritius,Mauritius Standard Time,+04,+04:00,240,false
+Indian/Mayotte,East Africa Time,EAT,+03:00,180,false
+Indian/Reunion,Réunion Time,+04,+04:00,240,false
+Pacific/Apia,Samoa Standard Time,+13,+13:00,780,false
+Pacific/Auckland,New Zealand Time,NZDT,+13:00,780,true
+Pacific/Bougainville,Bougainville Time,+11,+11:00,660,false
+Pacific/Chatham,Chatham Time,+1345,+13:45,825,true
+Pacific/Easter,Easter Island Time,-05,-05:00,-300,true
+Pacific/Efate,Vanuatu Standard Time,+11,+11:00,660,false
+Pacific/Enderbury,Phoenix Islands Time,+13,+13:00,780,false
+Pacific/Fakaofo,Tokelau Time,+13,+13:00,780,false
+Pacific/Fiji,Fiji Standard Time,+12,+12:00,720,false
+Pacific/Funafuti,Tuvalu Time,+12,+12:00,720,false
+Pacific/Galapagos,Galapagos Time,-06,-06:00,-360,false
+Pacific/Gambier,Gambier Time,-09,-09:00,-540,false
+Pacific/Guadalcanal,Solomon Islands Time,+11,+11:00,660,false
+Pacific/Guam,Chamorro Standard Time,ChST,+10:00,600,false
 Pacific/Honolulu,Hawaii-Aleutian Standard Time,HST,-10:00,-600,false
-Pacific/Kiritimati,Line Islands Time,Kiritimati Time,+14:00,840,false
-Pacific/Kosrae,Kosrae Time,Kosrae Time,+11:00,660,false
-Pacific/Kwajalein,Marshall Islands Time,Kwajalein Atoll Time,+12:00,720,false
-Pacific/Majuro,Marshall Islands Time,Marshall Islands Time,+12:00,720,false
-Pacific/Marquesas,Marquesas Time,Marquesas Islands Time,-09:30,-570,false
-Pacific/Midway,American Samoa Standard Time,Midway Atoll Time,-11:00,-660,false
-Pacific/Nauru,Nauru Time,Nauru Time,+12:00,720,false
-Pacific/Niue,Niue Time,Niue Time,-11:00,-660,false
-Pacific/Norfolk,Norfolk Island Time,Norfolk Island Time,+11:00,660,false
-Pacific/Noumea,New Caledonia Standard Time,New Caledonia Time,+11:00,660,false
-Pacific/Pago_Pago,American Samoa Standard Time,American Samoa Time,-11:00,-660,false
-Pacific/Palau,Palau Time,Palau Time,+09:00,540,false
-Pacific/Pitcairn,Pitcairn Time,Pitcairn Islands Time,-08:00,-480,false
-Pacific/Ponape,Pohnpei Time,Pohnpei Time,+11:00,660,false
-Pacific/Port_Moresby,Papua New Guinea Time,Port Moresby Time,+10:00,600,false
-Pacific/Rarotonga,Cook Islands Standard Time,Cook Islands Time,-10:00,-600,false
-Pacific/Saipan,Chamorro Standard Time,Northern Mariana Islands Time,+10:00,600,false
-Pacific/Tahiti,Tahiti Time,Tahiti Time,-10:00,-600,false
-Pacific/Tarawa,Gilbert Islands Time,Tarawa Time,+12:00,720,false
-Pacific/Tongatapu,Tonga Standard Time,Tonga Time,+13:00,780,false
-Pacific/Truk,Chuuk Time,Chuuk Time,+10:00,600,false
-Pacific/Wake,Wake Island Time,Wake Island Time,+12:00,720,false
-Pacific/Wallis,Wallis & Futuna Time,Wallis & Futuna Time,+12:00,720,false
+Pacific/Kiritimati,Line Islands Time,+14,+14:00,840,false
+Pacific/Kosrae,Kosrae Time,+11,+11:00,660,false
+Pacific/Kwajalein,Marshall Islands Time,+12,+12:00,720,false
+Pacific/Majuro,Marshall Islands Time,+12,+12:00,720,false
+Pacific/Marquesas,Marquesas Time,-0930,-09:30,-570,false
+Pacific/Midway,American Samoa Standard Time,SST,-11:00,-660,false
+Pacific/Nauru,Nauru Time,+12,+12:00,720,false
+Pacific/Niue,Niue Time,-11,-11:00,-660,false
+Pacific/Norfolk,Norfolk Island Time,+12,+12:00,720,true
+Pacific/Noumea,New Caledonia Standard Time,+11,+11:00,660,false
+Pacific/Pago_Pago,American Samoa Standard Time,SST,-11:00,-660,false
+Pacific/Palau,Palau Time,+09,+09:00,540,false
+Pacific/Pitcairn,Pitcairn Time,-08,-08:00,-480,false
+Pacific/Ponape,Pohnpei Time,+11,+11:00,660,false
+Pacific/Port_Moresby,Papua New Guinea Time,+10,+10:00,600,false
+Pacific/Rarotonga,Cook Islands Standard Time,-10,-10:00,-600,false
+Pacific/Saipan,Chamorro Standard Time,ChST,+10:00,600,false
+Pacific/Tahiti,Tahiti Time,-10,-10:00,-600,false
+Pacific/Tarawa,Gilbert Islands Time,+12,+12:00,720,false
+Pacific/Tongatapu,Tonga Standard Time,+13,+13:00,780,false
+Pacific/Truk,Chuuk Time,+10,+10:00,600,false
+Pacific/Wake,Wake Island Time,+12,+12:00,720,false
+Pacific/Wallis,Wallis & Futuna Time,+12,+12:00,720,false

@@ -4,4 +4,4 @@ Every ISO 4217 currency with its numeric code, name, symbol, decimal digits, and
 
 Source: ISO 4217 reference data. Refreshed monthly.
 
-Generated from GET /currency/{code}. Live lookups: [parseapi.com/currency](https://parseapi.com/currency).
+Generated from GET /currency/{code}?deep=true. Live lookups: [parseapi.com/currency](https://parseapi.com/currency).

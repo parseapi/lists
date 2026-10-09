@@ -4,4 +4,4 @@ Every language with its ISO 639-1 code, ISO 639-3 code, English name, native nam
 
 Source: ISO 639 and Unicode CLDR reference data. Refreshed monthly.
 
-Generated from GET /language/{code}. Live lookups: [parseapi.com/language](https://parseapi.com/language).
+Generated from GET /language/{code}?deep=true. Live lookups: [parseapi.com/language](https://parseapi.com/language).

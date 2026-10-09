@@ -4,4 +4,4 @@ Every geographic North American area code (NPA) with the state or territory it b
 
 Source: the North American Numbering Plan. Refreshed monthly.
 
-Generated from GET /phone/{number}. Live lookups: [parseapi.com/phone](https://parseapi.com/phone).
+Generated from GET /phone/{number}?deep=true. Live lookups: [parseapi.com/phone](https://parseapi.com/phone).

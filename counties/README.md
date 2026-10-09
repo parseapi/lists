@@ -4,4 +4,4 @@ Every US county with its five-digit FIPS code, state, and population, including 
 
 Source: US Census and official national sources. Refreshed monthly.
 
-Generated from GET /state/{code}/districts. Live lookups: [parseapi.com/district](https://parseapi.com/district).
+Generated from GET /state/{code}/districts?country={country}&deep=true. Live lookups: [parseapi.com/district](https://parseapi.com/district).

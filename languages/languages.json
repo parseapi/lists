@@ -3,7 +3,7 @@
     "language": "aa",
     "iso3": "aar",
     "name": "Afar",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -12,7 +12,7 @@
     "language": "ab",
     "iso3": "abk",
     "name": "Abkhazian",
-    "local_name": "Аԥсшәа",
+    "name_local": "Аԥсшәа",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": []
@@ -21,7 +21,7 @@
     "language": "ae",
     "iso3": "ave",
     "name": "Avestan",
-    "local_name": null,
+    "name_local": null,
     "script": "Avst",
     "direction": "rtl",
     "countries": []
@@ -30,7 +30,7 @@
     "language": "af",
     "iso3": "afr",
     "name": "Afrikaans",
-    "local_name": "Afrikaans",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -42,7 +42,7 @@
     "language": "ak",
     "iso3": "aka",
     "name": "Akan",
-    "local_name": "Akan",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -51,7 +51,7 @@
     "language": "am",
     "iso3": "amh",
     "name": "Amharic",
-    "local_name": "አማርኛ",
+    "name_local": "አማርኛ",
     "script": "Ethi",
     "direction": "ltr",
     "countries": [
@@ -62,7 +62,7 @@
     "language": "an",
     "iso3": "arg",
     "name": "Aragonese",
-    "local_name": "aragonés",
+    "name_local": "aragonés",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -71,7 +71,7 @@
     "language": "ar",
     "iso3": "ara",
     "name": "Arabic",
-    "local_name": "العربية",
+    "name_local": "العربية",
     "script": "Arab",
     "direction": "rtl",
     "countries": [
@@ -106,7 +106,7 @@
     "language": "as",
     "iso3": "asm",
     "name": "Assamese",
-    "local_name": "অসমীয়া",
+    "name_local": "অসমীয়া",
     "script": "Beng",
     "direction": "ltr",
     "countries": []
@@ -115,7 +115,7 @@
     "language": "av",
     "iso3": "ava",
     "name": "Avaric",
-    "local_name": null,
+    "name_local": null,
     "script": "Cyrl",
     "direction": "ltr",
     "countries": []
@@ -124,7 +124,7 @@
     "language": "ay",
     "iso3": "aym",
     "name": "Aymara",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -136,7 +136,7 @@
     "language": "az",
     "iso3": "aze",
     "name": "Azerbaijani",
-    "local_name": "azərbaycan",
+    "name_local": "azərbaycan",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -147,7 +147,7 @@
     "language": "ba",
     "iso3": "bak",
     "name": "Bashkir",
-    "local_name": "башҡорт",
+    "name_local": "башҡорт",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": []
@@ -156,7 +156,7 @@
     "language": "bar",
     "iso3": "bar",
     "name": "Bavarian",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -167,7 +167,7 @@
     "language": "be",
     "iso3": "bel",
     "name": "Belarusian",
-    "local_name": "беларуская",
+    "name_local": "беларуская",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": [
@@ -178,7 +178,7 @@
     "language": "ber",
     "iso3": "ber",
     "name": "Berber languages",
-    "local_name": null,
+    "name_local": null,
     "script": null,
     "direction": "ltr",
     "countries": [
@@ -190,7 +190,7 @@
     "language": "bg",
     "iso3": "bul",
     "name": "Bulgarian",
-    "local_name": "български",
+    "name_local": "български",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": [
@@ -201,7 +201,7 @@
     "language": "bi",
     "iso3": "bis",
     "name": "Bislama",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -212,7 +212,7 @@
     "language": "bm",
     "iso3": "bam",
     "name": "Bambara",
-    "local_name": "bamanakan",
+    "name_local": "bamanakan",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -221,7 +221,7 @@
     "language": "bn",
     "iso3": "ben",
     "name": "Bangla",
-    "local_name": "বাংলা",
+    "name_local": "বাংলা",
     "script": "Beng",
     "direction": "ltr",
     "countries": [
@@ -232,7 +232,7 @@
     "language": "bo",
     "iso3": "bod",
     "name": "Tibetan",
-    "local_name": "བོད་སྐད་",
+    "name_local": "བོད་སྐད་",
     "script": "Tibt",
     "direction": "ltr",
     "countries": []
@@ -241,7 +241,7 @@
     "language": "br",
     "iso3": "bre",
     "name": "Breton",
-    "local_name": "brezhoneg",
+    "name_local": "brezhoneg",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -250,7 +250,7 @@
     "language": "bs",
     "iso3": "bos",
     "name": "Bosnian",
-    "local_name": "bosanski",
+    "name_local": "bosanski",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -261,7 +261,7 @@
     "language": "bwg",
     "iso3": "bwg",
     "name": "Barwe",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -272,7 +272,7 @@
     "language": "bzj",
     "iso3": "bzj",
     "name": "Belize Kriol English",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -283,7 +283,7 @@
     "language": "ca",
     "iso3": "cat",
     "name": "Catalan",
-    "local_name": "català",
+    "name_local": "català",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -294,7 +294,7 @@
     "language": "cal",
     "iso3": "cal",
     "name": "Carolinian",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -305,7 +305,7 @@
     "language": "ce",
     "iso3": "che",
     "name": "Chechen",
-    "local_name": "нохчийн",
+    "name_local": "нохчийн",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": []
@@ -314,7 +314,7 @@
     "language": "ch",
     "iso3": "cha",
     "name": "Chamorro",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -326,7 +326,7 @@
     "language": "ckb",
     "iso3": "ckb",
     "name": "Central Kurdish",
-    "local_name": "کوردیی ناوەندی",
+    "name_local": "کوردیی ناوەندی",
     "script": "Arab",
     "direction": "rtl",
     "countries": [
@@ -337,7 +337,7 @@
     "language": "cnr",
     "iso3": "cnr",
     "name": "Montenegrin",
-    "local_name": null,
+    "name_local": null,
     "script": null,
     "direction": "ltr",
     "countries": [
@@ -348,7 +348,7 @@
     "language": "co",
     "iso3": "cos",
     "name": "Corsican",
-    "local_name": "corsu",
+    "name_local": "corsu",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -357,7 +357,7 @@
     "language": "cr",
     "iso3": "cre",
     "name": "Cree",
-    "local_name": null,
+    "name_local": null,
     "script": "Cans",
     "direction": "ltr",
     "countries": []
@@ -366,7 +366,7 @@
     "language": "crs",
     "iso3": "crs",
     "name": "Seselwa Creole French",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -377,7 +377,7 @@
     "language": "cs",
     "iso3": "ces",
     "name": "Czech",
-    "local_name": "čeština",
+    "name_local": "čeština",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -388,7 +388,7 @@
     "language": "cu",
     "iso3": "chu",
     "name": "Church Slavic",
-    "local_name": null,
+    "name_local": null,
     "script": "Cyrl",
     "direction": "ltr",
     "countries": []
@@ -397,7 +397,7 @@
     "language": "cv",
     "iso3": "chv",
     "name": "Chuvash",
-    "local_name": "чӑваш чӗлхи",
+    "name_local": "чӑваш чӗлхи",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": []
@@ -406,7 +406,7 @@
     "language": "cy",
     "iso3": "cym",
     "name": "Welsh",
-    "local_name": "Cymraeg",
+    "name_local": "Cymraeg",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -415,7 +415,7 @@
     "language": "da",
     "iso3": "dan",
     "name": "Danish",
-    "local_name": "dansk",
+    "name_local": "dansk",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -427,7 +427,7 @@
     "language": "de",
     "iso3": "deu",
     "name": "German",
-    "local_name": "Deutsch",
+    "name_local": "Deutsch",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -442,7 +442,7 @@
     "language": "dv",
     "iso3": "div",
     "name": "Divehi",
-    "local_name": null,
+    "name_local": null,
     "script": "Thaa",
     "direction": "rtl",
     "countries": [
@@ -453,7 +453,7 @@
     "language": "dz",
     "iso3": "dzo",
     "name": "Dzongkha",
-    "local_name": "རྫོང་ཁ",
+    "name_local": "རྫོང་ཁ",
     "script": "Tibt",
     "direction": "ltr",
     "countries": [
@@ -464,7 +464,7 @@
     "language": "ee",
     "iso3": "ewe",
     "name": "Ewe",
-    "local_name": "eʋegbe",
+    "name_local": "eʋegbe",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -473,7 +473,7 @@
     "language": "el",
     "iso3": "ell",
     "name": "Greek",
-    "local_name": "Ελληνικά",
+    "name_local": "Ελληνικά",
     "script": "Grek",
     "direction": "ltr",
     "countries": [
@@ -485,7 +485,7 @@
     "language": "en",
     "iso3": "eng",
     "name": "English",
-    "local_name": "English",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -586,7 +586,7 @@
     "language": "eo",
     "iso3": "epo",
     "name": "Esperanto",
-    "local_name": "Esperanto",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -595,7 +595,7 @@
     "language": "es",
     "iso3": "spa",
     "name": "Spanish",
-    "local_name": "español",
+    "name_local": "español",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -629,7 +629,7 @@
     "language": "et",
     "iso3": "est",
     "name": "Estonian",
-    "local_name": "eesti",
+    "name_local": "eesti",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -640,7 +640,7 @@
     "language": "eu",
     "iso3": "eus",
     "name": "Basque",
-    "local_name": "euskara",
+    "name_local": "euskara",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -649,7 +649,7 @@
     "language": "fa",
     "iso3": "fas",
     "name": "Persian",
-    "local_name": "فارسی",
+    "name_local": "فارسی",
     "script": "Arab",
     "direction": "rtl",
     "countries": [
@@ -660,7 +660,7 @@
     "language": "ff",
     "iso3": "ful",
     "name": "Fula",
-    "local_name": "Pulaar",
+    "name_local": "Pulaar",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -669,7 +669,7 @@
     "language": "fi",
     "iso3": "fin",
     "name": "Finnish",
-    "local_name": "suomi",
+    "name_local": "suomi",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -680,7 +680,7 @@
     "language": "fil",
     "iso3": "fil",
     "name": "Filipino",
-    "local_name": "Filipino",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -691,7 +691,7 @@
     "language": "fj",
     "iso3": "fij",
     "name": "Fijian",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -702,7 +702,7 @@
     "language": "fo",
     "iso3": "fao",
     "name": "Faroese",
-    "local_name": "føroyskt",
+    "name_local": "føroyskt",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -713,7 +713,7 @@
     "language": "fr",
     "iso3": "fra",
     "name": "French",
-    "local_name": "français",
+    "name_local": "français",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -768,7 +768,7 @@
     "language": "fy",
     "iso3": "fry",
     "name": "Western Frisian",
-    "local_name": "Frysk",
+    "name_local": "Frysk",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -777,7 +777,7 @@
     "language": "ga",
     "iso3": "gle",
     "name": "Irish",
-    "local_name": "Gaeilge",
+    "name_local": "Gaeilge",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -788,7 +788,7 @@
     "language": "gd",
     "iso3": "gla",
     "name": "Scottish Gaelic",
-    "local_name": "Gàidhlig",
+    "name_local": "Gàidhlig",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -797,7 +797,7 @@
     "language": "gil",
     "iso3": "gil",
     "name": "Gilbertese",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -808,7 +808,7 @@
     "language": "gl",
     "iso3": "glg",
     "name": "Galician",
-    "local_name": "galego",
+    "name_local": "galego",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -817,7 +817,7 @@
     "language": "gn",
     "iso3": "grn",
     "name": "Guarani",
-    "local_name": "avañe’ẽ",
+    "name_local": "avañe’ẽ",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -830,7 +830,7 @@
     "language": "gsw",
     "iso3": "gsw",
     "name": "Swiss German",
-    "local_name": "Schwiizertüütsch",
+    "name_local": "Schwiizertüütsch",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -841,7 +841,7 @@
     "language": "gu",
     "iso3": "guj",
     "name": "Gujarati",
-    "local_name": "ગુજરાતી",
+    "name_local": "ગુજરાતી",
     "script": "Gujr",
     "direction": "ltr",
     "countries": []
@@ -850,7 +850,7 @@
     "language": "gv",
     "iso3": "glv",
     "name": "Manx",
-    "local_name": "Gaelg",
+    "name_local": "Gaelg",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -861,7 +861,7 @@
     "language": "ha",
     "iso3": "hau",
     "name": "Hausa",
-    "local_name": "Hausa",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -870,7 +870,7 @@
     "language": "he",
     "iso3": "heb",
     "name": "Hebrew",
-    "local_name": "עברית",
+    "name_local": "עברית",
     "script": "Hebr",
     "direction": "rtl",
     "countries": [
@@ -881,7 +881,7 @@
     "language": "hi",
     "iso3": "hin",
     "name": "Hindi",
-    "local_name": "हिन्दी",
+    "name_local": "हिन्दी",
     "script": "Deva",
     "direction": "ltr",
     "countries": [
@@ -892,7 +892,7 @@
     "language": "hif",
     "iso3": "hif",
     "name": "Fiji Hindi",
-    "local_name": null,
+    "name_local": null,
     "script": "Deva",
     "direction": "ltr",
     "countries": [
@@ -903,7 +903,7 @@
     "language": "ho",
     "iso3": "hmo",
     "name": "Hiri Motu",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -914,7 +914,7 @@
     "language": "hr",
     "iso3": "hrv",
     "name": "Croatian",
-    "local_name": "hrvatski",
+    "name_local": "hrvatski",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -926,7 +926,7 @@
     "language": "ht",
     "iso3": "hat",
     "name": "Haitian Creole",
-    "local_name": "Kreyòl Ayisyen",
+    "name_local": "Kreyòl Ayisyen",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -937,7 +937,7 @@
     "language": "hu",
     "iso3": "hun",
     "name": "Hungarian",
-    "local_name": "magyar",
+    "name_local": "magyar",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -948,7 +948,7 @@
     "language": "hy",
     "iso3": "hye",
     "name": "Armenian",
-    "local_name": "հայերեն",
+    "name_local": "հայերեն",
     "script": "Armn",
     "direction": "ltr",
     "countries": [
@@ -959,7 +959,7 @@
     "language": "hz",
     "iso3": "her",
     "name": "Herero",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -970,7 +970,7 @@
     "language": "ia",
     "iso3": "ina",
     "name": "Interlingua",
-    "local_name": "interlingua",
+    "name_local": "interlingua",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -979,7 +979,7 @@
     "language": "id",
     "iso3": "ind",
     "name": "Indonesian",
-    "local_name": "Indonesia",
+    "name_local": "Indonesia",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -990,7 +990,7 @@
     "language": "ie",
     "iso3": "ile",
     "name": "Interlingue",
-    "local_name": "Interlingue",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -999,7 +999,7 @@
     "language": "ig",
     "iso3": "ibo",
     "name": "Igbo",
-    "local_name": "Igbo",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1008,7 +1008,7 @@
     "language": "ii",
     "iso3": "iii",
     "name": "Sichuan Yi",
-    "local_name": "ꆈꌠꉙ",
+    "name_local": "ꆈꌠꉙ",
     "script": "Yiii",
     "direction": "ltr",
     "countries": []
@@ -1017,7 +1017,7 @@
     "language": "ik",
     "iso3": "ipk",
     "name": "Inupiaq",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1026,7 +1026,7 @@
     "language": "io",
     "iso3": "ido",
     "name": "Ido",
-    "local_name": "Ido",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1035,7 +1035,7 @@
     "language": "is",
     "iso3": "isl",
     "name": "Icelandic",
-    "local_name": "íslenska",
+    "name_local": "íslenska",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1046,7 +1046,7 @@
     "language": "it",
     "iso3": "ita",
     "name": "Italian",
-    "local_name": "italiano",
+    "name_local": "italiano",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1060,7 +1060,7 @@
     "language": "iu",
     "iso3": "iku",
     "name": "Inuktitut",
-    "local_name": null,
+    "name_local": null,
     "script": "Cans",
     "direction": "ltr",
     "countries": []
@@ -1069,7 +1069,7 @@
     "language": "ja",
     "iso3": "jpn",
     "name": "Japanese",
-    "local_name": "日本語",
+    "name_local": "日本語",
     "script": "Jpan",
     "direction": "ltr",
     "countries": [
@@ -1080,7 +1080,7 @@
     "language": "jam",
     "iso3": "jam",
     "name": "Jamaican Creole English",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1091,7 +1091,7 @@
     "language": "jv",
     "iso3": "jav",
     "name": "Javanese",
-    "local_name": "Jawa",
+    "name_local": "Jawa",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1100,7 +1100,7 @@
     "language": "ka",
     "iso3": "kat",
     "name": "Georgian",
-    "local_name": "ქართული",
+    "name_local": "ქართული",
     "script": "Geor",
     "direction": "ltr",
     "countries": [
@@ -1111,7 +1111,7 @@
     "language": "kck",
     "iso3": "kck",
     "name": "Kalanga",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1122,7 +1122,7 @@
     "language": "kg",
     "iso3": "kon",
     "name": "Kongo",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1134,7 +1134,7 @@
     "language": "khi",
     "iso3": "khi",
     "name": "Khoisan languages",
-    "local_name": null,
+    "name_local": null,
     "script": null,
     "direction": "ltr",
     "countries": [
@@ -1145,7 +1145,7 @@
     "language": "ki",
     "iso3": "kik",
     "name": "Kikuyu",
-    "local_name": "Gikuyu",
+    "name_local": "Gikuyu",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1154,7 +1154,7 @@
     "language": "kj",
     "iso3": "kua",
     "name": "Kuanyama",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1163,7 +1163,7 @@
     "language": "kk",
     "iso3": "kaz",
     "name": "Kazakh",
-    "local_name": "қазақ тілі",
+    "name_local": "қазақ тілі",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": [
@@ -1174,7 +1174,7 @@
     "language": "kl",
     "iso3": "kal",
     "name": "Kalaallisut",
-    "local_name": "kalaallisut",
+    "name_local": "kalaallisut",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1185,7 +1185,7 @@
     "language": "km",
     "iso3": "khm",
     "name": "Khmer",
-    "local_name": "ខ្មែរ",
+    "name_local": "ខ្មែរ",
     "script": "Khmr",
     "direction": "ltr",
     "countries": [
@@ -1196,7 +1196,7 @@
     "language": "kn",
     "iso3": "kan",
     "name": "Kannada",
-    "local_name": "ಕನ್ನಡ",
+    "name_local": "ಕನ್ನಡ",
     "script": "Knda",
     "direction": "ltr",
     "countries": []
@@ -1205,7 +1205,7 @@
     "language": "ko",
     "iso3": "kor",
     "name": "Korean",
-    "local_name": "한국어",
+    "name_local": "한국어",
     "script": "Kore",
     "direction": "ltr",
     "countries": [
@@ -1217,7 +1217,7 @@
     "language": "kr",
     "iso3": "kau",
     "name": "Kanuri",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1226,7 +1226,7 @@
     "language": "ks",
     "iso3": "kas",
     "name": "Kashmiri",
-    "local_name": "کٲشُر",
+    "name_local": "کٲشُر",
     "script": "Arab",
     "direction": "rtl",
     "countries": []
@@ -1235,7 +1235,7 @@
     "language": "ku",
     "iso3": "kur",
     "name": "Kurdish",
-    "local_name": "kurdî (kurmancî)",
+    "name_local": "kurdî (kurmancî)",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1244,7 +1244,7 @@
     "language": "kv",
     "iso3": "kom",
     "name": "Komi",
-    "local_name": null,
+    "name_local": null,
     "script": "Cyrl",
     "direction": "ltr",
     "countries": []
@@ -1253,7 +1253,7 @@
     "language": "kw",
     "iso3": "cor",
     "name": "Cornish",
-    "local_name": "kernewek",
+    "name_local": "kernewek",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1262,7 +1262,7 @@
     "language": "kwn",
     "iso3": "kwn",
     "name": "Kwangali",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1273,7 +1273,7 @@
     "language": "ky",
     "iso3": "kir",
     "name": "Kyrgyz",
-    "local_name": "кыргызча",
+    "name_local": "кыргызча",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": [
@@ -1284,7 +1284,7 @@
     "language": "la",
     "iso3": "lat",
     "name": "Latin",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1295,7 +1295,7 @@
     "language": "lb",
     "iso3": "ltz",
     "name": "Luxembourgish",
-    "local_name": "Lëtzebuergesch",
+    "name_local": "Lëtzebuergesch",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1306,7 +1306,7 @@
     "language": "lg",
     "iso3": "lug",
     "name": "Ganda",
-    "local_name": "Luganda",
+    "name_local": "Luganda",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1315,7 +1315,7 @@
     "language": "li",
     "iso3": "lim",
     "name": "Limburgish",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1324,7 +1324,7 @@
     "language": "ln",
     "iso3": "lin",
     "name": "Lingala",
-    "local_name": "lingála",
+    "name_local": "lingála",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1336,7 +1336,7 @@
     "language": "lo",
     "iso3": "lao",
     "name": "Lao",
-    "local_name": "ລາວ",
+    "name_local": "ລາວ",
     "script": "Laoo",
     "direction": "ltr",
     "countries": [
@@ -1347,7 +1347,7 @@
     "language": "loz",
     "iso3": "loz",
     "name": "Lozi",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1358,7 +1358,7 @@
     "language": "lt",
     "iso3": "lit",
     "name": "Lithuanian",
-    "local_name": "lietuvių",
+    "name_local": "lietuvių",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1369,7 +1369,7 @@
     "language": "lu",
     "iso3": "lub",
     "name": "Luba-Katanga",
-    "local_name": "Tshiluba",
+    "name_local": "Tshiluba",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1378,7 +1378,7 @@
     "language": "lua",
     "iso3": "lua",
     "name": "Luba-Lulua",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1389,7 +1389,7 @@
     "language": "lv",
     "iso3": "lav",
     "name": "Latvian",
-    "local_name": "latviešu",
+    "name_local": "latviešu",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1400,7 +1400,7 @@
     "language": "mey",
     "iso3": "mey",
     "name": "Hassaniyya",
-    "local_name": null,
+    "name_local": null,
     "script": "Arab",
     "direction": "rtl",
     "countries": [
@@ -1411,7 +1411,7 @@
     "language": "mfe",
     "iso3": "mfe",
     "name": "Morisyen",
-    "local_name": "kreol morisien",
+    "name_local": "kreol morisien",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1422,7 +1422,7 @@
     "language": "mg",
     "iso3": "mlg",
     "name": "Malagasy",
-    "local_name": "Malagasy",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1433,7 +1433,7 @@
     "language": "mh",
     "iso3": "mah",
     "name": "Marshallese",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1444,7 +1444,7 @@
     "language": "mi",
     "iso3": "mri",
     "name": "Māori",
-    "local_name": "Māori",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1455,7 +1455,7 @@
     "language": "mk",
     "iso3": "mkd",
     "name": "Macedonian",
-    "local_name": "македонски",
+    "name_local": "македонски",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": [
@@ -1466,7 +1466,7 @@
     "language": "ml",
     "iso3": "mal",
     "name": "Malayalam",
-    "local_name": "മലയാളം",
+    "name_local": "മലയാളം",
     "script": "Mlym",
     "direction": "ltr",
     "countries": []
@@ -1475,7 +1475,7 @@
     "language": "mn",
     "iso3": "mon",
     "name": "Mongolian",
-    "local_name": "монгол",
+    "name_local": "монгол",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": [
@@ -1486,7 +1486,7 @@
     "language": "mr",
     "iso3": "mar",
     "name": "Marathi",
-    "local_name": "मराठी",
+    "name_local": "मराठी",
     "script": "Deva",
     "direction": "ltr",
     "countries": []
@@ -1495,7 +1495,7 @@
     "language": "ms",
     "iso3": "msa",
     "name": "Malay",
-    "local_name": "Melayu",
+    "name_local": "Melayu",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1508,7 +1508,7 @@
     "language": "mt",
     "iso3": "mlt",
     "name": "Maltese",
-    "local_name": "Malti",
+    "name_local": "Malti",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1519,7 +1519,7 @@
     "language": "my",
     "iso3": "mya",
     "name": "Burmese",
-    "local_name": "မြန်မာ",
+    "name_local": "မြန်မာ",
     "script": "Mymr",
     "direction": "ltr",
     "countries": [
@@ -1530,7 +1530,7 @@
     "language": "na",
     "iso3": "nau",
     "name": "Nauru",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1541,7 +1541,7 @@
     "language": "naq",
     "iso3": "naq",
     "name": "Nama",
-    "local_name": "Khoekhoegowab",
+    "name_local": "Khoekhoegowab",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1552,7 +1552,7 @@
     "language": "nb",
     "iso3": "nob",
     "name": "Norwegian Bokmål",
-    "local_name": "norsk bokmål",
+    "name_local": "norsk bokmål",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1563,7 +1563,7 @@
     "language": "nd",
     "iso3": "nde",
     "name": "North Ndebele",
-    "local_name": "isiNdebele",
+    "name_local": "isiNdebele",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1574,7 +1574,7 @@
     "language": "ndc",
     "iso3": "ndc",
     "name": "Ndau",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1585,7 +1585,7 @@
     "language": "ne",
     "iso3": "nep",
     "name": "Nepali",
-    "local_name": "नेपाली",
+    "name_local": "नेपाली",
     "script": "Deva",
     "direction": "ltr",
     "countries": [
@@ -1596,7 +1596,7 @@
     "language": "ng",
     "iso3": "ndo",
     "name": "Ndonga",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1607,7 +1607,7 @@
     "language": "niu",
     "iso3": "niu",
     "name": "Niuean",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1618,7 +1618,7 @@
     "language": "nl",
     "iso3": "nld",
     "name": "Dutch",
-    "local_name": "Nederlands",
+    "name_local": "Nederlands",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1635,7 +1635,7 @@
     "language": "nn",
     "iso3": "nno",
     "name": "Norwegian Nynorsk",
-    "local_name": "norsk nynorsk",
+    "name_local": "norsk nynorsk",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1646,7 +1646,7 @@
     "language": "no",
     "iso3": "nor",
     "name": "Norwegian",
-    "local_name": "norsk",
+    "name_local": "norsk",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1655,10 +1655,21 @@
     ]
   },
   {
+    "language": "nr",
+    "iso3": "nbl",
+    "name": "South Ndebele",
+    "name_local": null,
+    "script": "Latn",
+    "direction": "ltr",
+    "countries": [
+      "ZA"
+    ]
+  },
+  {
     "language": "nrf",
     "iso3": "nrf",
     "name": "Jèrriais",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1670,7 +1681,7 @@
     "language": "nso",
     "iso3": "nso",
     "name": "Northern Sotho",
-    "local_name": "Sesotho sa Leboa",
+    "name_local": "Sesotho sa Leboa",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1681,7 +1692,7 @@
     "language": "nv",
     "iso3": "nav",
     "name": "Navajo",
-    "local_name": "Diné Bizaad",
+    "name_local": "Diné Bizaad",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1690,7 +1701,7 @@
     "language": "ny",
     "iso3": "nya",
     "name": "Nyanja",
-    "local_name": "Nyanja",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1702,7 +1713,7 @@
     "language": "nzs",
     "iso3": "nzs",
     "name": "New Zealand Sign Language",
-    "local_name": null,
+    "name_local": null,
     "script": null,
     "direction": "ltr",
     "countries": [
@@ -1713,7 +1724,7 @@
     "language": "oc",
     "iso3": "oci",
     "name": "Occitan",
-    "local_name": "occitan",
+    "name_local": "occitan",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1722,7 +1733,7 @@
     "language": "oj",
     "iso3": "oji",
     "name": "Ojibwa",
-    "local_name": null,
+    "name_local": null,
     "script": "Cans",
     "direction": "ltr",
     "countries": []
@@ -1731,7 +1742,7 @@
     "language": "om",
     "iso3": "orm",
     "name": "Oromo",
-    "local_name": "Oromoo",
+    "name_local": "Oromoo",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1740,7 +1751,7 @@
     "language": "or",
     "iso3": "ori",
     "name": "Odia",
-    "local_name": "ଓଡ଼ିଆ",
+    "name_local": "ଓଡ଼ିଆ",
     "script": "Orya",
     "direction": "ltr",
     "countries": []
@@ -1749,7 +1760,7 @@
     "language": "os",
     "iso3": "oss",
     "name": "Ossetic",
-    "local_name": "ирон",
+    "name_local": "ирон",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": []
@@ -1758,7 +1769,7 @@
     "language": "pa",
     "iso3": "pan",
     "name": "Punjabi",
-    "local_name": "ਪੰਜਾਬੀ",
+    "name_local": "ਪੰਜਾਬੀ",
     "script": "Guru",
     "direction": "ltr",
     "countries": []
@@ -1767,7 +1778,7 @@
     "language": "pap",
     "iso3": "pap",
     "name": "Papiamento",
-    "local_name": "Papiamentu",
+    "name_local": "Papiamentu",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1780,7 +1791,7 @@
     "language": "pau",
     "iso3": "pau",
     "name": "Palauan",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1791,7 +1802,7 @@
     "language": "pi",
     "iso3": "pli",
     "name": "Pali",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1800,7 +1811,7 @@
     "language": "pih",
     "iso3": "pih",
     "name": "Pitcairn-Norfolk",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1811,7 +1822,7 @@
     "language": "pl",
     "iso3": "pol",
     "name": "Polish",
-    "local_name": "polski",
+    "name_local": "polski",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1822,7 +1833,7 @@
     "language": "pov",
     "iso3": "pov",
     "name": "Upper Guinea Crioulo",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1833,7 +1844,7 @@
     "language": "prs",
     "iso3": "prs",
     "name": "Dari",
-    "local_name": null,
+    "name_local": null,
     "script": null,
     "direction": "ltr",
     "countries": [
@@ -1844,7 +1855,7 @@
     "language": "ps",
     "iso3": "pus",
     "name": "Pashto",
-    "local_name": "پښتو",
+    "name_local": "پښتو",
     "script": "Arab",
     "direction": "rtl",
     "countries": [
@@ -1855,7 +1866,7 @@
     "language": "pt",
     "iso3": "por",
     "name": "Portuguese",
-    "local_name": "português",
+    "name_local": "português",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1875,7 +1886,7 @@
     "language": "qu",
     "iso3": "que",
     "name": "Quechua",
-    "local_name": "Runasimi",
+    "name_local": "Runasimi",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1887,7 +1898,7 @@
     "language": "rar",
     "iso3": "rar",
     "name": "Rarotongan",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1898,7 +1909,7 @@
     "language": "rm",
     "iso3": "roh",
     "name": "Romansh",
-    "local_name": "rumantsch",
+    "name_local": "rumantsch",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1909,7 +1920,7 @@
     "language": "rn",
     "iso3": "run",
     "name": "Rundi",
-    "local_name": "Ikirundi",
+    "name_local": "Ikirundi",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1920,7 +1931,7 @@
     "language": "ro",
     "iso3": "ron",
     "name": "Romanian",
-    "local_name": "română",
+    "name_local": "română",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1932,7 +1943,7 @@
     "language": "ru",
     "iso3": "rus",
     "name": "Russian",
-    "local_name": "русский",
+    "name_local": "русский",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": [
@@ -1950,7 +1961,7 @@
     "language": "rw",
     "iso3": "kin",
     "name": "Kinyarwanda",
-    "local_name": "Ikinyarwanda",
+    "name_local": "Ikinyarwanda",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -1961,7 +1972,7 @@
     "language": "sa",
     "iso3": "san",
     "name": "Sanskrit",
-    "local_name": "संस्कृत भाषा",
+    "name_local": "संस्कृत भाषा",
     "script": "Deva",
     "direction": "ltr",
     "countries": []
@@ -1970,7 +1981,7 @@
     "language": "sc",
     "iso3": "srd",
     "name": "Sardinian",
-    "local_name": "sardu",
+    "name_local": "sardu",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1979,7 +1990,7 @@
     "language": "sd",
     "iso3": "snd",
     "name": "Sindhi",
-    "local_name": "سنڌي",
+    "name_local": "سنڌي",
     "script": "Arab",
     "direction": "rtl",
     "countries": []
@@ -1988,7 +1999,7 @@
     "language": "se",
     "iso3": "sme",
     "name": "Northern Sami",
-    "local_name": "davvisámegiella",
+    "name_local": "davvisámegiella",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -1997,7 +2008,7 @@
     "language": "sg",
     "iso3": "sag",
     "name": "Sango",
-    "local_name": "Sängö",
+    "name_local": "Sängö",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2008,7 +2019,7 @@
     "language": "si",
     "iso3": "sin",
     "name": "Sinhala",
-    "local_name": "සිංහල",
+    "name_local": "සිංහල",
     "script": "Sinh",
     "direction": "ltr",
     "countries": [
@@ -2019,7 +2030,7 @@
     "language": "sk",
     "iso3": "slk",
     "name": "Slovak",
-    "local_name": "slovenčina",
+    "name_local": "slovenčina",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2031,7 +2042,7 @@
     "language": "sl",
     "iso3": "slv",
     "name": "Slovenian",
-    "local_name": "slovenščina",
+    "name_local": "slovenščina",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2042,7 +2053,7 @@
     "language": "sm",
     "iso3": "smo",
     "name": "Samoan",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2055,7 +2066,7 @@
     "language": "smi",
     "iso3": "smi",
     "name": "Sami languages",
-    "local_name": null,
+    "name_local": null,
     "script": null,
     "direction": "ltr",
     "countries": [
@@ -2066,7 +2077,7 @@
     "language": "sn",
     "iso3": "sna",
     "name": "Shona",
-    "local_name": "chiShona",
+    "name_local": "chiShona",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2077,7 +2088,7 @@
     "language": "so",
     "iso3": "som",
     "name": "Somali",
-    "local_name": "Soomaali",
+    "name_local": "Soomaali",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2088,7 +2099,7 @@
     "language": "sq",
     "iso3": "sqi",
     "name": "Albanian",
-    "local_name": "shqip",
+    "name_local": "shqip",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2100,7 +2111,7 @@
     "language": "sr",
     "iso3": "srp",
     "name": "Serbian",
-    "local_name": "српски",
+    "name_local": "српски",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": [
@@ -2113,7 +2124,7 @@
     "language": "ss",
     "iso3": "ssw",
     "name": "Swati",
-    "local_name": "siSwati",
+    "name_local": "siSwati",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2125,7 +2136,7 @@
     "language": "st",
     "iso3": "sot",
     "name": "Southern Sotho",
-    "local_name": "Sesotho",
+    "name_local": "Sesotho",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2138,7 +2149,7 @@
     "language": "su",
     "iso3": "sun",
     "name": "Sundanese",
-    "local_name": "Basa Sunda",
+    "name_local": "Basa Sunda",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -2147,7 +2158,7 @@
     "language": "sv",
     "iso3": "swe",
     "name": "Swedish",
-    "local_name": "svenska",
+    "name_local": "svenska",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2160,7 +2171,7 @@
     "language": "sw",
     "iso3": "swa",
     "name": "Swahili",
-    "local_name": "Kiswahili",
+    "name_local": "Kiswahili",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2174,7 +2185,7 @@
     "language": "syr",
     "iso3": "syr",
     "name": "Syriac",
-    "local_name": "ܣܘܪܝܝܐ",
+    "name_local": "ܣܘܪܝܝܐ",
     "script": "Syrc",
     "direction": "rtl",
     "countries": [
@@ -2185,7 +2196,7 @@
     "language": "ta",
     "iso3": "tam",
     "name": "Tamil",
-    "local_name": "தமிழ்",
+    "name_local": "தமிழ்",
     "script": "Taml",
     "direction": "ltr",
     "countries": [
@@ -2198,7 +2209,7 @@
     "language": "te",
     "iso3": "tel",
     "name": "Telugu",
-    "local_name": "తెలుగు",
+    "name_local": "తెలుగు",
     "script": "Telu",
     "direction": "ltr",
     "countries": []
@@ -2207,7 +2218,7 @@
     "language": "tet",
     "iso3": "tet",
     "name": "Tetum",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2218,7 +2229,7 @@
     "language": "tg",
     "iso3": "tgk",
     "name": "Tajik",
-    "local_name": "тоҷикӣ",
+    "name_local": "тоҷикӣ",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": [
@@ -2229,7 +2240,7 @@
     "language": "th",
     "iso3": "tha",
     "name": "Thai",
-    "local_name": "ไทย",
+    "name_local": "ไทย",
     "script": "Thai",
     "direction": "ltr",
     "countries": [
@@ -2240,7 +2251,7 @@
     "language": "ti",
     "iso3": "tir",
     "name": "Tigrinya",
-    "local_name": "ትግርኛ",
+    "name_local": "ትግርኛ",
     "script": "Ethi",
     "direction": "ltr",
     "countries": [
@@ -2251,7 +2262,7 @@
     "language": "tk",
     "iso3": "tuk",
     "name": "Turkmen",
-    "local_name": "türkmen dili",
+    "name_local": "türkmen dili",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2263,7 +2274,7 @@
     "language": "tkl",
     "iso3": "tkl",
     "name": "Tokelauan",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2274,7 +2285,7 @@
     "language": "tl",
     "iso3": "tgl",
     "name": "Tagalog",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -2283,7 +2294,7 @@
     "language": "tn",
     "iso3": "tsn",
     "name": "Tswana",
-    "local_name": "Setswana",
+    "name_local": "Setswana",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2297,7 +2308,7 @@
     "language": "to",
     "iso3": "ton",
     "name": "Tongan",
-    "local_name": "lea fakatonga",
+    "name_local": "lea fakatonga",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2308,7 +2319,7 @@
     "language": "toi",
     "iso3": "toi",
     "name": "Tonga (Zambia)",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2319,7 +2330,7 @@
     "language": "tpi",
     "iso3": "tpi",
     "name": "Tok Pisin",
-    "local_name": "Tok Pisin",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2330,7 +2341,7 @@
     "language": "tr",
     "iso3": "tur",
     "name": "Turkish",
-    "local_name": "Türkçe",
+    "name_local": "Türkçe",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2342,7 +2353,7 @@
     "language": "ts",
     "iso3": "tso",
     "name": "Tsonga",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2354,7 +2365,7 @@
     "language": "tt",
     "iso3": "tat",
     "name": "Tatar",
-    "local_name": "татар",
+    "name_local": "татар",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": []
@@ -2363,7 +2374,7 @@
     "language": "tvl",
     "iso3": "tvl",
     "name": "Tuvalu",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2374,7 +2385,7 @@
     "language": "tw",
     "iso3": "twi",
     "name": "Twi",
-    "local_name": null,
+    "name_local": null,
     "script": null,
     "direction": "ltr",
     "countries": []
@@ -2383,7 +2394,7 @@
     "language": "ty",
     "iso3": "tah",
     "name": "Tahitian",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -2392,7 +2403,7 @@
     "language": "ug",
     "iso3": "uig",
     "name": "Uyghur",
-    "local_name": "ئۇيغۇرچە",
+    "name_local": "ئۇيغۇرچە",
     "script": "Arab",
     "direction": "rtl",
     "countries": []
@@ -2401,7 +2412,7 @@
     "language": "uk",
     "iso3": "ukr",
     "name": "Ukrainian",
-    "local_name": "українська",
+    "name_local": "українська",
     "script": "Cyrl",
     "direction": "ltr",
     "countries": [
@@ -2412,7 +2423,7 @@
     "language": "ur",
     "iso3": "urd",
     "name": "Urdu",
-    "local_name": "اردو",
+    "name_local": "اردو",
     "script": "Arab",
     "direction": "rtl",
     "countries": [
@@ -2423,7 +2434,7 @@
     "language": "uz",
     "iso3": "uzb",
     "name": "Uzbek",
-    "local_name": "o‘zbek",
+    "name_local": "o‘zbek",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2434,7 +2445,7 @@
     "language": "ve",
     "iso3": "ven",
     "name": "Venda",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2446,7 +2457,7 @@
     "language": "vi",
     "iso3": "vie",
     "name": "Vietnamese",
-    "local_name": "Tiếng Việt",
+    "name_local": "Tiếng Việt",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2457,7 +2468,7 @@
     "language": "vo",
     "iso3": "vol",
     "name": "Volapük",
-    "local_name": null,
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -2466,7 +2477,7 @@
     "language": "wa",
     "iso3": "wln",
     "name": "Walloon",
-    "local_name": "walon",
+    "name_local": "walon",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -2475,7 +2486,7 @@
     "language": "wo",
     "iso3": "wol",
     "name": "Wolof",
-    "local_name": "Wolof",
+    "name_local": null,
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -2484,7 +2495,7 @@
     "language": "xh",
     "iso3": "xho",
     "name": "Xhosa",
-    "local_name": "IsiXhosa",
+    "name_local": "IsiXhosa",
     "script": "Latn",
     "direction": "ltr",
     "countries": [
@@ -2496,7 +2507,7 @@
     "language": "yi",
     "iso3": "yid",
     "name": "Yiddish",
-    "local_name": "ייִדיש",
+    "name_local": "ייִדיש",
     "script": "Hebr",
     "direction": "rtl",
     "countries": []
@@ -2505,7 +2516,7 @@
     "language": "yo",
     "iso3": "yor",
     "name": "Yoruba",
-    "local_name": "Èdè Yorùbá",
+    "name_local": "Èdè Yorùbá",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -2514,7 +2525,7 @@
     "language": "za",
     "iso3": "zha",
     "name": "Zhuang",
-    "local_name": "Vahcuengh",
+    "name_local": "Vahcuengh",
     "script": "Latn",
     "direction": "ltr",
     "countries": []
@@ -2523,7 +2534,7 @@
     "language": "zdj",
     "iso3": "zdj",
     "name": "Ngazidja Comorian",
-    "local_name": null,
+    "name_local": null,
     "script": "Arab",
     "direction": "rtl",
     "countries": [
@@ -2534,7 +2545,7 @@
     "language": "zh",
     "iso3": "zho",
     "name": "Chinese",
-    "local_name": "中文",
+    "name_local": "中文",
     "script": "Hans",
     "direction": "ltr",
     "countries": [
@@ -2549,7 +2560,7 @@
     "language": "zib",
     "iso3": "zib",
     "name": "Zimbabwe Sign Language",
-    "local_name": null,
+    "name_local": null,
     "script": null,
     "direction": "ltr",
     "countries": [
@@ -2560,7 +2571,7 @@
     "language": "zu",
     "iso3": "zul",
     "name": "Zulu",
-    "local_name": "isiZulu",
+    "name_local": "isiZulu",
     "script": "Latn",
     "direction": "ltr",
     "countries": [

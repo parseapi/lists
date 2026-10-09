@@ -18,7 +18,7 @@
   {
     "timezone": "Africa/Addis_Ababa",
     "name": "East Africa Time",
-    "abbreviation": "Ethiopia Time",
+    "abbreviation": "EAT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -26,7 +26,7 @@
   {
     "timezone": "Africa/Algiers",
     "name": "Central European Standard Time",
-    "abbreviation": "Algeria Time",
+    "abbreviation": "CET",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -34,7 +34,7 @@
   {
     "timezone": "Africa/Asmera",
     "name": "East Africa Time",
-    "abbreviation": "Eritrea Time",
+    "abbreviation": "EAT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -50,7 +50,7 @@
   {
     "timezone": "Africa/Bangui",
     "name": "West Africa Time",
-    "abbreviation": "Central African Republic Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -74,7 +74,7 @@
   {
     "timezone": "Africa/Blantyre",
     "name": "Central Africa Time",
-    "abbreviation": "Malawi Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -82,7 +82,7 @@
   {
     "timezone": "Africa/Brazzaville",
     "name": "West Africa Time",
-    "abbreviation": "Congo - Brazzaville Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -90,7 +90,7 @@
   {
     "timezone": "Africa/Bujumbura",
     "name": "Central Africa Time",
-    "abbreviation": "Burundi Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -98,23 +98,23 @@
   {
     "timezone": "Africa/Cairo",
     "name": "Eastern European Time",
-    "abbreviation": "Egypt Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
   },
   {
     "timezone": "Africa/Casablanca",
-    "name": "Morocco Time",
-    "abbreviation": "Morocco Time",
-    "offset": "+01:00",
-    "offset_minutes": 60,
+    "name": null,
+    "abbreviation": "+00",
+    "offset": "+00:00",
+    "offset_minutes": 0,
     "dst": false
   },
   {
     "timezone": "Africa/Ceuta",
     "name": "Central European Time",
-    "abbreviation": "Ceuta Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -138,7 +138,7 @@
   {
     "timezone": "Africa/Dar_es_Salaam",
     "name": "East Africa Time",
-    "abbreviation": "Tanzania Time",
+    "abbreviation": "EAT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -146,7 +146,7 @@
   {
     "timezone": "Africa/Djibouti",
     "name": "East Africa Time",
-    "abbreviation": "Djibouti Time",
+    "abbreviation": "EAT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -154,17 +154,17 @@
   {
     "timezone": "Africa/Douala",
     "name": "West Africa Time",
-    "abbreviation": "Cameroon Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
   },
   {
     "timezone": "Africa/El_Aaiun",
-    "name": "Western Sahara Time",
-    "abbreviation": "Western Sahara Time",
-    "offset": "+01:00",
-    "offset_minutes": 60,
+    "name": null,
+    "abbreviation": "+00",
+    "offset": "+00:00",
+    "offset_minutes": 0,
     "dst": false
   },
   {
@@ -178,7 +178,7 @@
   {
     "timezone": "Africa/Gaborone",
     "name": "Central Africa Time",
-    "abbreviation": "Botswana Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -186,7 +186,7 @@
   {
     "timezone": "Africa/Harare",
     "name": "Central Africa Time",
-    "abbreviation": "Zimbabwe Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -194,7 +194,7 @@
   {
     "timezone": "Africa/Johannesburg",
     "name": "South Africa Standard Time",
-    "abbreviation": "South Africa Time",
+    "abbreviation": "SAST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -202,7 +202,7 @@
   {
     "timezone": "Africa/Juba",
     "name": "Central Africa Time",
-    "abbreviation": "South Sudan Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -210,7 +210,7 @@
   {
     "timezone": "Africa/Kampala",
     "name": "East Africa Time",
-    "abbreviation": "Uganda Time",
+    "abbreviation": "EAT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -218,7 +218,7 @@
   {
     "timezone": "Africa/Khartoum",
     "name": "Central Africa Time",
-    "abbreviation": "Sudan Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -226,7 +226,7 @@
   {
     "timezone": "Africa/Kigali",
     "name": "Central Africa Time",
-    "abbreviation": "Rwanda Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -234,7 +234,7 @@
   {
     "timezone": "Africa/Kinshasa",
     "name": "West Africa Time",
-    "abbreviation": "Kinshasa Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -242,7 +242,7 @@
   {
     "timezone": "Africa/Lagos",
     "name": "West Africa Time",
-    "abbreviation": "Nigeria Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -250,7 +250,7 @@
   {
     "timezone": "Africa/Libreville",
     "name": "West Africa Time",
-    "abbreviation": "Gabon Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -266,7 +266,7 @@
   {
     "timezone": "Africa/Luanda",
     "name": "West Africa Time",
-    "abbreviation": "Angola Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -274,7 +274,7 @@
   {
     "timezone": "Africa/Lubumbashi",
     "name": "Central Africa Time",
-    "abbreviation": "Lubumbashi Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -282,7 +282,7 @@
   {
     "timezone": "Africa/Lusaka",
     "name": "Central Africa Time",
-    "abbreviation": "Zambia Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -290,7 +290,7 @@
   {
     "timezone": "Africa/Malabo",
     "name": "West Africa Time",
-    "abbreviation": "Equatorial Guinea Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -298,7 +298,7 @@
   {
     "timezone": "Africa/Maputo",
     "name": "Central Africa Time",
-    "abbreviation": "Mozambique Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -306,7 +306,7 @@
   {
     "timezone": "Africa/Maseru",
     "name": "South Africa Standard Time",
-    "abbreviation": "Lesotho Time",
+    "abbreviation": "SAST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -314,7 +314,7 @@
   {
     "timezone": "Africa/Mbabane",
     "name": "South Africa Standard Time",
-    "abbreviation": "Eswatini Time",
+    "abbreviation": "SAST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -322,7 +322,7 @@
   {
     "timezone": "Africa/Mogadishu",
     "name": "East Africa Time",
-    "abbreviation": "Somalia Time",
+    "abbreviation": "EAT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -338,7 +338,7 @@
   {
     "timezone": "Africa/Nairobi",
     "name": "East Africa Time",
-    "abbreviation": "Kenya Time",
+    "abbreviation": "EAT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -346,7 +346,7 @@
   {
     "timezone": "Africa/Ndjamena",
     "name": "West Africa Time",
-    "abbreviation": "Chad Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -354,7 +354,7 @@
   {
     "timezone": "Africa/Niamey",
     "name": "West Africa Time",
-    "abbreviation": "Niger Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -378,7 +378,7 @@
   {
     "timezone": "Africa/Porto-Novo",
     "name": "West Africa Time",
-    "abbreviation": "Benin Time",
+    "abbreviation": "WAT",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -394,7 +394,7 @@
   {
     "timezone": "Africa/Tripoli",
     "name": "Eastern European Standard Time",
-    "abbreviation": "Libya Time",
+    "abbreviation": "EET",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -402,7 +402,7 @@
   {
     "timezone": "Africa/Tunis",
     "name": "Central European Standard Time",
-    "abbreviation": "Tunisia Time",
+    "abbreviation": "CET",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": false
@@ -410,15 +410,15 @@
   {
     "timezone": "Africa/Windhoek",
     "name": "Central Africa Time",
-    "abbreviation": "Namibia Time",
+    "abbreviation": "CAT",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
   },
   {
     "timezone": "America/Adak",
-    "name": "Hawaii-Aleutian Time",
-    "abbreviation": "HADT",
+    "name": null,
+    "abbreviation": "HDT",
     "offset": "-09:00",
     "offset_minutes": -540,
     "dst": true
@@ -450,7 +450,7 @@
   {
     "timezone": "America/Araguaina",
     "name": "Brasilia Standard Time",
-    "abbreviation": "Araguaína Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -458,7 +458,7 @@
   {
     "timezone": "America/Argentina/La_Rioja",
     "name": "Argentina Standard Time",
-    "abbreviation": "La Rioja Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -466,7 +466,7 @@
   {
     "timezone": "America/Argentina/Rio_Gallegos",
     "name": "Argentina Standard Time",
-    "abbreviation": "Río Gallegos Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -474,7 +474,7 @@
   {
     "timezone": "America/Argentina/Salta",
     "name": "Argentina Standard Time",
-    "abbreviation": "Salta Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -482,7 +482,7 @@
   {
     "timezone": "America/Argentina/San_Juan",
     "name": "Argentina Standard Time",
-    "abbreviation": "San Juan Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -490,7 +490,7 @@
   {
     "timezone": "America/Argentina/San_Luis",
     "name": "Argentina Standard Time",
-    "abbreviation": "San Luis Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -498,7 +498,7 @@
   {
     "timezone": "America/Argentina/Tucuman",
     "name": "Argentina Standard Time",
-    "abbreviation": "Tucumán Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -506,7 +506,7 @@
   {
     "timezone": "America/Argentina/Ushuaia",
     "name": "Argentina Standard Time",
-    "abbreviation": "Ushuaia Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -522,7 +522,7 @@
   {
     "timezone": "America/Asuncion",
     "name": "Paraguay Standard Time",
-    "abbreviation": "Paraguay Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -530,7 +530,7 @@
   {
     "timezone": "America/Bahia",
     "name": "Brasilia Standard Time",
-    "abbreviation": "Bahia Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -554,7 +554,7 @@
   {
     "timezone": "America/Belem",
     "name": "Brasilia Standard Time",
-    "abbreviation": "Belém Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -578,7 +578,7 @@
   {
     "timezone": "America/Boa_Vista",
     "name": "Amazon Standard Time",
-    "abbreviation": "Boa Vista Time",
+    "abbreviation": "-04",
     "offset": "-04:00",
     "offset_minutes": -240,
     "dst": false
@@ -586,7 +586,7 @@
   {
     "timezone": "America/Bogota",
     "name": "Colombia Standard Time",
-    "abbreviation": "Colombia Time",
+    "abbreviation": "-05",
     "offset": "-05:00",
     "offset_minutes": -300,
     "dst": false
@@ -602,7 +602,7 @@
   {
     "timezone": "America/Buenos_Aires",
     "name": "Argentina Standard Time",
-    "abbreviation": "Buenos Aires Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -618,7 +618,7 @@
   {
     "timezone": "America/Campo_Grande",
     "name": "Amazon Standard Time",
-    "abbreviation": "Campo Grande Time",
+    "abbreviation": "-04",
     "offset": "-04:00",
     "offset_minutes": -240,
     "dst": false
@@ -634,7 +634,7 @@
   {
     "timezone": "America/Caracas",
     "name": "Venezuela Time",
-    "abbreviation": "Venezuela Time",
+    "abbreviation": "-04",
     "offset": "-04:00",
     "offset_minutes": -240,
     "dst": false
@@ -642,7 +642,7 @@
   {
     "timezone": "America/Catamarca",
     "name": "Argentina Standard Time",
-    "abbreviation": "Catamarca Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -650,7 +650,7 @@
   {
     "timezone": "America/Cayenne",
     "name": "French Guiana Time",
-    "abbreviation": "French Guiana Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -698,7 +698,7 @@
   {
     "timezone": "America/Cordoba",
     "name": "Argentina Standard Time",
-    "abbreviation": "Córdoba Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -714,7 +714,7 @@
   {
     "timezone": "America/Coyhaique",
     "name": "Coyhaique Time",
-    "abbreviation": "Coyhaique Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -730,7 +730,7 @@
   {
     "timezone": "America/Cuiaba",
     "name": "Amazon Standard Time",
-    "abbreviation": "Cuiabá Time",
+    "abbreviation": "-04",
     "offset": "-04:00",
     "offset_minutes": -240,
     "dst": false
@@ -754,7 +754,7 @@
   {
     "timezone": "America/Dawson",
     "name": "Yukon Time",
-    "abbreviation": "Dawson Time",
+    "abbreviation": "MST",
     "offset": "-07:00",
     "offset_minutes": -420,
     "dst": false
@@ -802,7 +802,7 @@
   {
     "timezone": "America/Eirunepe",
     "name": "Acre Standard Time",
-    "abbreviation": "Eirunepé Time",
+    "abbreviation": "-05",
     "offset": "-05:00",
     "offset_minutes": -300,
     "dst": false
@@ -826,7 +826,7 @@
   {
     "timezone": "America/Fortaleza",
     "name": "Brasilia Standard Time",
-    "abbreviation": "Fortaleza Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -842,7 +842,7 @@
   {
     "timezone": "America/Godthab",
     "name": "Greenland Time",
-    "abbreviation": "Nuuk Time",
+    "abbreviation": "-01",
     "offset": "-01:00",
     "offset_minutes": -60,
     "dst": true
@@ -890,7 +890,7 @@
   {
     "timezone": "America/Guayaquil",
     "name": "Ecuador Time",
-    "abbreviation": "Ecuador Time",
+    "abbreviation": "-05",
     "offset": "-05:00",
     "offset_minutes": -300,
     "dst": false
@@ -898,7 +898,7 @@
   {
     "timezone": "America/Guyana",
     "name": "Guyana Time",
-    "abbreviation": "Guyana Time",
+    "abbreviation": "-04",
     "offset": "-04:00",
     "offset_minutes": -240,
     "dst": false
@@ -914,7 +914,7 @@
   {
     "timezone": "America/Havana",
     "name": "Cuba Time",
-    "abbreviation": "Cuba Time",
+    "abbreviation": "CDT",
     "offset": "-04:00",
     "offset_minutes": -240,
     "dst": true
@@ -922,7 +922,7 @@
   {
     "timezone": "America/Hermosillo",
     "name": "Mexican Pacific Standard Time",
-    "abbreviation": "Hermosillo Time",
+    "abbreviation": "MST",
     "offset": "-07:00",
     "offset_minutes": -420,
     "dst": false
@@ -1018,7 +1018,7 @@
   {
     "timezone": "America/Jujuy",
     "name": "Argentina Standard Time",
-    "abbreviation": "Jujuy Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1050,7 +1050,7 @@
   {
     "timezone": "America/La_Paz",
     "name": "Bolivia Time",
-    "abbreviation": "Bolivia Time",
+    "abbreviation": "-04",
     "offset": "-04:00",
     "offset_minutes": -240,
     "dst": false
@@ -1058,7 +1058,7 @@
   {
     "timezone": "America/Lima",
     "name": "Peru Standard Time",
-    "abbreviation": "Peru Time",
+    "abbreviation": "-05",
     "offset": "-05:00",
     "offset_minutes": -300,
     "dst": false
@@ -1090,7 +1090,7 @@
   {
     "timezone": "America/Maceio",
     "name": "Brasilia Standard Time",
-    "abbreviation": "Maceió Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1106,7 +1106,7 @@
   {
     "timezone": "America/Manaus",
     "name": "Amazon Standard Time",
-    "abbreviation": "Manaus Time",
+    "abbreviation": "-04",
     "offset": "-04:00",
     "offset_minutes": -240,
     "dst": false
@@ -1138,7 +1138,7 @@
   {
     "timezone": "America/Mazatlan",
     "name": "Mexican Pacific Standard Time",
-    "abbreviation": "Mazatlán Time",
+    "abbreviation": "MST",
     "offset": "-07:00",
     "offset_minutes": -420,
     "dst": false
@@ -1146,7 +1146,7 @@
   {
     "timezone": "America/Mendoza",
     "name": "Argentina Standard Time",
-    "abbreviation": "Mendoza Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1186,7 +1186,7 @@
   {
     "timezone": "America/Miquelon",
     "name": "St. Pierre & Miquelon Time",
-    "abbreviation": "St. Pierre & Miquelon Time",
+    "abbreviation": "-02",
     "offset": "-02:00",
     "offset_minutes": -120,
     "dst": true
@@ -1210,7 +1210,7 @@
   {
     "timezone": "America/Montevideo",
     "name": "Uruguay Standard Time",
-    "abbreviation": "Uruguay Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1250,7 +1250,7 @@
   {
     "timezone": "America/Noronha",
     "name": "Fernando de Noronha Standard Time",
-    "abbreviation": "Fernando de Noronha Time",
+    "abbreviation": "-02",
     "offset": "-02:00",
     "offset_minutes": -120,
     "dst": false
@@ -1298,7 +1298,7 @@
   {
     "timezone": "America/Paramaribo",
     "name": "Suriname Time",
-    "abbreviation": "Suriname Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1330,7 +1330,7 @@
   {
     "timezone": "America/Porto_Velho",
     "name": "Amazon Standard Time",
-    "abbreviation": "Porto Velho Time",
+    "abbreviation": "-04",
     "offset": "-04:00",
     "offset_minutes": -240,
     "dst": false
@@ -1346,7 +1346,7 @@
   {
     "timezone": "America/Punta_Arenas",
     "name": "Punta Arenas Time",
-    "abbreviation": "Punta Arenas Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1362,7 +1362,7 @@
   {
     "timezone": "America/Recife",
     "name": "Brasilia Standard Time",
-    "abbreviation": "Recife Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1386,7 +1386,7 @@
   {
     "timezone": "America/Rio_Branco",
     "name": "Acre Standard Time",
-    "abbreviation": "Rio Branco Time",
+    "abbreviation": "-05",
     "offset": "-05:00",
     "offset_minutes": -300,
     "dst": false
@@ -1394,7 +1394,7 @@
   {
     "timezone": "America/Santarem",
     "name": "Brasilia Standard Time",
-    "abbreviation": "Santarém Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1402,10 +1402,10 @@
   {
     "timezone": "America/Santiago",
     "name": "Chile Time",
-    "abbreviation": "Chile Time",
-    "offset": "-04:00",
-    "offset_minutes": -240,
-    "dst": false
+    "abbreviation": "-03",
+    "offset": "-03:00",
+    "offset_minutes": -180,
+    "dst": true
   },
   {
     "timezone": "America/Santo_Domingo",
@@ -1418,7 +1418,7 @@
   {
     "timezone": "America/Sao_Paulo",
     "name": "Brasilia Standard Time",
-    "abbreviation": "São Paulo Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1426,7 +1426,7 @@
   {
     "timezone": "America/Scoresbysund",
     "name": "Greenland Time",
-    "abbreviation": "Ittoqqortoormiit Time",
+    "abbreviation": "-01",
     "offset": "-01:00",
     "offset_minutes": -60,
     "dst": true
@@ -1450,7 +1450,7 @@
   {
     "timezone": "America/St_Johns",
     "name": "Newfoundland Time",
-    "abbreviation": "St. John’s Time",
+    "abbreviation": "NDT",
     "offset": "-02:30",
     "offset_minutes": -150,
     "dst": true
@@ -1546,7 +1546,7 @@
   {
     "timezone": "America/Whitehorse",
     "name": "Yukon Time",
-    "abbreviation": "Whitehorse Time",
+    "abbreviation": "MST",
     "offset": "-07:00",
     "offset_minutes": -420,
     "dst": false
@@ -1570,7 +1570,7 @@
   {
     "timezone": "Antarctica/Casey",
     "name": "Australian Western Standard Time",
-    "abbreviation": "Casey Station Time",
+    "abbreviation": "+08",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -1578,7 +1578,7 @@
   {
     "timezone": "Antarctica/Davis",
     "name": "Davis Time",
-    "abbreviation": "Davis Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -1586,7 +1586,7 @@
   {
     "timezone": "Antarctica/DumontDUrville",
     "name": "Dumont d’Urville Time",
-    "abbreviation": "Dumont d’Urville Station Time",
+    "abbreviation": "+10",
     "offset": "+10:00",
     "offset_minutes": 600,
     "dst": false
@@ -1594,15 +1594,15 @@
   {
     "timezone": "Antarctica/Macquarie",
     "name": "Australian Eastern Time",
-    "abbreviation": "Macquarie Island Time",
-    "offset": "+10:00",
-    "offset_minutes": 600,
-    "dst": false
+    "abbreviation": "AEDT",
+    "offset": "+11:00",
+    "offset_minutes": 660,
+    "dst": true
   },
   {
     "timezone": "Antarctica/Mawson",
     "name": "Mawson Time",
-    "abbreviation": "Mawson Station Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -1610,15 +1610,15 @@
   {
     "timezone": "Antarctica/McMurdo",
     "name": "New Zealand Time",
-    "abbreviation": "McMurdo Station Time",
-    "offset": "+12:00",
-    "offset_minutes": 720,
-    "dst": false
+    "abbreviation": "NZDT",
+    "offset": "+13:00",
+    "offset_minutes": 780,
+    "dst": true
   },
   {
     "timezone": "Antarctica/Palmer",
     "name": "Palmer Land Time",
-    "abbreviation": "Palmer Land Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1626,7 +1626,7 @@
   {
     "timezone": "Antarctica/Rothera",
     "name": "Rothera Time",
-    "abbreviation": "Rothera Station Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -1634,7 +1634,7 @@
   {
     "timezone": "Antarctica/Syowa",
     "name": "Syowa Time",
-    "abbreviation": "Showa Station Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -1642,7 +1642,7 @@
   {
     "timezone": "Antarctica/Troll",
     "name": "Troll Station Time",
-    "abbreviation": "Troll Station Time",
+    "abbreviation": "+02",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -1650,7 +1650,7 @@
   {
     "timezone": "Antarctica/Vostok",
     "name": "Vostok Time",
-    "abbreviation": "Vostok Station Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -1658,7 +1658,7 @@
   {
     "timezone": "Arctic/Longyearbyen",
     "name": "Central European Time",
-    "abbreviation": "Svalbard & Jan Mayen Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -1666,7 +1666,7 @@
   {
     "timezone": "Asia/Aden",
     "name": "Arabian Standard Time",
-    "abbreviation": "Yemen Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -1674,7 +1674,7 @@
   {
     "timezone": "Asia/Almaty",
     "name": "Kazakhstan Time",
-    "abbreviation": "Almaty Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -1682,7 +1682,7 @@
   {
     "timezone": "Asia/Amman",
     "name": "Jordan Time",
-    "abbreviation": "Jordan Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -1690,7 +1690,7 @@
   {
     "timezone": "Asia/Anadyr",
     "name": "Kamchatka Standard Time",
-    "abbreviation": "Anadyr Time",
+    "abbreviation": "+12",
     "offset": "+12:00",
     "offset_minutes": 720,
     "dst": false
@@ -1698,7 +1698,7 @@
   {
     "timezone": "Asia/Aqtau",
     "name": "Kazakhstan Time",
-    "abbreviation": "Aktau Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -1706,7 +1706,7 @@
   {
     "timezone": "Asia/Aqtobe",
     "name": "Kazakhstan Time",
-    "abbreviation": "Aqtobe Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -1714,7 +1714,7 @@
   {
     "timezone": "Asia/Ashgabat",
     "name": "Turkmenistan Standard Time",
-    "abbreviation": "Turkmenistan Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -1722,7 +1722,7 @@
   {
     "timezone": "Asia/Atyrau",
     "name": "Kazakhstan Time",
-    "abbreviation": "Atyrau Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -1730,7 +1730,7 @@
   {
     "timezone": "Asia/Baghdad",
     "name": "Arabian Standard Time",
-    "abbreviation": "Iraq Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -1738,7 +1738,7 @@
   {
     "timezone": "Asia/Bahrain",
     "name": "Arabian Standard Time",
-    "abbreviation": "Bahrain Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -1746,7 +1746,7 @@
   {
     "timezone": "Asia/Baku",
     "name": "Azerbaijan Standard Time",
-    "abbreviation": "Azerbaijan Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -1754,7 +1754,7 @@
   {
     "timezone": "Asia/Bangkok",
     "name": "Indochina Time",
-    "abbreviation": "Thailand Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -1762,7 +1762,7 @@
   {
     "timezone": "Asia/Barnaul",
     "name": "Krasnoyarsk Standard Time",
-    "abbreviation": "Barnaul Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -1770,7 +1770,7 @@
   {
     "timezone": "Asia/Beirut",
     "name": "Eastern European Time",
-    "abbreviation": "Lebanon Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -1778,7 +1778,7 @@
   {
     "timezone": "Asia/Bishkek",
     "name": "Kyrgyzstan Time",
-    "abbreviation": "Kyrgyzstan Time",
+    "abbreviation": "+06",
     "offset": "+06:00",
     "offset_minutes": 360,
     "dst": false
@@ -1786,7 +1786,7 @@
   {
     "timezone": "Asia/Brunei",
     "name": "Brunei Time",
-    "abbreviation": "Brunei Time",
+    "abbreviation": "+08",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -1794,7 +1794,7 @@
   {
     "timezone": "Asia/Calcutta",
     "name": "India Standard Time",
-    "abbreviation": "India Time",
+    "abbreviation": "IST",
     "offset": "+05:30",
     "offset_minutes": 330,
     "dst": false
@@ -1802,7 +1802,7 @@
   {
     "timezone": "Asia/Chita",
     "name": "Yakutsk Standard Time",
-    "abbreviation": "Chita Time",
+    "abbreviation": "+09",
     "offset": "+09:00",
     "offset_minutes": 540,
     "dst": false
@@ -1810,7 +1810,7 @@
   {
     "timezone": "Asia/Colombo",
     "name": "India Standard Time",
-    "abbreviation": "Sri Lanka Time",
+    "abbreviation": "+0530",
     "offset": "+05:30",
     "offset_minutes": 330,
     "dst": false
@@ -1818,7 +1818,7 @@
   {
     "timezone": "Asia/Damascus",
     "name": "Syria Time",
-    "abbreviation": "Syria Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -1826,7 +1826,7 @@
   {
     "timezone": "Asia/Dhaka",
     "name": "Bangladesh Standard Time",
-    "abbreviation": "Bangladesh Time",
+    "abbreviation": "+06",
     "offset": "+06:00",
     "offset_minutes": 360,
     "dst": false
@@ -1834,7 +1834,7 @@
   {
     "timezone": "Asia/Dili",
     "name": "Timor-Leste Time",
-    "abbreviation": "Timor-Leste Time",
+    "abbreviation": "+09",
     "offset": "+09:00",
     "offset_minutes": 540,
     "dst": false
@@ -1842,7 +1842,7 @@
   {
     "timezone": "Asia/Dubai",
     "name": "Gulf Standard Time",
-    "abbreviation": "United Arab Emirates Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -1850,7 +1850,7 @@
   {
     "timezone": "Asia/Dushanbe",
     "name": "Tajikistan Time",
-    "abbreviation": "Tajikistan Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -1858,7 +1858,7 @@
   {
     "timezone": "Asia/Famagusta",
     "name": "Eastern European Time",
-    "abbreviation": "Famagusta Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -1866,7 +1866,7 @@
   {
     "timezone": "Asia/Gaza",
     "name": "Eastern European Time",
-    "abbreviation": "Gaza Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -1874,7 +1874,7 @@
   {
     "timezone": "Asia/Hebron",
     "name": "Eastern European Time",
-    "abbreviation": "Hebron Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -1882,7 +1882,7 @@
   {
     "timezone": "Asia/Hong_Kong",
     "name": "Hong Kong Standard Time",
-    "abbreviation": "Hong Kong SAR China Time",
+    "abbreviation": "HKT",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -1890,7 +1890,7 @@
   {
     "timezone": "Asia/Hovd",
     "name": "Khovd Standard Time",
-    "abbreviation": "Khovd Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -1898,7 +1898,7 @@
   {
     "timezone": "Asia/Irkutsk",
     "name": "Irkutsk Standard Time",
-    "abbreviation": "Irkutsk Time",
+    "abbreviation": "+08",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -1906,7 +1906,7 @@
   {
     "timezone": "Asia/Jakarta",
     "name": "Western Indonesia Time",
-    "abbreviation": "Jakarta Time",
+    "abbreviation": "WIB",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -1914,7 +1914,7 @@
   {
     "timezone": "Asia/Jayapura",
     "name": "Eastern Indonesia Time",
-    "abbreviation": "Jayapura Time",
+    "abbreviation": "WIT",
     "offset": "+09:00",
     "offset_minutes": 540,
     "dst": false
@@ -1922,7 +1922,7 @@
   {
     "timezone": "Asia/Jerusalem",
     "name": "Israel Time",
-    "abbreviation": "Israel Time",
+    "abbreviation": "IDT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -1930,7 +1930,7 @@
   {
     "timezone": "Asia/Kabul",
     "name": "Afghanistan Time",
-    "abbreviation": "Afghanistan Time",
+    "abbreviation": "+0430",
     "offset": "+04:30",
     "offset_minutes": 270,
     "dst": false
@@ -1938,7 +1938,7 @@
   {
     "timezone": "Asia/Kamchatka",
     "name": "Kamchatka Standard Time",
-    "abbreviation": "Kamchatka Time",
+    "abbreviation": "+12",
     "offset": "+12:00",
     "offset_minutes": 720,
     "dst": false
@@ -1946,7 +1946,7 @@
   {
     "timezone": "Asia/Karachi",
     "name": "Pakistan Standard Time",
-    "abbreviation": "Pakistan Time",
+    "abbreviation": "PKT",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -1954,7 +1954,7 @@
   {
     "timezone": "Asia/Katmandu",
     "name": "Nepal Time",
-    "abbreviation": "Nepal Time",
+    "abbreviation": "+0545",
     "offset": "+05:45",
     "offset_minutes": 345,
     "dst": false
@@ -1962,7 +1962,7 @@
   {
     "timezone": "Asia/Khandyga",
     "name": "Yakutsk Standard Time",
-    "abbreviation": "Khandyga Time",
+    "abbreviation": "+09",
     "offset": "+09:00",
     "offset_minutes": 540,
     "dst": false
@@ -1970,7 +1970,7 @@
   {
     "timezone": "Asia/Krasnoyarsk",
     "name": "Krasnoyarsk Standard Time",
-    "abbreviation": "Krasnoyarsk Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -1978,7 +1978,7 @@
   {
     "timezone": "Asia/Kuala_Lumpur",
     "name": "Malaysia Time",
-    "abbreviation": "Malaysia Time",
+    "abbreviation": "+08",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -1986,7 +1986,7 @@
   {
     "timezone": "Asia/Kuching",
     "name": "Malaysia Time",
-    "abbreviation": "Kuching Time",
+    "abbreviation": "+08",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -1994,7 +1994,7 @@
   {
     "timezone": "Asia/Kuwait",
     "name": "Arabian Standard Time",
-    "abbreviation": "Kuwait Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2002,7 +2002,7 @@
   {
     "timezone": "Asia/Macau",
     "name": "China Standard Time",
-    "abbreviation": "Macao SAR China Time",
+    "abbreviation": "CST",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -2010,7 +2010,7 @@
   {
     "timezone": "Asia/Magadan",
     "name": "Magadan Standard Time",
-    "abbreviation": "Magadan Time",
+    "abbreviation": "+11",
     "offset": "+11:00",
     "offset_minutes": 660,
     "dst": false
@@ -2018,7 +2018,7 @@
   {
     "timezone": "Asia/Makassar",
     "name": "Central Indonesia Time",
-    "abbreviation": "Makassar Time",
+    "abbreviation": "WITA",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -2026,7 +2026,7 @@
   {
     "timezone": "Asia/Manila",
     "name": "Philippine Standard Time",
-    "abbreviation": "Philippines Time",
+    "abbreviation": "PST",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -2034,7 +2034,7 @@
   {
     "timezone": "Asia/Muscat",
     "name": "Gulf Standard Time",
-    "abbreviation": "Oman Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -2042,7 +2042,7 @@
   {
     "timezone": "Asia/Nicosia",
     "name": "Eastern European Time",
-    "abbreviation": "Nicosia Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2050,7 +2050,7 @@
   {
     "timezone": "Asia/Novokuznetsk",
     "name": "Krasnoyarsk Standard Time",
-    "abbreviation": "Novokuznetsk Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -2058,7 +2058,7 @@
   {
     "timezone": "Asia/Novosibirsk",
     "name": "Krasnoyarsk Standard Time",
-    "abbreviation": "Novosibirsk Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -2066,7 +2066,7 @@
   {
     "timezone": "Asia/Omsk",
     "name": "Omsk Standard Time",
-    "abbreviation": "Omsk Time",
+    "abbreviation": "+06",
     "offset": "+06:00",
     "offset_minutes": 360,
     "dst": false
@@ -2074,7 +2074,7 @@
   {
     "timezone": "Asia/Oral",
     "name": "Kazakhstan Time",
-    "abbreviation": "Oral Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -2082,7 +2082,7 @@
   {
     "timezone": "Asia/Phnom_Penh",
     "name": "Indochina Time",
-    "abbreviation": "Cambodia Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -2090,7 +2090,7 @@
   {
     "timezone": "Asia/Pontianak",
     "name": "Western Indonesia Time",
-    "abbreviation": "Pontianak Time",
+    "abbreviation": "WIB",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -2098,7 +2098,7 @@
   {
     "timezone": "Asia/Pyongyang",
     "name": "Korean Standard Time",
-    "abbreviation": "North Korea Time",
+    "abbreviation": "KST",
     "offset": "+09:00",
     "offset_minutes": 540,
     "dst": false
@@ -2106,7 +2106,7 @@
   {
     "timezone": "Asia/Qatar",
     "name": "Arabian Standard Time",
-    "abbreviation": "Qatar Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2114,7 +2114,7 @@
   {
     "timezone": "Asia/Qostanay",
     "name": "Kazakhstan Time",
-    "abbreviation": "Kostanay Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -2122,7 +2122,7 @@
   {
     "timezone": "Asia/Qyzylorda",
     "name": "Kazakhstan Time",
-    "abbreviation": "Kyzylorda Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -2130,7 +2130,7 @@
   {
     "timezone": "Asia/Rangoon",
     "name": "Myanmar Time",
-    "abbreviation": "Myanmar (Burma) Time",
+    "abbreviation": "+0630",
     "offset": "+06:30",
     "offset_minutes": 390,
     "dst": false
@@ -2138,7 +2138,7 @@
   {
     "timezone": "Asia/Riyadh",
     "name": "Arabian Standard Time",
-    "abbreviation": "Saudi Arabia Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2146,7 +2146,7 @@
   {
     "timezone": "Asia/Saigon",
     "name": "Indochina Time",
-    "abbreviation": "Vietnam Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -2154,7 +2154,7 @@
   {
     "timezone": "Asia/Sakhalin",
     "name": "Magadan Standard Time",
-    "abbreviation": "Sakhalin Time",
+    "abbreviation": "+11",
     "offset": "+11:00",
     "offset_minutes": 660,
     "dst": false
@@ -2162,7 +2162,7 @@
   {
     "timezone": "Asia/Samarkand",
     "name": "Uzbekistan Standard Time",
-    "abbreviation": "Samarkand Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -2170,7 +2170,7 @@
   {
     "timezone": "Asia/Seoul",
     "name": "Korean Standard Time",
-    "abbreviation": "South Korea Time",
+    "abbreviation": "KST",
     "offset": "+09:00",
     "offset_minutes": 540,
     "dst": false
@@ -2178,7 +2178,7 @@
   {
     "timezone": "Asia/Shanghai",
     "name": "China Standard Time",
-    "abbreviation": "China Time",
+    "abbreviation": "CST",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -2186,7 +2186,7 @@
   {
     "timezone": "Asia/Singapore",
     "name": "Singapore Standard Time",
-    "abbreviation": "Singapore Time",
+    "abbreviation": "+08",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -2194,7 +2194,7 @@
   {
     "timezone": "Asia/Srednekolymsk",
     "name": "Magadan Standard Time",
-    "abbreviation": "Srednekolymsk Time",
+    "abbreviation": "+11",
     "offset": "+11:00",
     "offset_minutes": 660,
     "dst": false
@@ -2202,7 +2202,7 @@
   {
     "timezone": "Asia/Taipei",
     "name": "Taiwan Standard Time",
-    "abbreviation": "Taiwan Time",
+    "abbreviation": "CST",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -2210,7 +2210,7 @@
   {
     "timezone": "Asia/Tashkent",
     "name": "Uzbekistan Standard Time",
-    "abbreviation": "Uzbekistan Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -2218,7 +2218,7 @@
   {
     "timezone": "Asia/Tbilisi",
     "name": "Georgia Standard Time",
-    "abbreviation": "Georgia Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -2226,7 +2226,7 @@
   {
     "timezone": "Asia/Tehran",
     "name": "Iran Standard Time",
-    "abbreviation": "Iran Time",
+    "abbreviation": "+0330",
     "offset": "+03:30",
     "offset_minutes": 210,
     "dst": false
@@ -2234,7 +2234,7 @@
   {
     "timezone": "Asia/Thimphu",
     "name": "Bhutan Time",
-    "abbreviation": "Bhutan Time",
+    "abbreviation": "+06",
     "offset": "+06:00",
     "offset_minutes": 360,
     "dst": false
@@ -2242,7 +2242,7 @@
   {
     "timezone": "Asia/Tokyo",
     "name": "Japan Standard Time",
-    "abbreviation": "Japan Time",
+    "abbreviation": "JST",
     "offset": "+09:00",
     "offset_minutes": 540,
     "dst": false
@@ -2250,7 +2250,7 @@
   {
     "timezone": "Asia/Tomsk",
     "name": "Krasnoyarsk Standard Time",
-    "abbreviation": "Tomsk Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -2258,7 +2258,7 @@
   {
     "timezone": "Asia/Ulaanbaatar",
     "name": "Ulaanbaatar Standard Time",
-    "abbreviation": "Ulaanbaatar Time",
+    "abbreviation": "+08",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -2266,7 +2266,7 @@
   {
     "timezone": "Asia/Urumqi",
     "name": "Ürümqi Time",
-    "abbreviation": "Ürümqi Time",
+    "abbreviation": "+06",
     "offset": "+06:00",
     "offset_minutes": 360,
     "dst": false
@@ -2274,7 +2274,7 @@
   {
     "timezone": "Asia/Ust-Nera",
     "name": "Vladivostok Standard Time",
-    "abbreviation": "Ust-Nera Time",
+    "abbreviation": "+10",
     "offset": "+10:00",
     "offset_minutes": 600,
     "dst": false
@@ -2282,7 +2282,7 @@
   {
     "timezone": "Asia/Vientiane",
     "name": "Indochina Time",
-    "abbreviation": "Laos Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -2290,7 +2290,7 @@
   {
     "timezone": "Asia/Vladivostok",
     "name": "Vladivostok Standard Time",
-    "abbreviation": "Vladivostok Time",
+    "abbreviation": "+10",
     "offset": "+10:00",
     "offset_minutes": 600,
     "dst": false
@@ -2298,7 +2298,7 @@
   {
     "timezone": "Asia/Yakutsk",
     "name": "Yakutsk Standard Time",
-    "abbreviation": "Yakutsk Time",
+    "abbreviation": "+09",
     "offset": "+09:00",
     "offset_minutes": 540,
     "dst": false
@@ -2306,7 +2306,7 @@
   {
     "timezone": "Asia/Yekaterinburg",
     "name": "Yekaterinburg Standard Time",
-    "abbreviation": "Yekaterinburg Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -2314,7 +2314,7 @@
   {
     "timezone": "Asia/Yerevan",
     "name": "Armenia Standard Time",
-    "abbreviation": "Armenia Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -2322,7 +2322,7 @@
   {
     "timezone": "Atlantic/Azores",
     "name": "Azores Time",
-    "abbreviation": "Azores Time",
+    "abbreviation": "+00",
     "offset": "+00:00",
     "offset_minutes": 0,
     "dst": true
@@ -2338,7 +2338,7 @@
   {
     "timezone": "Atlantic/Canary",
     "name": "Western European Time",
-    "abbreviation": "Canaries Time",
+    "abbreviation": "WEST",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": true
@@ -2346,7 +2346,7 @@
   {
     "timezone": "Atlantic/Cape_Verde",
     "name": "Cape Verde Standard Time",
-    "abbreviation": "Cape Verde Time",
+    "abbreviation": "-01",
     "offset": "-01:00",
     "offset_minutes": -60,
     "dst": false
@@ -2354,7 +2354,7 @@
   {
     "timezone": "Atlantic/Faeroe",
     "name": "Western European Time",
-    "abbreviation": "Faroe Islands Time",
+    "abbreviation": "WEST",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": true
@@ -2362,7 +2362,7 @@
   {
     "timezone": "Atlantic/Madeira",
     "name": "Western European Time",
-    "abbreviation": "Madeira Time",
+    "abbreviation": "WEST",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": true
@@ -2378,7 +2378,7 @@
   {
     "timezone": "Atlantic/South_Georgia",
     "name": "South Georgia Time",
-    "abbreviation": "South Georgia & South Sandwich Islands Time",
+    "abbreviation": "-02",
     "offset": "-02:00",
     "offset_minutes": -120,
     "dst": false
@@ -2394,7 +2394,7 @@
   {
     "timezone": "Atlantic/Stanley",
     "name": "Falkland Islands Standard Time",
-    "abbreviation": "Falkland Islands Time",
+    "abbreviation": "-03",
     "offset": "-03:00",
     "offset_minutes": -180,
     "dst": false
@@ -2402,15 +2402,15 @@
   {
     "timezone": "Australia/Adelaide",
     "name": "Australian Central Time",
-    "abbreviation": "Adelaide Time",
-    "offset": "+09:30",
-    "offset_minutes": 570,
-    "dst": false
+    "abbreviation": "ACDT",
+    "offset": "+10:30",
+    "offset_minutes": 630,
+    "dst": true
   },
   {
     "timezone": "Australia/Brisbane",
     "name": "Australian Eastern Standard Time",
-    "abbreviation": "Brisbane Time",
+    "abbreviation": "AEST",
     "offset": "+10:00",
     "offset_minutes": 600,
     "dst": false
@@ -2418,15 +2418,15 @@
   {
     "timezone": "Australia/Broken_Hill",
     "name": "Australian Central Time",
-    "abbreviation": "Broken Hill Time",
-    "offset": "+09:30",
-    "offset_minutes": 570,
-    "dst": false
+    "abbreviation": "ACDT",
+    "offset": "+10:30",
+    "offset_minutes": 630,
+    "dst": true
   },
   {
     "timezone": "Australia/Darwin",
     "name": "Australian Central Standard Time",
-    "abbreviation": "Darwin Time",
+    "abbreviation": "ACST",
     "offset": "+09:30",
     "offset_minutes": 570,
     "dst": false
@@ -2434,7 +2434,7 @@
   {
     "timezone": "Australia/Eucla",
     "name": "Australian Central Western Standard Time",
-    "abbreviation": "Eucla Time",
+    "abbreviation": "+0845",
     "offset": "+08:45",
     "offset_minutes": 525,
     "dst": false
@@ -2442,15 +2442,15 @@
   {
     "timezone": "Australia/Hobart",
     "name": "Australian Eastern Time",
-    "abbreviation": "Hobart Time",
-    "offset": "+10:00",
-    "offset_minutes": 600,
-    "dst": false
+    "abbreviation": "AEDT",
+    "offset": "+11:00",
+    "offset_minutes": 660,
+    "dst": true
   },
   {
     "timezone": "Australia/Lindeman",
     "name": "Australian Eastern Standard Time",
-    "abbreviation": "Lindeman Time",
+    "abbreviation": "AEST",
     "offset": "+10:00",
     "offset_minutes": 600,
     "dst": false
@@ -2458,23 +2458,23 @@
   {
     "timezone": "Australia/Lord_Howe",
     "name": "Lord Howe Time",
-    "abbreviation": "Lord Howe Island Time",
-    "offset": "+10:30",
-    "offset_minutes": 630,
-    "dst": false
+    "abbreviation": "+11",
+    "offset": "+11:00",
+    "offset_minutes": 660,
+    "dst": true
   },
   {
     "timezone": "Australia/Melbourne",
     "name": "Australian Eastern Time",
-    "abbreviation": "Melbourne Time",
-    "offset": "+10:00",
-    "offset_minutes": 600,
-    "dst": false
+    "abbreviation": "AEDT",
+    "offset": "+11:00",
+    "offset_minutes": 660,
+    "dst": true
   },
   {
     "timezone": "Australia/Perth",
     "name": "Australian Western Standard Time",
-    "abbreviation": "Perth Time",
+    "abbreviation": "AWST",
     "offset": "+08:00",
     "offset_minutes": 480,
     "dst": false
@@ -2482,15 +2482,15 @@
   {
     "timezone": "Australia/Sydney",
     "name": "Australian Eastern Time",
-    "abbreviation": "Sydney Time",
-    "offset": "+10:00",
-    "offset_minutes": 600,
-    "dst": false
+    "abbreviation": "AEDT",
+    "offset": "+11:00",
+    "offset_minutes": 660,
+    "dst": true
   },
   {
     "timezone": "Europe/Amsterdam",
     "name": "Central European Time",
-    "abbreviation": "Netherlands Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2498,7 +2498,7 @@
   {
     "timezone": "Europe/Andorra",
     "name": "Central European Time",
-    "abbreviation": "Andorra Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2506,7 +2506,7 @@
   {
     "timezone": "Europe/Astrakhan",
     "name": "Samara Standard Time",
-    "abbreviation": "Astrakhan Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -2514,7 +2514,7 @@
   {
     "timezone": "Europe/Athens",
     "name": "Eastern European Time",
-    "abbreviation": "Greece Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2522,7 +2522,7 @@
   {
     "timezone": "Europe/Belgrade",
     "name": "Central European Time",
-    "abbreviation": "Serbia Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2530,7 +2530,7 @@
   {
     "timezone": "Europe/Berlin",
     "name": "Central European Time",
-    "abbreviation": "Germany Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2538,7 +2538,7 @@
   {
     "timezone": "Europe/Bratislava",
     "name": "Central European Time",
-    "abbreviation": "Slovakia Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2546,7 +2546,7 @@
   {
     "timezone": "Europe/Brussels",
     "name": "Central European Time",
-    "abbreviation": "Belgium Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2554,7 +2554,7 @@
   {
     "timezone": "Europe/Bucharest",
     "name": "Eastern European Time",
-    "abbreviation": "Romania Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2562,7 +2562,7 @@
   {
     "timezone": "Europe/Budapest",
     "name": "Central European Time",
-    "abbreviation": "Hungary Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2570,7 +2570,7 @@
   {
     "timezone": "Europe/Busingen",
     "name": "Central European Time",
-    "abbreviation": "Büsingen Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2578,7 +2578,7 @@
   {
     "timezone": "Europe/Chisinau",
     "name": "Eastern European Time",
-    "abbreviation": "Moldova Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2586,7 +2586,7 @@
   {
     "timezone": "Europe/Copenhagen",
     "name": "Central European Time",
-    "abbreviation": "Denmark Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2594,15 +2594,15 @@
   {
     "timezone": "Europe/Dublin",
     "name": "Ireland Time",
-    "abbreviation": "Ireland Time",
+    "abbreviation": "IST",
     "offset": "+01:00",
     "offset_minutes": 60,
-    "dst": true
+    "dst": false
   },
   {
     "timezone": "Europe/Gibraltar",
     "name": "Central European Time",
-    "abbreviation": "Gibraltar Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2610,7 +2610,7 @@
   {
     "timezone": "Europe/Guernsey",
     "name": "Guernsey Time",
-    "abbreviation": "Guernsey Time",
+    "abbreviation": "BST",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": true
@@ -2618,7 +2618,7 @@
   {
     "timezone": "Europe/Helsinki",
     "name": "Eastern European Time",
-    "abbreviation": "Finland Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2626,7 +2626,7 @@
   {
     "timezone": "Europe/Isle_of_Man",
     "name": "Isle of Man Time",
-    "abbreviation": "Isle of Man Time",
+    "abbreviation": "BST",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": true
@@ -2634,7 +2634,7 @@
   {
     "timezone": "Europe/Istanbul",
     "name": "Türkiye Standard Time",
-    "abbreviation": "Türkiye Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2642,7 +2642,7 @@
   {
     "timezone": "Europe/Jersey",
     "name": "Jersey Time",
-    "abbreviation": "Jersey Time",
+    "abbreviation": "BST",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": true
@@ -2650,7 +2650,7 @@
   {
     "timezone": "Europe/Kaliningrad",
     "name": "Eastern European Standard Time",
-    "abbreviation": "Kaliningrad Time",
+    "abbreviation": "EET",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": false
@@ -2658,7 +2658,7 @@
   {
     "timezone": "Europe/Kiev",
     "name": "Eastern European Time",
-    "abbreviation": "Ukraine Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2666,7 +2666,7 @@
   {
     "timezone": "Europe/Kirov",
     "name": "Moscow Standard Time",
-    "abbreviation": "Kirov Time",
+    "abbreviation": "MSK",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2674,7 +2674,7 @@
   {
     "timezone": "Europe/Lisbon",
     "name": "Western European Time",
-    "abbreviation": "Portugal Time",
+    "abbreviation": "WEST",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": true
@@ -2682,7 +2682,7 @@
   {
     "timezone": "Europe/Ljubljana",
     "name": "Central European Time",
-    "abbreviation": "Slovenia Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2690,7 +2690,7 @@
   {
     "timezone": "Europe/London",
     "name": "United Kingdom Time",
-    "abbreviation": "United Kingdom Time",
+    "abbreviation": "BST",
     "offset": "+01:00",
     "offset_minutes": 60,
     "dst": true
@@ -2698,7 +2698,7 @@
   {
     "timezone": "Europe/Luxembourg",
     "name": "Central European Time",
-    "abbreviation": "Luxembourg Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2706,7 +2706,7 @@
   {
     "timezone": "Europe/Madrid",
     "name": "Central European Time",
-    "abbreviation": "Spain Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2714,7 +2714,7 @@
   {
     "timezone": "Europe/Malta",
     "name": "Central European Time",
-    "abbreviation": "Malta Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2722,7 +2722,7 @@
   {
     "timezone": "Europe/Mariehamn",
     "name": "Eastern European Time",
-    "abbreviation": "Åland Islands Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2730,7 +2730,7 @@
   {
     "timezone": "Europe/Minsk",
     "name": "Moscow Standard Time",
-    "abbreviation": "Belarus Time",
+    "abbreviation": "+03",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2738,7 +2738,7 @@
   {
     "timezone": "Europe/Monaco",
     "name": "Central European Time",
-    "abbreviation": "Monaco Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2746,7 +2746,7 @@
   {
     "timezone": "Europe/Moscow",
     "name": "Moscow Standard Time",
-    "abbreviation": "Moscow Time",
+    "abbreviation": "MSK",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2754,7 +2754,7 @@
   {
     "timezone": "Europe/Oslo",
     "name": "Central European Time",
-    "abbreviation": "Norway Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2762,7 +2762,7 @@
   {
     "timezone": "Europe/Paris",
     "name": "Central European Time",
-    "abbreviation": "France Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2770,7 +2770,7 @@
   {
     "timezone": "Europe/Podgorica",
     "name": "Central European Time",
-    "abbreviation": "Montenegro Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2778,7 +2778,7 @@
   {
     "timezone": "Europe/Prague",
     "name": "Central European Time",
-    "abbreviation": "Czechia Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2786,7 +2786,7 @@
   {
     "timezone": "Europe/Riga",
     "name": "Eastern European Time",
-    "abbreviation": "Latvia Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2794,7 +2794,7 @@
   {
     "timezone": "Europe/Rome",
     "name": "Central European Time",
-    "abbreviation": "Italy Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2802,7 +2802,7 @@
   {
     "timezone": "Europe/Samara",
     "name": "Samara Standard Time",
-    "abbreviation": "Samara Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -2810,7 +2810,7 @@
   {
     "timezone": "Europe/San_Marino",
     "name": "Central European Time",
-    "abbreviation": "San Marino Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2818,7 +2818,7 @@
   {
     "timezone": "Europe/Sarajevo",
     "name": "Central European Time",
-    "abbreviation": "Bosnia & Herzegovina Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2826,7 +2826,7 @@
   {
     "timezone": "Europe/Saratov",
     "name": "Samara Standard Time",
-    "abbreviation": "Saratov Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -2834,7 +2834,7 @@
   {
     "timezone": "Europe/Simferopol",
     "name": "Moscow Standard Time",
-    "abbreviation": "Simferopol Time",
+    "abbreviation": "MSK",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2842,7 +2842,7 @@
   {
     "timezone": "Europe/Skopje",
     "name": "Central European Time",
-    "abbreviation": "North Macedonia Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2850,7 +2850,7 @@
   {
     "timezone": "Europe/Sofia",
     "name": "Eastern European Time",
-    "abbreviation": "Bulgaria Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2858,7 +2858,7 @@
   {
     "timezone": "Europe/Stockholm",
     "name": "Central European Time",
-    "abbreviation": "Sweden Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2866,7 +2866,7 @@
   {
     "timezone": "Europe/Tallinn",
     "name": "Eastern European Time",
-    "abbreviation": "Estonia Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2874,7 +2874,7 @@
   {
     "timezone": "Europe/Tirane",
     "name": "Central European Time",
-    "abbreviation": "Albania Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2882,7 +2882,7 @@
   {
     "timezone": "Europe/Ulyanovsk",
     "name": "Samara Standard Time",
-    "abbreviation": "Ulyanovsk Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -2890,7 +2890,7 @@
   {
     "timezone": "Europe/Vaduz",
     "name": "Central European Time",
-    "abbreviation": "Liechtenstein Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2898,7 +2898,7 @@
   {
     "timezone": "Europe/Vatican",
     "name": "Central European Time",
-    "abbreviation": "Vatican City Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2906,7 +2906,7 @@
   {
     "timezone": "Europe/Vienna",
     "name": "Central European Time",
-    "abbreviation": "Austria Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2914,7 +2914,7 @@
   {
     "timezone": "Europe/Vilnius",
     "name": "Eastern European Time",
-    "abbreviation": "Lithuania Time",
+    "abbreviation": "EEST",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": true
@@ -2922,7 +2922,7 @@
   {
     "timezone": "Europe/Volgograd",
     "name": "Moscow Standard Time",
-    "abbreviation": "Volgograd Time",
+    "abbreviation": "MSK",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2930,7 +2930,7 @@
   {
     "timezone": "Europe/Warsaw",
     "name": "Central European Time",
-    "abbreviation": "Poland Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2938,7 +2938,7 @@
   {
     "timezone": "Europe/Zagreb",
     "name": "Central European Time",
-    "abbreviation": "Croatia Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2946,7 +2946,7 @@
   {
     "timezone": "Europe/Zurich",
     "name": "Central European Time",
-    "abbreviation": "Switzerland Time",
+    "abbreviation": "CEST",
     "offset": "+02:00",
     "offset_minutes": 120,
     "dst": true
@@ -2954,7 +2954,7 @@
   {
     "timezone": "Indian/Antananarivo",
     "name": "East Africa Time",
-    "abbreviation": "Madagascar Time",
+    "abbreviation": "EAT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2962,7 +2962,7 @@
   {
     "timezone": "Indian/Chagos",
     "name": "Indian Ocean Time",
-    "abbreviation": "British Indian Ocean Territory Time",
+    "abbreviation": "+06",
     "offset": "+06:00",
     "offset_minutes": 360,
     "dst": false
@@ -2970,7 +2970,7 @@
   {
     "timezone": "Indian/Christmas",
     "name": "Christmas Island Time",
-    "abbreviation": "Christmas Island Time",
+    "abbreviation": "+07",
     "offset": "+07:00",
     "offset_minutes": 420,
     "dst": false
@@ -2978,7 +2978,7 @@
   {
     "timezone": "Indian/Cocos",
     "name": "Cocos Islands Time",
-    "abbreviation": "Cocos (Keeling) Islands Time",
+    "abbreviation": "+0630",
     "offset": "+06:30",
     "offset_minutes": 390,
     "dst": false
@@ -2986,7 +2986,7 @@
   {
     "timezone": "Indian/Comoro",
     "name": "East Africa Time",
-    "abbreviation": "Comoros Time",
+    "abbreviation": "EAT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -2994,7 +2994,7 @@
   {
     "timezone": "Indian/Kerguelen",
     "name": "French Southern & Antarctic Time",
-    "abbreviation": "French Southern Territories Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -3002,7 +3002,7 @@
   {
     "timezone": "Indian/Mahe",
     "name": "Seychelles Time",
-    "abbreviation": "Seychelles Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -3010,7 +3010,7 @@
   {
     "timezone": "Indian/Maldives",
     "name": "Maldives Time",
-    "abbreviation": "Maldives Time",
+    "abbreviation": "+05",
     "offset": "+05:00",
     "offset_minutes": 300,
     "dst": false
@@ -3018,7 +3018,7 @@
   {
     "timezone": "Indian/Mauritius",
     "name": "Mauritius Standard Time",
-    "abbreviation": "Mauritius Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -3026,7 +3026,7 @@
   {
     "timezone": "Indian/Mayotte",
     "name": "East Africa Time",
-    "abbreviation": "Mayotte Time",
+    "abbreviation": "EAT",
     "offset": "+03:00",
     "offset_minutes": 180,
     "dst": false
@@ -3034,7 +3034,7 @@
   {
     "timezone": "Indian/Reunion",
     "name": "Réunion Time",
-    "abbreviation": "Réunion Time",
+    "abbreviation": "+04",
     "offset": "+04:00",
     "offset_minutes": 240,
     "dst": false
@@ -3042,7 +3042,7 @@
   {
     "timezone": "Pacific/Apia",
     "name": "Samoa Standard Time",
-    "abbreviation": "Samoa Time",
+    "abbreviation": "+13",
     "offset": "+13:00",
     "offset_minutes": 780,
     "dst": false
@@ -3050,15 +3050,15 @@
   {
     "timezone": "Pacific/Auckland",
     "name": "New Zealand Time",
-    "abbreviation": "New Zealand Time",
-    "offset": "+12:00",
-    "offset_minutes": 720,
-    "dst": false
+    "abbreviation": "NZDT",
+    "offset": "+13:00",
+    "offset_minutes": 780,
+    "dst": true
   },
   {
     "timezone": "Pacific/Bougainville",
     "name": "Bougainville Time",
-    "abbreviation": "Bougainville Time",
+    "abbreviation": "+11",
     "offset": "+11:00",
     "offset_minutes": 660,
     "dst": false
@@ -3066,23 +3066,23 @@
   {
     "timezone": "Pacific/Chatham",
     "name": "Chatham Time",
-    "abbreviation": "Chatham Islands Time",
-    "offset": "+12:45",
-    "offset_minutes": 765,
-    "dst": false
+    "abbreviation": "+1345",
+    "offset": "+13:45",
+    "offset_minutes": 825,
+    "dst": true
   },
   {
     "timezone": "Pacific/Easter",
     "name": "Easter Island Time",
-    "abbreviation": "Easter Island Time",
-    "offset": "-06:00",
-    "offset_minutes": -360,
-    "dst": false
+    "abbreviation": "-05",
+    "offset": "-05:00",
+    "offset_minutes": -300,
+    "dst": true
   },
   {
     "timezone": "Pacific/Efate",
     "name": "Vanuatu Standard Time",
-    "abbreviation": "Vanuatu Time",
+    "abbreviation": "+11",
     "offset": "+11:00",
     "offset_minutes": 660,
     "dst": false
@@ -3090,7 +3090,7 @@
   {
     "timezone": "Pacific/Enderbury",
     "name": "Phoenix Islands Time",
-    "abbreviation": "Canton Island Time",
+    "abbreviation": "+13",
     "offset": "+13:00",
     "offset_minutes": 780,
     "dst": false
@@ -3098,7 +3098,7 @@
   {
     "timezone": "Pacific/Fakaofo",
     "name": "Tokelau Time",
-    "abbreviation": "Tokelau Time",
+    "abbreviation": "+13",
     "offset": "+13:00",
     "offset_minutes": 780,
     "dst": false
@@ -3106,7 +3106,7 @@
   {
     "timezone": "Pacific/Fiji",
     "name": "Fiji Standard Time",
-    "abbreviation": "Fiji Time",
+    "abbreviation": "+12",
     "offset": "+12:00",
     "offset_minutes": 720,
     "dst": false
@@ -3114,7 +3114,7 @@
   {
     "timezone": "Pacific/Funafuti",
     "name": "Tuvalu Time",
-    "abbreviation": "Tuvalu Time",
+    "abbreviation": "+12",
     "offset": "+12:00",
     "offset_minutes": 720,
     "dst": false
@@ -3122,7 +3122,7 @@
   {
     "timezone": "Pacific/Galapagos",
     "name": "Galapagos Time",
-    "abbreviation": "Galápagos Islands Time",
+    "abbreviation": "-06",
     "offset": "-06:00",
     "offset_minutes": -360,
     "dst": false
@@ -3130,7 +3130,7 @@
   {
     "timezone": "Pacific/Gambier",
     "name": "Gambier Time",
-    "abbreviation": "Gambier Time",
+    "abbreviation": "-09",
     "offset": "-09:00",
     "offset_minutes": -540,
     "dst": false
@@ -3138,7 +3138,7 @@
   {
     "timezone": "Pacific/Guadalcanal",
     "name": "Solomon Islands Time",
-    "abbreviation": "Solomon Islands Time",
+    "abbreviation": "+11",
     "offset": "+11:00",
     "offset_minutes": 660,
     "dst": false
@@ -3146,7 +3146,7 @@
   {
     "timezone": "Pacific/Guam",
     "name": "Chamorro Standard Time",
-    "abbreviation": "Guam Time",
+    "abbreviation": "ChST",
     "offset": "+10:00",
     "offset_minutes": 600,
     "dst": false
@@ -3162,7 +3162,7 @@
   {
     "timezone": "Pacific/Kiritimati",
     "name": "Line Islands Time",
-    "abbreviation": "Kiritimati Time",
+    "abbreviation": "+14",
     "offset": "+14:00",
     "offset_minutes": 840,
     "dst": false
@@ -3170,7 +3170,7 @@
   {
     "timezone": "Pacific/Kosrae",
     "name": "Kosrae Time",
-    "abbreviation": "Kosrae Time",
+    "abbreviation": "+11",
     "offset": "+11:00",
     "offset_minutes": 660,
     "dst": false
@@ -3178,7 +3178,7 @@
   {
     "timezone": "Pacific/Kwajalein",
     "name": "Marshall Islands Time",
-    "abbreviation": "Kwajalein Atoll Time",
+    "abbreviation": "+12",
     "offset": "+12:00",
     "offset_minutes": 720,
     "dst": false
@@ -3186,7 +3186,7 @@
   {
     "timezone": "Pacific/Majuro",
     "name": "Marshall Islands Time",
-    "abbreviation": "Marshall Islands Time",
+    "abbreviation": "+12",
     "offset": "+12:00",
     "offset_minutes": 720,
     "dst": false
@@ -3194,7 +3194,7 @@
   {
     "timezone": "Pacific/Marquesas",
     "name": "Marquesas Time",
-    "abbreviation": "Marquesas Islands Time",
+    "abbreviation": "-0930",
     "offset": "-09:30",
     "offset_minutes": -570,
     "dst": false
@@ -3202,7 +3202,7 @@
   {
     "timezone": "Pacific/Midway",
     "name": "American Samoa Standard Time",
-    "abbreviation": "Midway Atoll Time",
+    "abbreviation": "SST",
     "offset": "-11:00",
     "offset_minutes": -660,
     "dst": false
@@ -3210,7 +3210,7 @@
   {
     "timezone": "Pacific/Nauru",
     "name": "Nauru Time",
-    "abbreviation": "Nauru Time",
+    "abbreviation": "+12",
     "offset": "+12:00",
     "offset_minutes": 720,
     "dst": false
@@ -3218,7 +3218,7 @@
   {
     "timezone": "Pacific/Niue",
     "name": "Niue Time",
-    "abbreviation": "Niue Time",
+    "abbreviation": "-11",
     "offset": "-11:00",
     "offset_minutes": -660,
     "dst": false
@@ -3226,15 +3226,15 @@
   {
     "timezone": "Pacific/Norfolk",
     "name": "Norfolk Island Time",
-    "abbreviation": "Norfolk Island Time",
-    "offset": "+11:00",
-    "offset_minutes": 660,
-    "dst": false
+    "abbreviation": "+12",
+    "offset": "+12:00",
+    "offset_minutes": 720,
+    "dst": true
   },
   {
     "timezone": "Pacific/Noumea",
     "name": "New Caledonia Standard Time",
-    "abbreviation": "New Caledonia Time",
+    "abbreviation": "+11",
     "offset": "+11:00",
     "offset_minutes": 660,
     "dst": false
@@ -3242,7 +3242,7 @@
   {
     "timezone": "Pacific/Pago_Pago",
     "name": "American Samoa Standard Time",
-    "abbreviation": "American Samoa Time",
+    "abbreviation": "SST",
     "offset": "-11:00",
     "offset_minutes": -660,
     "dst": false
@@ -3250,7 +3250,7 @@
   {
     "timezone": "Pacific/Palau",
     "name": "Palau Time",
-    "abbreviation": "Palau Time",
+    "abbreviation": "+09",
     "offset": "+09:00",
     "offset_minutes": 540,
     "dst": false
@@ -3258,7 +3258,7 @@
   {
     "timezone": "Pacific/Pitcairn",
     "name": "Pitcairn Time",
-    "abbreviation": "Pitcairn Islands Time",
+    "abbreviation": "-08",
     "offset": "-08:00",
     "offset_minutes": -480,
     "dst": false
@@ -3266,7 +3266,7 @@
   {
     "timezone": "Pacific/Ponape",
     "name": "Pohnpei Time",
-    "abbreviation": "Pohnpei Time",
+    "abbreviation": "+11",
     "offset": "+11:00",
     "offset_minutes": 660,
     "dst": false
@@ -3274,7 +3274,7 @@
   {
     "timezone": "Pacific/Port_Moresby",
     "name": "Papua New Guinea Time",
-    "abbreviation": "Port Moresby Time",
+    "abbreviation": "+10",
     "offset": "+10:00",
     "offset_minutes": 600,
     "dst": false
@@ -3282,7 +3282,7 @@
   {
     "timezone": "Pacific/Rarotonga",
     "name": "Cook Islands Standard Time",
-    "abbreviation": "Cook Islands Time",
+    "abbreviation": "-10",
     "offset": "-10:00",
     "offset_minutes": -600,
     "dst": false
@@ -3290,7 +3290,7 @@
   {
     "timezone": "Pacific/Saipan",
     "name": "Chamorro Standard Time",
-    "abbreviation": "Northern Mariana Islands Time",
+    "abbreviation": "ChST",
     "offset": "+10:00",
     "offset_minutes": 600,
     "dst": false
@@ -3298,7 +3298,7 @@
   {
     "timezone": "Pacific/Tahiti",
     "name": "Tahiti Time",
-    "abbreviation": "Tahiti Time",
+    "abbreviation": "-10",
     "offset": "-10:00",
     "offset_minutes": -600,
     "dst": false
@@ -3306,7 +3306,7 @@
   {
     "timezone": "Pacific/Tarawa",
     "name": "Gilbert Islands Time",
-    "abbreviation": "Tarawa Time",
+    "abbreviation": "+12",
     "offset": "+12:00",
     "offset_minutes": 720,
     "dst": false
@@ -3314,7 +3314,7 @@
   {
     "timezone": "Pacific/Tongatapu",
     "name": "Tonga Standard Time",
-    "abbreviation": "Tonga Time",
+    "abbreviation": "+13",
     "offset": "+13:00",
     "offset_minutes": 780,
     "dst": false
@@ -3322,7 +3322,7 @@
   {
     "timezone": "Pacific/Truk",
     "name": "Chuuk Time",
-    "abbreviation": "Chuuk Time",
+    "abbreviation": "+10",
     "offset": "+10:00",
     "offset_minutes": 600,
     "dst": false
@@ -3330,7 +3330,7 @@
   {
     "timezone": "Pacific/Wake",
     "name": "Wake Island Time",
-    "abbreviation": "Wake Island Time",
+    "abbreviation": "+12",
     "offset": "+12:00",
     "offset_minutes": 720,
     "dst": false
@@ -3338,7 +3338,7 @@
   {
     "timezone": "Pacific/Wallis",
     "name": "Wallis & Futuna Time",
-    "abbreviation": "Wallis & Futuna Time",
+    "abbreviation": "+12",
     "offset": "+12:00",
     "offset_minutes": 720,
     "dst": false
